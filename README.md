@@ -128,6 +128,7 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [iApps](https://t.me/iapps_ipa) | [whoeevee](https://github.com/whoeevee/EeveeSpotify) / [EeveeSpotify IPAs](https://t.me/SpotilifeIPAs) |
     | [Ty Family](https://t.me/Tyfamilycertipa) | [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) |
     | [MaxiTech IPAs](https://t.me/MaxiiTech) | [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) |
+    | [ONE Jailbreak IPAs](https://onejailbreak.com) | [ONE Jailbreak TIPAs](https://onejailbreak.com/categories/apps/trollstore-apps/) |
 
    *Reposters **are not** automatically **unsafe or malicious** (unless specified); they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.
 
