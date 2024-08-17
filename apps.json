@@ -4,6 +4,155 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "OVFEditorPremium",
+      "bundleIdentifier": "com.mutaeb.OVF-Editor",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png",
+      "versions": [
+        {
+          "version": "5.0.1",
+          "date": "2024-08-17",
+          "size": 41848347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2024/OVFEditorPremium-5.0.1.ipa",
+          "localizedDescription": "Detected by snapchat and flagged as a \"Media Upload\" text on the top left corner of snaps.\nLast updated: 08-17-2024\nStatus: \u274c"
+        }
+      ]
+    },
+    {
+      "name": "VSCOPremium",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
+      "versions": [
+        {
+          "version": "387.0.0",
+          "date": "2024-08-17",
+          "size": 140038504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2024/VSCOPremium-387.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "384.0.0",
+          "date": "2024-07-30",
+          "size": 136556136,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/VSCOPremium-384.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "381.0.0",
+          "date": "2024-07-09",
+          "size": 120854501,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/VSCOPremium-381.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "379.0.0",
+          "date": "2024-06-27",
+          "size": 121070246,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/VSCOPremium-379.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "377.0.0",
+          "date": "2024-06-07",
+          "size": 121917984,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-07-2024/VSCOPremium-377.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "376.0.1",
+          "date": "2024-06-02",
+          "size": 121742313,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/VSCOPremium-376.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "375.0",
+          "date": "2024-05-24",
+          "size": 121725355,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2024/VSCOPremium-375.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "373.0",
+          "date": "2024-05-15",
+          "size": 121616504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VSCOPremium-373.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "372.0",
+          "date": "2024-05-04",
+          "size": 120648502,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "371.0",
+          "date": "2024-04-29",
+          "size": 120599686,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VSCOPremium-371.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "370.0",
+          "date": "2024-04-21",
+          "size": 119912875,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/VSCOPremium-370.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "368.0",
+          "date": "2024-04-13",
+          "size": 119024411,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/VSCOPremium-368.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "366.0",
+          "date": "2024-03-31",
+          "size": 119535206,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "362.0",
+          "date": "2024-03-01",
+          "size": 119138442,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/VSCOPremium-362.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "361.0",
+          "date": "2024-02-21",
+          "size": 118977867,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VSCOPremium-361.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "359.0.1",
+          "date": "2024-02-09",
+          "size": 119124395,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/VSCOPremium-359.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "355.0.1",
+          "date": "2024-01-13",
+          "size": 117025196,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/VSCOPremium-355.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        },
+        {
+          "version": "306.0.0",
+          "date": "2023-02-08",
+          "size": 110193844,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1 / Sultan Mods / binnichtaktiv's iPA Library / nowesr1",
@@ -8327,133 +8476,6 @@
           "size": 138906790,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/MuslimProPlus-15.2.1.ipa",
           "localizedDescription": "Deepen your commitment to Islam with Muslim Pro as your app companion. Enjoy a brand new experience with personalized learning and memorization tools, explore our new AI bot that can answer your Islamic questions at any time, and watch exciting Ramadan shows exclusively on Qalbox. Note: AI feature is unavailable.\nLast updated: 07-30-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "VSCOPremium",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
-      "versions": [
-        {
-          "version": "384.0.0",
-          "date": "2024-07-30",
-          "size": 136556136,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/VSCOPremium-384.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "381.0.0",
-          "date": "2024-07-09",
-          "size": 120854501,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/VSCOPremium-381.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "379.0.0",
-          "date": "2024-06-27",
-          "size": 121070246,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/VSCOPremium-379.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "377.0.0",
-          "date": "2024-06-07",
-          "size": 121917984,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-07-2024/VSCOPremium-377.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "376.0.1",
-          "date": "2024-06-02",
-          "size": 121742313,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/VSCOPremium-376.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "375.0",
-          "date": "2024-05-24",
-          "size": 121725355,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2024/VSCOPremium-375.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "373.0",
-          "date": "2024-05-15",
-          "size": 121616504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VSCOPremium-373.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "372.0",
-          "date": "2024-05-04",
-          "size": 120648502,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "371.0",
-          "date": "2024-04-29",
-          "size": 120599686,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VSCOPremium-371.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "370.0",
-          "date": "2024-04-21",
-          "size": 119912875,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/VSCOPremium-370.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "368.0",
-          "date": "2024-04-13",
-          "size": 119024411,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/VSCOPremium-368.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "366.0",
-          "date": "2024-03-31",
-          "size": 119535206,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "362.0",
-          "date": "2024-03-01",
-          "size": 119138442,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/VSCOPremium-362.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "361.0",
-          "date": "2024-02-21",
-          "size": 118977867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VSCOPremium-361.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "359.0.1",
-          "date": "2024-02-09",
-          "size": 119124395,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/VSCOPremium-359.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "355.0.1",
-          "date": "2024-01-13",
-          "size": 117025196,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/VSCOPremium-355.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
-        },
-        {
-          "version": "306.0.0",
-          "date": "2023-02-08",
-          "size": 110193844,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: \u2705"
         }
       ]
     },
@@ -17839,42 +17861,6 @@
           "size": 102336206,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/Egg3DS-1.0.ipa",
           "localizedDescription": "3DS emulator for iOS, apparently needs a special controller to work, test at your own discretion\nLast updated: 09-23-2023\nStatus: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
-      "name": "OVFEditor",
-      "bundleIdentifier": "com.mutaeb.OVF-Editor",
-      "developerName": "DPixel / zxcvbn\u2019s tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png",
-      "versions": [
-        {
-          "version": "4.0.1",
-          "date": "2023-09-21",
-          "size": 20245858,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/OVFEditor-4.0.1.ipa",
-          "localizedDescription": "Detected by snapchat and flagged as a \"Media Upload\" text on the top left corner.\nLast updated: 07-27-2024\nStatus: \u274c"
-        },
-        {
-          "version": "3.5.9",
-          "date": "2023-02-26",
-          "size": 30025366,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/OVFEditor-3.5.9.ipa",
-          "localizedDescription": "Detected by snapchat and flagged as a \"Media Upload\" text on the top left corner.\nLast updated: 07-27-2024\nStatus: \u274c"
-        },
-        {
-          "version": "3.5.5",
-          "date": "2023-01-01",
-          "size": 32646378,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/OVFEditor-3.5.5.ipa",
-          "localizedDescription": "Detected by snapchat and flagged as a \"Media Upload\" text on the top left corner.\nLast updated: 07-27-2024\nStatus: \u274c"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 15338120,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/OVFEditor.ipa",
-          "localizedDescription": "Detected by snapchat and flagged as a \"Media Upload\" text on the top left corner.\nLast updated: 07-27-2024\nStatus: \u274c"
         }
       ]
     },
