@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Salatuk",
+      "bundleIdentifier": "com.masaratapp.salatuk",
+      "version": "2.1.0",
+      "versionDate": "2024-08-18",
+      "size": 54823320,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-18-2024/Salatuk-2.1.0.ipa",
+      "developerName": "Sultan Mods",
+      "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png"
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "version": "2.5-3",
+      "versionDate": "2024-08-18",
+      "size": 3383534,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-18-2024/TrollFools-2.5-3.ipa",
+      "developerName": "Lessica / trollfools",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
+    },
+    {
       "name": "OVFEditorPremium",
       "bundleIdentifier": "com.mutaeb.OVF-Editor",
       "version": "5.0.1",
@@ -616,7 +638,7 @@
       "size": 42871421,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/Salatuk-2.0.9.ipa",
       "developerName": "Sultan Mods",
-      "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-18-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png"
     },
     {
@@ -1221,7 +1243,7 @@
       "size": 3376019,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2024/TrollFools-2.5-2.ipa",
       "developerName": "Lessica / trollfools",
-      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
     },
     {
@@ -1254,7 +1276,7 @@
       "size": 3371615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/TrollFools-2.4-2.ipa",
       "developerName": "Lessica / trollfools",
-      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
     },
     {
@@ -1386,7 +1408,7 @@
       "size": 3247279,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/TrollFools-2.4-1.ipa",
       "developerName": "Lessica / trollfools",
-      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
     },
     {
@@ -1485,7 +1507,7 @@
       "size": 3242975,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/TrollFools-2.3-5.ipa",
       "developerName": "Lessica / trollfools",
-      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
     },
     {
@@ -1551,7 +1573,7 @@
       "size": 3141310,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/TrollFools-2.1-6.ipa",
       "developerName": "Lessica / trollfools",
-      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
     },
     {
@@ -1606,7 +1628,7 @@
       "size": 28248614,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-2.0-2.ipa",
       "developerName": "Lessica / trollfools",
-      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
     },
     {

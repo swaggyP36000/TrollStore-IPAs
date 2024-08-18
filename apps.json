@@ -4,6 +4,85 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Salatuk",
+      "bundleIdentifier": "com.masaratapp.salatuk",
+      "developerName": "Sultan Mods",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2024-08-18",
+          "size": 54823320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-18-2024/Salatuk-2.1.0.ipa",
+          "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.0.9",
+          "date": "2024-08-08",
+          "size": 42871421,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/Salatuk-2.0.9.ipa",
+          "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-18-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "developerName": "Lessica / trollfools",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
+      "versions": [
+        {
+          "version": "2.5-3",
+          "date": "2024-08-18",
+          "size": 3383534,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-18-2024/TrollFools-2.5-3.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-2",
+          "date": "2024-07-28",
+          "size": 3376019,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2024/TrollFools-2.5-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-2",
+          "date": "2024-07-27",
+          "size": 3371615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/TrollFools-2.4-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-1",
+          "date": "2024-07-24",
+          "size": 3247279,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/TrollFools-2.4-1.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3-5",
+          "date": "2024-07-23",
+          "size": 3242975,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/TrollFools-2.3-5.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.1-6",
+          "date": "2024-07-22",
+          "size": 3141310,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/TrollFools-2.1-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.0-2",
+          "date": "2024-07-21",
+          "size": 28248614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-2.0-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
       "name": "OVFEditorPremium",
       "bundleIdentifier": "com.mutaeb.OVF-Editor",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -5941,21 +6020,6 @@
       ]
     },
     {
-      "name": "Salatuk",
-      "bundleIdentifier": "com.masaratapp.salatuk",
-      "developerName": "Sultan Mods",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png",
-      "versions": [
-        {
-          "version": "2.0.9",
-          "date": "2024-08-08",
-          "size": 42871421,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/Salatuk-2.0.9.ipa",
-          "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "TikTokDark",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
@@ -8512,56 +8576,6 @@
           "size": 139654227,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/StravaPremium-357.0.1.ipa",
           "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 07-29-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "TrollFools",
-      "bundleIdentifier": "wiki.qaq.TrollFools",
-      "developerName": "Lessica / trollfools",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
-      "versions": [
-        {
-          "version": "2.5-2",
-          "date": "2024-07-28",
-          "size": 3376019,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2024/TrollFools-2.5-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-2",
-          "date": "2024-07-27",
-          "size": 3371615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/TrollFools-2.4-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-1",
-          "date": "2024-07-24",
-          "size": 3247279,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/TrollFools-2.4-1.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.3-5",
-          "date": "2024-07-23",
-          "size": 3242975,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/TrollFools-2.3-5.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.1-6",
-          "date": "2024-07-22",
-          "size": 3141310,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/TrollFools-2.1-6.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.0-2",
-          "date": "2024-07-21",
-          "size": 28248614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-2.0-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
