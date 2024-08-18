@@ -4,6 +4,119 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Aidoku",
+      "bundleIdentifier": "xyz.skitty.Aidoku",
+      "developerName": "Aidoku",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png",
+      "versions": [
+        {
+          "version": "0.6.9",
+          "date": "2024-08-18",
+          "size": 3386857,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-18-2024/Aidoku-0.6.9.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.8",
+          "date": "2024-05-13",
+          "size": 3297836,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/Aidoku-0.6.8.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.7",
+          "date": "2024-02-17",
+          "size": 3264880,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Aidoku-0.6.7.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.6",
+          "date": "2023-11-28",
+          "size": 3235795,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/Aidoku-0.6.6.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.5",
+          "date": "2023-09-12",
+          "size": 3206258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/Aidoku-0.6.5.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.4-10b1121",
+          "date": "2023-07-18",
+          "size": 5568713,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2023/Aidoku-0.6.4-10b1121.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.4-0c1c109",
+          "date": "2023-07-13",
+          "size": 5568175,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/Aidoku-0.6.4-0c1c109.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.4-0069c4d",
+          "date": "2023-07-11",
+          "size": 5568127,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Aidoku-0.6.4-0069c4d.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.4",
+          "date": "2023-07-10",
+          "size": 5568127,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/Aidoku-0.6.4.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.3",
+          "date": "2023-06-04",
+          "size": 5571433,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Aidoku-0.6.3.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.2",
+          "date": "2023-03-25",
+          "size": 3268944,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/Aidoku-0.6.2.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.1-6",
+          "date": "2023-03-15",
+          "size": 2494959,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/Aidoku-0.6.1-6.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6.1-2",
+          "date": "2023-01-19",
+          "size": 2467751,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Aidoku-0.6.1-2.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "0.6",
+          "date": "2022-12-22",
+          "size": 2571626,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Aidoku-0.6.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 2187660,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Aidoku.ipa",
+          "localizedDescription": "Webtoon/manga browser\nLast updated: 08-18-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "Salatuk",
       "bundleIdentifier": "com.masaratapp.salatuk",
       "developerName": "Sultan Mods",
@@ -13997,112 +14110,6 @@
           "size": 115205137,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-16-2024/AlightMotionPremium-6.2.6.ipa",
           "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Aidoku",
-      "bundleIdentifier": "xyz.skitty.Aidoku",
-      "developerName": "Aidoku",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png",
-      "versions": [
-        {
-          "version": "0.6.8",
-          "date": "2024-05-13",
-          "size": 3297836,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/Aidoku-0.6.8.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.7",
-          "date": "2024-02-17",
-          "size": 3264880,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Aidoku-0.6.7.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.6",
-          "date": "2023-11-28",
-          "size": 3235795,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/Aidoku-0.6.6.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.5",
-          "date": "2023-09-12",
-          "size": 3206258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/Aidoku-0.6.5.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.4-10b1121",
-          "date": "2023-07-18",
-          "size": 5568713,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2023/Aidoku-0.6.4-10b1121.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.4-0c1c109",
-          "date": "2023-07-13",
-          "size": 5568175,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/Aidoku-0.6.4-0c1c109.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.4-0069c4d",
-          "date": "2023-07-11",
-          "size": 5568127,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Aidoku-0.6.4-0069c4d.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.4",
-          "date": "2023-07-10",
-          "size": 5568127,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/Aidoku-0.6.4.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.3",
-          "date": "2023-06-04",
-          "size": 5571433,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Aidoku-0.6.3.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.2",
-          "date": "2023-03-25",
-          "size": 3268944,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/Aidoku-0.6.2.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.1-6",
-          "date": "2023-03-15",
-          "size": 2494959,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/Aidoku-0.6.1-6.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6.1-2",
-          "date": "2023-01-19",
-          "size": 2467751,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Aidoku-0.6.1-2.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "0.6",
-          "date": "2022-12-22",
-          "size": 2571626,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Aidoku-0.6.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 2187660,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Aidoku.ipa",
-          "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705"
         }
       ]
     },
