@@ -48,6 +48,10 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
+**(18-08-24)** The repository is currently undergoing a continuous update which may cause issues when downloading applications. I apologize in advance for any inconvenience and appreciate your patience!
+
+---
+
 **(03-06-24)** GitHub sent out a **[DMCA Notic](https://pastebin.com/5WSaCfVL)[e](https://mega.nz/folder/Uv8CHBSA#xHsMwyLKaYyVvMdk-FdoNw)** on modded YouTube apps hosted on the library; They have all been removed accordingly. *Update: All YouTube IPAs have been removed to stay ahead of any future DMCAs*
 
 ---
