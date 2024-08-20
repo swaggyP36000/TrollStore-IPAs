@@ -4,6 +4,710 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "CodeApp",
+      "bundleIdentifier": "thebaselab.VS-Code",
+      "developerName": "thebaselab",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/thebaselab.VS-Code.png",
+      "versions": [
+        {
+          "version": "1.9.0",
+          "date": "2024-08-20",
+          "size": 233174767,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/CodeApp-1.9.0.ipa",
+          "localizedDescription": "Code editor with built-in Node.js, Python, C, C++, PHP and Java runtime. A user requested it so here it is.\nLast updated: 08-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
+      "versions": [
+        {
+          "version": "8.9.66-4.8",
+          "date": "2024-08-20",
+          "size": 77933103,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/EeveeSpotify-8.9.66-4.8.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.64-4.7",
+          "date": "2024-08-11",
+          "size": 77441278,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/EeveeSpotify-8.9.64-4.7.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.64-4.6",
+          "date": "2024-08-09",
+          "size": 85407516,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/EeveeSpotify-8.9.64-4.6.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.62-4.6",
+          "date": "2024-08-06",
+          "size": 77373895,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/EeveeSpotify-8.9.62-4.6.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.60-4.6",
+          "date": "2024-07-30",
+          "size": 76880363,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/EeveeSpotify-8.9.60-4.6.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.60-4.5",
+          "date": "2024-07-29",
+          "size": 84877074,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-29-2024/EeveeSpotify-8.9.60-4.5.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.58-4.5",
+          "date": "2024-07-21",
+          "size": 76177478,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/EeveeSpotify-8.9.58-4.5.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.54-4.4",
+          "date": "2024-07-11",
+          "size": 75064559,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/EeveeSpotify-8.9.54-4.4.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.50-4.3",
+          "date": "2024-06-25",
+          "size": 75026367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/EeveeSpotify-8.9.50-4.3.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.48-4.2",
+          "date": "2024-06-17",
+          "size": 75337996,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/EeveeSpotify-8.9.48-4.2.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.44-4.1",
+          "date": "2024-06-08",
+          "size": 75650658,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/EeveeSpotify-8.9.44-4.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.42-4.0",
+          "date": "2024-05-28",
+          "size": 75072303,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/EeveeSpotify-8.9.42-4.0.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.40-3.1",
+          "date": "2024-05-21",
+          "size": 74984525,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/EeveeSpotify-8.9.40-3.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.38-3.0",
+          "date": "2024-05-10",
+          "size": 72660511,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.36-2.1",
+          "date": "2024-05-06",
+          "size": 72906034,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/EeveeSpotify-8.9.36-2.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.34-1.4.1",
+          "date": "2024-04-30",
+          "size": 69845551,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.32-1.3",
+          "date": "2024-04-27",
+          "size": 68598253,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.32-1.1",
+          "date": "2024-04-22",
+          "size": 67901441,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.32",
+          "date": "2024-04-21",
+          "size": 68154131,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-20-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00 / binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "477.0.0",
+          "date": "2024-08-20",
+          "size": 155279295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/FacebookWolf-477.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "476.0.0",
+          "date": "2024-08-10",
+          "size": 157459786,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/FacebookWolf-476.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "473.0.0",
+          "date": "2024-07-23",
+          "size": 156246009,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/FacebookWolf-473.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "472.0.0",
+          "date": "2024-07-13",
+          "size": 149098225,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/FacebookWolf-472.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "470.1.0",
+          "date": "2024-07-01",
+          "size": 156927533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/FacebookWolf-470.1.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "470.0.0",
+          "date": "2024-06-28",
+          "size": 149947616,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2024/FacebookWolf-470.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "466.0.0",
+          "date": "2024-06-02",
+          "size": 148714995,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/FacebookWolf-466.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "464.0.0",
+          "date": "2024-05-20",
+          "size": 147131532,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/FacebookWolf-464.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "463.0.4",
+          "date": "2024-05-10",
+          "size": 153007992,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/FacebookWolf-463.0.4.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "462.0.0",
+          "date": "2024-05-08",
+          "size": 151299641,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/FacebookWolf-462.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "461.0.3",
+          "date": "2024-04-25",
+          "size": 144123361,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/FacebookWolf-461.0.3.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "460.0.0",
+          "date": "2024-04-18",
+          "size": 147521387,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FacebookWolf-460.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "459.0.5",
+          "date": "2024-04-11",
+          "size": 147002863,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "458.0.2",
+          "date": "2024-04-04",
+          "size": 146363775,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "457.0.2",
+          "date": "2024-03-31",
+          "size": 148361340,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "456.0",
+          "date": "2024-03-26",
+          "size": 147184062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "454.0",
+          "date": "2024-03-08",
+          "size": 150641731,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "453.0",
+          "date": "2024-02-29",
+          "size": 149793387,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/FacebookWolf-453.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "452.0",
+          "date": "2024-02-24",
+          "size": 150243112,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/FacebookWolf-452.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "451.0.4",
+          "date": "2024-02-15",
+          "size": 150007390,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/FacebookWolf-451.0.4.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "450.0",
+          "date": "2024-02-11",
+          "size": 149409221,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/FacebookWolf-450.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "449.0.2",
+          "date": "2024-02-07",
+          "size": 148743798,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "448.0",
+          "date": "2024-01-24",
+          "size": 148908203,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "447.1.2",
+          "date": "2024-01-20",
+          "size": 148992621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "447.0.2",
+          "date": "2024-01-19",
+          "size": 148992369,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "446.0",
+          "date": "2024-01-13",
+          "size": 149190964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "445.0",
+          "date": "2023-12-21",
+          "size": 150201298,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "444.0",
+          "date": "2023-12-14",
+          "size": 148019677,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "443.0.2",
+          "date": "2023-12-06",
+          "size": 148641638,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "442.0",
+          "date": "2023-11-29",
+          "size": 148751080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "441.1",
+          "date": "2023-11-22",
+          "size": 151559278,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "441.0",
+          "date": "2023-11-16",
+          "size": 151548308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "440.0",
+          "date": "2023-11-10",
+          "size": 145279761,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "439.1",
+          "date": "2023-11-02",
+          "size": 144715433,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "438.2",
+          "date": "2023-10-26",
+          "size": 143948666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "437.2",
+          "date": "2023-10-20",
+          "size": 149712884,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-10-09",
+          "size": 148727038,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-09-28",
+          "size": 147521226,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "432.1",
+          "date": "2023-09-19",
+          "size": 137319129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "430.0",
+          "date": "2023-08-31",
+          "size": 130980374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "429.2",
+          "date": "2023-08-25",
+          "size": 147437505,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "427.1",
+          "date": "2023-08-10",
+          "size": 131560635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "426.0",
+          "date": "2023-08-05",
+          "size": 140546097,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "422.0",
+          "date": "2023-07-09",
+          "size": 148850803,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "419.0",
+          "date": "2023-06-25",
+          "size": 147584969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "418.0",
+          "date": "2023-06-25",
+          "size": 150521266,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "415.1",
+          "date": "2023-05-24",
+          "size": 128531017,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "413.0",
+          "date": "2023-04-30",
+          "size": 143985533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "411.0",
+          "date": "2023-04-23",
+          "size": 126730195,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "410.0",
+          "date": "2023-04-09",
+          "size": 146204031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "407.1",
+          "date": "2023-04-06",
+          "size": 126317673,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "407.0",
+          "date": "2023-03-23",
+          "size": 139434374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "406.0",
+          "date": "2023-03-16",
+          "size": 140122979,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "405.0",
+          "date": "2023-03-09",
+          "size": 142562954,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "404.0",
+          "date": "2023-02-26",
+          "size": 149662233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "403.0",
+          "date": "2023-02-22",
+          "size": 133721522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "401.1",
+          "date": "2023-02-12",
+          "size": 123861738,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "401.0",
+          "date": "2023-02-11",
+          "size": 126709146,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "400.0",
+          "date": "2023-02-06",
+          "size": 135002490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "399.0",
+          "date": "2023-01-22",
+          "size": 149355244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "398.0",
+          "date": "2023-01-18",
+          "size": 135094448,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "397.0",
+          "date": "2023-01-13",
+          "size": 143152840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "396.0",
+          "date": "2022-12-10",
+          "size": 137241305,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "395.0",
+          "date": "2022-12-08",
+          "size": 138856989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "394.0",
+          "date": "2022-11-27",
+          "size": 136327857,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "393.0",
+          "date": "2022-11-17",
+          "size": 135626187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "392.0",
+          "date": "2022-11-11",
+          "size": 136100527,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 143311099,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "developerName": "Lessica / trollfools",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
+      "versions": [
+        {
+          "version": "2.6-6",
+          "date": "2024-08-20",
+          "size": 3383397,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/TrollFools-2.6-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-3",
+          "date": "2024-08-18",
+          "size": 3383534,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-18-2024/TrollFools-2.5-3.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-2",
+          "date": "2024-07-28",
+          "size": 3376019,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2024/TrollFools-2.5-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-2",
+          "date": "2024-07-27",
+          "size": 3371615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/TrollFools-2.4-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-1",
+          "date": "2024-07-24",
+          "size": 3247279,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/TrollFools-2.4-1.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3-5",
+          "date": "2024-07-23",
+          "size": 3242975,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/TrollFools-2.3-5.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.1-6",
+          "date": "2024-07-22",
+          "size": 3141310,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/TrollFools-2.1-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.0-2",
+          "date": "2024-07-21",
+          "size": 28248614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-2.0-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
       "name": "InstagramNyx",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1 / Sultan Mods",
@@ -621,63 +1325,6 @@
           "size": 42871421,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/Salatuk-2.0.9.ipa",
           "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-18-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TrollFools",
-      "bundleIdentifier": "wiki.qaq.TrollFools",
-      "developerName": "Lessica / trollfools",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
-      "versions": [
-        {
-          "version": "2.5-3",
-          "date": "2024-08-18",
-          "size": 3383534,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-18-2024/TrollFools-2.5-3.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.5-2",
-          "date": "2024-07-28",
-          "size": 3376019,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2024/TrollFools-2.5-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-2",
-          "date": "2024-07-27",
-          "size": 3371615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/TrollFools-2.4-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-1",
-          "date": "2024-07-24",
-          "size": 3247279,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/TrollFools-2.4-1.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.3-5",
-          "date": "2024-07-23",
-          "size": 3242975,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/TrollFools-2.3-5.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.1-6",
-          "date": "2024-07-22",
-          "size": 3141310,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/TrollFools-2.1-6.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.0-2",
-          "date": "2024-07-21",
-          "size": 28248614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-2.0-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 08-18-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -4767,617 +5414,6 @@
           "size": 106082919,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
           "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "EeveeSpotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
-      "versions": [
-        {
-          "version": "8.9.64-4.7",
-          "date": "2024-08-11",
-          "size": 77441278,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/EeveeSpotify-8.9.64-4.7.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.64-4.6",
-          "date": "2024-08-09",
-          "size": 85407516,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/EeveeSpotify-8.9.64-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.62-4.6",
-          "date": "2024-08-06",
-          "size": 77373895,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/EeveeSpotify-8.9.62-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.60-4.6",
-          "date": "2024-07-30",
-          "size": 76880363,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/EeveeSpotify-8.9.60-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.60-4.5",
-          "date": "2024-07-29",
-          "size": 84877074,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-29-2024/EeveeSpotify-8.9.60-4.5.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.58-4.5",
-          "date": "2024-07-21",
-          "size": 76177478,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/EeveeSpotify-8.9.58-4.5.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.54-4.4",
-          "date": "2024-07-11",
-          "size": 75064559,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/EeveeSpotify-8.9.54-4.4.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.50-4.3",
-          "date": "2024-06-25",
-          "size": 75026367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/EeveeSpotify-8.9.50-4.3.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.48-4.2",
-          "date": "2024-06-17",
-          "size": 75337996,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/EeveeSpotify-8.9.48-4.2.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.44-4.1",
-          "date": "2024-06-08",
-          "size": 75650658,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/EeveeSpotify-8.9.44-4.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.42-4.0",
-          "date": "2024-05-28",
-          "size": 75072303,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/EeveeSpotify-8.9.42-4.0.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.40-3.1",
-          "date": "2024-05-21",
-          "size": 74984525,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/EeveeSpotify-8.9.40-3.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.38-3.0",
-          "date": "2024-05-10",
-          "size": 72660511,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.36-2.1",
-          "date": "2024-05-06",
-          "size": 72906034,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/EeveeSpotify-8.9.36-2.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.34-1.4.1",
-          "date": "2024-04-30",
-          "size": 69845551,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.32-1.3",
-          "date": "2024-04-27",
-          "size": 68598253,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.32-1.1",
-          "date": "2024-04-22",
-          "size": 67901441,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.32",
-          "date": "2024-04-21",
-          "size": 68154131,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "FacebookWolf",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
-      "versions": [
-        {
-          "version": "476.0.0",
-          "date": "2024-08-10",
-          "size": 157459786,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/FacebookWolf-476.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "473.0.0",
-          "date": "2024-07-23",
-          "size": 156246009,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/FacebookWolf-473.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "472.0.0",
-          "date": "2024-07-13",
-          "size": 149098225,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/FacebookWolf-472.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "470.1.0",
-          "date": "2024-07-01",
-          "size": 156927533,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/FacebookWolf-470.1.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "470.0.0",
-          "date": "2024-06-28",
-          "size": 149947616,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2024/FacebookWolf-470.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "466.0.0",
-          "date": "2024-06-02",
-          "size": 148714995,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/FacebookWolf-466.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "464.0.0",
-          "date": "2024-05-20",
-          "size": 147131532,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/FacebookWolf-464.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "463.0.4",
-          "date": "2024-05-10",
-          "size": 153007992,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/FacebookWolf-463.0.4.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "462.0.0",
-          "date": "2024-05-08",
-          "size": 151299641,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/FacebookWolf-462.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "461.0.3",
-          "date": "2024-04-25",
-          "size": 144123361,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/FacebookWolf-461.0.3.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "460.0.0",
-          "date": "2024-04-18",
-          "size": 147521387,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FacebookWolf-460.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "459.0.5",
-          "date": "2024-04-11",
-          "size": 147002863,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "458.0.2",
-          "date": "2024-04-04",
-          "size": 146363775,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "457.0.2",
-          "date": "2024-03-31",
-          "size": 148361340,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "456.0",
-          "date": "2024-03-26",
-          "size": 147184062,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "454.0",
-          "date": "2024-03-08",
-          "size": 150641731,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "453.0",
-          "date": "2024-02-29",
-          "size": 149793387,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/FacebookWolf-453.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "452.0",
-          "date": "2024-02-24",
-          "size": 150243112,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/FacebookWolf-452.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "451.0.4",
-          "date": "2024-02-15",
-          "size": 150007390,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/FacebookWolf-451.0.4.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "450.0",
-          "date": "2024-02-11",
-          "size": 149409221,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/FacebookWolf-450.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "449.0.2",
-          "date": "2024-02-07",
-          "size": 148743798,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "448.0",
-          "date": "2024-01-24",
-          "size": 148908203,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "447.1.2",
-          "date": "2024-01-20",
-          "size": 148992621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "447.0.2",
-          "date": "2024-01-19",
-          "size": 148992369,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "446.0",
-          "date": "2024-01-13",
-          "size": 149190964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "445.0",
-          "date": "2023-12-21",
-          "size": 150201298,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "444.0",
-          "date": "2023-12-14",
-          "size": 148019677,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "443.0.2",
-          "date": "2023-12-06",
-          "size": 148641638,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "442.0",
-          "date": "2023-11-29",
-          "size": 148751080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "441.1",
-          "date": "2023-11-22",
-          "size": 151559278,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "441.0",
-          "date": "2023-11-16",
-          "size": 151548308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "440.0",
-          "date": "2023-11-10",
-          "size": 145279761,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "439.1",
-          "date": "2023-11-02",
-          "size": 144715433,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "438.2",
-          "date": "2023-10-26",
-          "size": 143948666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "437.2",
-          "date": "2023-10-20",
-          "size": 149712884,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-10-09",
-          "size": 148727038,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-09-28",
-          "size": 147521226,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "432.1",
-          "date": "2023-09-19",
-          "size": 137319129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "430.0",
-          "date": "2023-08-31",
-          "size": 130980374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "429.2",
-          "date": "2023-08-25",
-          "size": 147437505,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "427.1",
-          "date": "2023-08-10",
-          "size": 131560635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "426.0",
-          "date": "2023-08-05",
-          "size": 140546097,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "422.0",
-          "date": "2023-07-09",
-          "size": 148850803,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "419.0",
-          "date": "2023-06-25",
-          "size": 147584969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "418.0",
-          "date": "2023-06-25",
-          "size": 150521266,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "415.1",
-          "date": "2023-05-24",
-          "size": 128531017,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "413.0",
-          "date": "2023-04-30",
-          "size": 143985533,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "411.0",
-          "date": "2023-04-23",
-          "size": 126730195,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "410.0",
-          "date": "2023-04-09",
-          "size": 146204031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "407.1",
-          "date": "2023-04-06",
-          "size": 126317673,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "407.0",
-          "date": "2023-03-23",
-          "size": 139434374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "406.0",
-          "date": "2023-03-16",
-          "size": 140122979,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "405.0",
-          "date": "2023-03-09",
-          "size": 142562954,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "404.0",
-          "date": "2023-02-26",
-          "size": 149662233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "403.0",
-          "date": "2023-02-22",
-          "size": 133721522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "401.1",
-          "date": "2023-02-12",
-          "size": 123861738,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "401.0",
-          "date": "2023-02-11",
-          "size": 126709146,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "400.0",
-          "date": "2023-02-06",
-          "size": 135002490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "399.0",
-          "date": "2023-01-22",
-          "size": 149355244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "398.0",
-          "date": "2023-01-18",
-          "size": 135094448,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "397.0",
-          "date": "2023-01-13",
-          "size": 143152840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "396.0",
-          "date": "2022-12-10",
-          "size": 137241305,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "395.0",
-          "date": "2022-12-08",
-          "size": 138856989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "394.0",
-          "date": "2022-11-27",
-          "size": 136327857,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "393.0",
-          "date": "2022-11-17",
-          "size": 135626187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "392.0",
-          "date": "2022-11-11",
-          "size": 136100527,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 143311099,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
         }
       ]
     },
