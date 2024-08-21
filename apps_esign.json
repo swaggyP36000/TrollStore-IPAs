@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.3.54",
+      "versionDate": "2024-08-21",
+      "size": 373098211,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-21-2024/Goodnotes6-6.3.54.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "PhotomathPlus",
+      "bundleIdentifier": "com.microblink.PhotoMath",
+      "version": "8.39.0",
+      "versionDate": "2024-08-21",
+      "size": 16820213,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-21-2024/PhotomathPlus-8.39.0.ipa",
+      "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
+    },
+    {
+      "name": "PhotoroomPro",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "6.1.1",
+      "versionDate": "2024-08-21",
+      "size": 75581897,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-21-2024/PhotoroomPro-6.1.1.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-21-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dr1ven.eraser.png"
+    },
+    {
+      "name": "VidsAIPro",
+      "bundleIdentifier": "viral.vision.vids",
+      "version": "1.73.0",
+      "versionDate": "2024-08-21",
+      "size": 159921540,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-21-2024/VidsAIPro-1.73.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
+    },
+    {
       "name": "CodeApp",
       "bundleIdentifier": "thebaselab.VS-Code",
       "version": "1.9.0",
@@ -704,7 +748,7 @@
       "size": 381342859,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/Goodnotes6-6.3.50.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -770,7 +814,7 @@
       "size": 91761621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/PhotoroomPro-6.0.9.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-07-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-21-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dr1ven.eraser.png"
     },
     {
@@ -781,7 +825,7 @@
       "size": 162913877,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/VidsAIPro-1.71.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -1133,7 +1177,7 @@
       "size": 371933714,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2024/Goodnotes6-6.3.48.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -1408,7 +1452,7 @@
       "size": 152603000,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2024/VidsAIPro-1.69.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -1474,7 +1518,7 @@
       "size": 370913020,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/Goodnotes6-6.3.46.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -2684,7 +2728,7 @@
       "size": 476519952,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/Goodnotes6-6.3.43.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -2783,7 +2827,7 @@
       "size": 153726900,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/VidsAIPro-1.67.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -2992,7 +3036,7 @@
       "size": 151610305,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2024/VidsAIPro-1.66.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -3179,7 +3223,7 @@
       "size": 16750186,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/PhotomathPlus-8.37.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -3333,7 +3377,7 @@
       "size": 149348335,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-29-2024/VidsAIPro-1.65.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -4114,7 +4158,7 @@
       "size": 363240681,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-18-2024/Goodnotes6-6.3.38.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -4312,7 +4356,7 @@
       "size": 369784107,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/Goodnotes6-6.3.36.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -4928,7 +4972,7 @@
       "size": 333805313,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Goodnotes6-6.3.33.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -5170,7 +5214,7 @@
       "size": 330530681,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/Goodnotes6-6.3.31.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -5324,7 +5368,7 @@
       "size": 330862700,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-23-2024/Goodnotes6-6.3.28.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -5621,7 +5665,7 @@
       "size": 330592734,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/Goodnotes6-6.3.25.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -5654,7 +5698,7 @@
       "size": 149530357,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VidsAIPro-1.59.1.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -6270,7 +6314,7 @@
       "size": 329866623,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/Goodnotes6-6.3.20.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -6446,7 +6490,7 @@
       "size": 16580746,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/PhotomathPlus-8.36.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -6468,7 +6512,7 @@
       "size": 148851342,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VidsAIPro-1.58.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -7227,7 +7271,7 @@
       "size": 321439029,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/Goodnotes6-6.3.18.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -7568,7 +7612,7 @@
       "size": 162378395,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/VidsAIPro-1.55.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -7645,7 +7689,7 @@
       "size": 331622201,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/Goodnotes6-6.3.14.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -7689,7 +7733,7 @@
       "size": 165476569,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/VidsAIPro-1.54.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -8921,7 +8965,7 @@
       "size": 323637347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Goodnotes6-6.3.12.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -9020,7 +9064,7 @@
       "size": 321760236,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Goodnotes6-6.3.10.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -9064,7 +9108,7 @@
       "size": 154841675,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/VidsAIPro-1.52.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -9460,7 +9504,7 @@
       "size": 170001237,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/VidsAIPro-1.51.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -10384,7 +10428,7 @@
       "size": 296255622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/Goodnotes6-6.3.4.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -11649,7 +11693,7 @@
       "size": 16844499,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/PhotomathPlus-8.35.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -14344,7 +14388,7 @@
       "size": 16030553,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/PhotomathPlus-8.34.1.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -15323,7 +15367,7 @@
       "size": 8908705,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotomathPlus-8.33.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -15631,7 +15675,7 @@
       "size": 315141070,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -16599,7 +16643,7 @@
       "size": 9538298,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/PhotomathPlus-8.32.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -16995,7 +17039,7 @@
       "size": 10379636,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/PhotomathPlus-8.31.1.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -17897,7 +17941,7 @@
       "size": 10877296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/PhotomathPlus-8.30.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -18612,7 +18656,7 @@
       "size": 11270367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/PhotomathPlus-8.29.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -19195,7 +19239,7 @@
       "size": 11252320,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/PhotomathPlus-8.28.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -19954,7 +19998,7 @@
       "size": 14507570,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotomathPlus-8.27.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -20372,7 +20416,7 @@
       "size": 16295410,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2023/PhotomathPlus-8.26.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -20691,7 +20735,7 @@
       "size": 13939748,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/PhotomathPlus-8.25.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -21098,7 +21142,7 @@
       "size": 13704658,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotomathPlus-8.24.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -21329,7 +21373,7 @@
       "size": 13513357,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/PhotomathPlus-8.23.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -21494,7 +21538,7 @@
       "size": 13331452,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotomathPlus-8.22.1.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -21516,7 +21560,7 @@
       "size": 13255926,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/PhotomathPlus-8.22.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -21967,7 +22011,7 @@
       "size": 13261470,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PhotomathPlus-8.19.2.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -23485,7 +23529,7 @@
       "size": 16121910,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PhotomathPlus-8.19.1.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -24266,7 +24310,7 @@
       "size": 13394622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/PhotomathPlus-8.18.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -25817,7 +25861,7 @@
       "size": 12615196,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705",
+      "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
