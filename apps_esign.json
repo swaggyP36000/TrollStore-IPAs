@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.3.0",
+      "versionDate": "2024-08-22",
+      "size": 51436240,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2024/Mangayomi-0.3.0.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+    },
+    {
+      "name": "MeituPlusPlus",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "version": "10.17.0",
+      "versionDate": "2024-08-22",
+      "size": 269737557,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2024/MeituPlusPlus-10.17.0.ipa",
+      "developerName": "iApps / iOS Tutorials + App Cracks",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
+    },
+    {
+      "name": "MoovitPlus",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.151.1",
+      "versionDate": "2024-08-22",
+      "size": 85453645,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2024/MoovitPlus-5.151.1.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 08-22-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
+    },
+    {
+      "name": "MusicAIVIP",
+      "bundleIdentifier": "com.feraset.tune",
+      "version": "4.2.24",
+      "versionDate": "2024-08-22",
+      "size": 131693879,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2024/MusicAIVIP-4.2.24.ipa",
+      "developerName": "Zzz Zzz",
+      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 08-22-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.feraset.tune.png"
+    },
+    {
       "name": "Goodnotes6",
       "bundleIdentifier": "com.goodnotesapp.x",
       "version": "6.3.54",
@@ -913,7 +957,7 @@
       "size": 51436052,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2024/Mangayomi-0.2.9.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -990,7 +1034,7 @@
       "size": 51435698,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2024/Mangayomi-0.2.85.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -1782,7 +1826,7 @@
       "size": 51390504,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-20-2024/Mangayomi-0.2.75.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -1914,7 +1958,7 @@
       "size": 101594696,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-18-2024/OsmAndMapsPlus-4.7.6.ipa",
       "developerName": "Qamislo - Apps",
-      "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.osmand.maps.png"
     },
     {
@@ -2145,7 +2189,7 @@
       "size": 286569156,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2024/MeituPlusPlus-10.15.1.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -2156,7 +2200,7 @@
       "size": 85840031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2024/MoovitPlus-5.149.0.ipa",
       "developerName": "IAppsBestLibrary",
-      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 08-22-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
     },
     {
@@ -2970,7 +3014,7 @@
       "size": 48544573,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/Mangayomi-0.2.7.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -3729,7 +3773,7 @@
       "size": 49504930,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-23-2024/MusicAIVIP-4.2.3.ipa",
       "developerName": "Zzz Zzz",
-      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
+      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 08-22-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.feraset.tune.png"
     },
     {
@@ -3949,7 +3993,7 @@
       "size": 268596736,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/MeituPlusPlus-10.13.0.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -4059,7 +4103,7 @@
       "size": 48545108,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-20-2024/Mangayomi-0.2.6.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -4631,7 +4675,7 @@
       "size": 85759040,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/MoovitPlus-5.146.1.ipa",
       "developerName": "IAppsBestLibrary",
-      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 08-22-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
     },
     {
@@ -4697,7 +4741,7 @@
       "size": 48358306,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-09-2024/Mangayomi-0.2.55.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -5544,7 +5588,7 @@
       "size": 48491885,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-18-2024/Mangayomi-0.2.45.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -5819,7 +5863,7 @@
       "size": 48652048,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/Mangayomi-0.2.4.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -5830,7 +5874,7 @@
       "size": 251488874,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/MeituPlusPlus-10.10.1.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -6061,7 +6105,7 @@
       "size": 48641565,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-07-2024/Mangayomi-0.2.25.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -6468,7 +6512,7 @@
       "size": 244410747,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/MeituPlusPlus-10.9.5.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -7205,7 +7249,7 @@
       "size": 49729423,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/MusicAIVIP-4.1.5.ipa",
       "developerName": "Zzz Zzz",
-      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
+      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 08-22-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.feraset.tune.png"
     },
     {
@@ -7447,7 +7491,7 @@
       "size": 243032743,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/MeituPlusPlus-10.8.0.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -7656,7 +7700,7 @@
       "size": 100952983,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/Mangayomi-0.2.2.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -8019,7 +8063,7 @@
       "size": 242468272,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MeituPlusPlus-10.7.0.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -8217,7 +8261,7 @@
       "size": 100949383,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/Mangayomi-0.2.0.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -10230,7 +10274,7 @@
       "size": 240064021,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/MeituPlusPlus-10.5.0.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -10494,7 +10538,7 @@
       "size": 102326506,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/Mangayomi-0.1.85.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -10681,7 +10725,7 @@
       "size": 233944065,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/MeituPlusPlus-10.3.1.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -11374,7 +11418,7 @@
       "size": 101455569,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/Mangayomi-0.1.75.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -11968,7 +12012,7 @@
       "size": 101384533,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/Mangayomi-0.1.65.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -13321,7 +13365,7 @@
       "size": 95972068,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/Mangayomi-0.1.61.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -13332,7 +13376,7 @@
       "size": 234111510,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MeituPlusPlus-10.1.0.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -13849,7 +13893,7 @@
       "size": 95966087,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/Mangayomi-0.1.55.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -13860,7 +13904,7 @@
       "size": 254032068,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/MeituPlusPlus-9.10.52.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -14179,7 +14223,7 @@
       "size": 93468984,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/Mangayomi-0.1.51.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -14190,7 +14234,7 @@
       "size": 231528042,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/MeituPlusPlus-9.10.51.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -14366,7 +14410,7 @@
       "size": 93430194,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Mangayomi-0.1.45.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -14377,7 +14421,7 @@
       "size": 247140619,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/MeituPlusPlus-9.10.50.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -14608,7 +14652,7 @@
       "size": 230671187,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -14663,7 +14707,7 @@
       "size": 93319936,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/Mangayomi-0.1.4.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -15191,7 +15235,7 @@
       "size": 93308009,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/Mangayomi-0.1.35.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -15202,7 +15246,7 @@
       "size": 230163162,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -15246,7 +15290,7 @@
       "size": 93304657,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2023/Mangayomi-0.1.25.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -15697,7 +15741,7 @@
       "size": 231652715,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -15862,7 +15906,7 @@
       "size": 93143303,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Mangayomi-0.1.1.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -16016,7 +16060,7 @@
       "size": 93145110,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Mangayomi-0.1.0.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -16148,7 +16192,7 @@
       "size": 93060349,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/Mangayomi-0.0.8.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-22-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -17644,7 +17688,7 @@
       "size": 227689265,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
@@ -25025,7 +25069,7 @@
       "size": 221377534,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
-      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     },
     {
