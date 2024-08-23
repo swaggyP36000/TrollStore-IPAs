@@ -19681,21 +19681,6 @@
       ]
     },
     {
-      "name": "Pandolife",
-      "bundleIdentifier": "com.pandora",
-      "developerName": "AppDB",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.pandora.png",
-      "versions": [
-        {
-          "version": "1.1a-2211.1",
-          "date": "2022-12-04",
-          "size": 84148077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/Pandolife-1.1a-2211.1.ipa",
-          "localizedDescription": "Pandora, injected with Pandolife\nLast updated: 12-04-2022\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "VSCOLion",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "ipahost / KZStore*",
