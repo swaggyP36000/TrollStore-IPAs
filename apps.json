@@ -4,6 +4,78 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FlacboxPro",
+      "bundleIdentifier": "com.leshko.flap",
+      "developerName": "iApps / Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leshko.flap.png",
+      "versions": [
+        {
+          "version": "5.7",
+          "date": "2024-08-26",
+          "size": 46470517,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-26-2024/FlacboxPro-5.7.ipa",
+          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.5",
+          "date": "2024-07-12",
+          "size": 45740500,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/FlacboxPro-5.5.ipa",
+          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.4",
+          "date": "2024-04-29",
+          "size": 44357088,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/FlacboxPro-5.4.ipa",
+          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.3",
+          "date": "2024-03-17",
+          "size": 41199562,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/FlacboxPro-5.3.ipa",
+          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "SnapEditPro",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "developerName": "IAppsBestLibrary",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.sfun.snapedit.png",
+      "versions": [
+        {
+          "version": "5.3.4",
+          "date": "2024-08-26",
+          "size": 98671835,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-26-2024/SnapEditPro-5.3.4.ipa",
+          "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.3.2",
+          "date": "2024-08-14",
+          "size": 105356254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2024/SnapEditPro-5.3.2.ipa",
+          "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.2.9",
+          "date": "2024-07-30",
+          "size": 107827323,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/SnapEditPro-5.2.9.ipa",
+          "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.1.5",
+          "date": "2024-06-17",
+          "size": 92623522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/SnapEditPro-5.1.5.ipa",
+          "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-26-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "ipogo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "ipogo",
@@ -5445,35 +5517,6 @@
           "size": 160822525,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/LightroomPremium-9.1.1.ipa",
           "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "SnapEditPro",
-      "bundleIdentifier": "com.sfun.snapedit",
-      "developerName": "IAppsBestLibrary",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.sfun.snapedit.png",
-      "versions": [
-        {
-          "version": "5.3.2",
-          "date": "2024-08-14",
-          "size": 105356254,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2024/SnapEditPro-5.3.2.ipa",
-          "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.2.9",
-          "date": "2024-07-30",
-          "size": 107827323,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/SnapEditPro-5.2.9.ipa",
-          "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.1.5",
-          "date": "2024-06-17",
-          "size": 92623522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/SnapEditPro-5.1.5.ipa",
-          "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705"
         }
       ]
     },
@@ -11345,35 +11388,6 @@
           "size": 33964101,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/FinalCutCameraTS-1.0.ipa",
           "localizedDescription": "The Final Cut Camera app allows you to record professional videos on your mobile devices with complete control. Note: Exclusively for iOS 17.0 TrollStore Users.\nLast updated: 07-12-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "FlacboxPro",
-      "bundleIdentifier": "com.leshko.flap",
-      "developerName": "iApps / Paisseon",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leshko.flap.png",
-      "versions": [
-        {
-          "version": "5.5",
-          "date": "2024-07-12",
-          "size": 45740500,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/FlacboxPro-5.5.ipa",
-          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 07-12-2024\nStatus: \u26a0\ufe0f"
-        },
-        {
-          "version": "5.4",
-          "date": "2024-04-29",
-          "size": 44357088,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/FlacboxPro-5.4.ipa",
-          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 07-12-2024\nStatus: \u26a0\ufe0f"
-        },
-        {
-          "version": "5.3",
-          "date": "2024-03-17",
-          "size": 41199562,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/FlacboxPro-5.3.ipa",
-          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 07-12-2024\nStatus: \u26a0\ufe0f"
         }
       ]
     },
