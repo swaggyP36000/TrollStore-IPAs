@@ -48,7 +48,9 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-**(18-08-24)** The repository is currently undergoing a continuous update which may cause issues when downloading applications. I apologize in advance for any inconvenience and appreciate your patience!
+**(08-28-2024)** dayanch96 opened an **[issue](https://github.com/swaggyP36000/TrollStore-IPAs/issues/718)** for the removal of TwitchDvnloader. All mentions and IPAs have been removed. In an effort to keep the repo running as long as possible, we will continue to be open to takedown requests. We do not intend to create a rift with developers
+
+**(08-18-24)** The repository is currently undergoing a continuous update which may cause issues when downloading applications. I apologize in advance for any inconvenience and appreciate your patience!
 
 ---
 
