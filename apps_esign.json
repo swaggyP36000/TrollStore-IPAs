@@ -257,17 +257,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
-      "name": "TwitchDvnloaderPlus",
-      "bundleIdentifier": "tv.twitch",
-      "version": "20.8.1-0.1.4-0.0.2",
-      "versionDate": "2024-08-24",
-      "size": 94845665,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2024/TwitchDvnloaderPlus-20.8.1-0.1.4-0.0.2.ipa",
-      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
-      "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
-    },
-    {
       "name": "TwitchPlus",
       "bundleIdentifier": "tv.twitch",
       "version": "20.8.1-0.1.4",
@@ -750,17 +739,6 @@
       "developerName": "AppDB / DarkWebUser / DPixel / Manpreet Singh @thisismanpreets / nowesr1 / zxcvbn's tweaked IPAs",
       "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "TwitchDvnloaderPlus",
-      "bundleIdentifier": "tv.twitch",
-      "version": "20.7-0.1.4-0.0.2",
-      "versionDate": "2024-08-13",
-      "size": 94188213,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-13-2024/TwitchDvnloaderPlus-20.7-0.1.4-0.0.2.ipa",
-      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
-      "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
       "name": "TwitchPlus",
@@ -1308,8 +1286,8 @@
       "versionDate": "2024-08-05",
       "size": 92699005,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2024/TwitchDvnloaderPlus-20.5.3-0.1.4-0.0.2.ipa",
-      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
-      "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "developerName": "",
+      "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -14247,17 +14225,6 @@
       "developerName": "TrollApps",
       "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.resonance.store.png"
-    },
-    {
-      "name": "TwitchDvnloaderPlus",
-      "bundleIdentifier": "tv.twitch",
-      "version": "17.5.1",
-      "versionDate": "2023-12-29",
-      "size": 90187568,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/TwitchDvnloaderPlus-17.5.1.ipa",
-      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
-      "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
       "name": "AIChatbotGeniePro",

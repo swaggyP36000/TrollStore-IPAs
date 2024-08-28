@@ -3453,42 +3453,6 @@
       ]
     },
     {
-      "name": "TwitchDvnloaderPlus",
-      "bundleIdentifier": "tv.twitch",
-      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
-      "versions": [
-        {
-          "version": "20.8.1-0.1.4-0.0.2",
-          "date": "2024-08-24",
-          "size": 94845665,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2024/TwitchDvnloaderPlus-20.8.1-0.1.4-0.0.2.ipa",
-          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "20.7-0.1.4-0.0.2",
-          "date": "2024-08-13",
-          "size": 94188213,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-13-2024/TwitchDvnloaderPlus-20.7-0.1.4-0.0.2.ipa",
-          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "20.5.3-0.1.4-0.0.2",
-          "date": "2024-08-05",
-          "size": 92699005,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2024/TwitchDvnloaderPlus-20.5.3-0.1.4-0.0.2.ipa",
-          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.5.1",
-          "date": "2023-12-29",
-          "size": 90187568,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/TwitchDvnloaderPlus-17.5.1.ipa",
-          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
       "name": "TwitchPlus",
       "bundleIdentifier": "tv.twitch",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa / ArianaMinajj",
@@ -9036,6 +9000,21 @@
           "size": 2349879,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2024/SuperIcons-2.1-3.ipa",
           "localizedDescription": "App for replacing TrollStore's app icons.\nLast updated: 08-05-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TwitchDvnloaderPlus",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
+      "versions": [
+        {
+          "version": "20.5.3-0.1.4-0.0.2",
+          "date": "2024-08-05",
+          "size": 92699005,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2024/TwitchDvnloaderPlus-20.5.3-0.1.4-0.0.2.ipa",
+          "localizedDescription": ""
         }
       ]
     },
