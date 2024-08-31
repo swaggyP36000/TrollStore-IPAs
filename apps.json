@@ -4,6 +4,906 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00 / binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "479.1.0",
+          "date": "2024-08-31",
+          "size": 155862348,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2024/FacebookWolf-479.1.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "478.0.0",
+          "date": "2024-08-24",
+          "size": 155980308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2024/FacebookWolf-478.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "477.0.0",
+          "date": "2024-08-20",
+          "size": 155279295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/FacebookWolf-477.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "476.0.0",
+          "date": "2024-08-10",
+          "size": 157459786,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/FacebookWolf-476.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "473.0.0",
+          "date": "2024-07-23",
+          "size": 156246009,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/FacebookWolf-473.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "472.0.0",
+          "date": "2024-07-13",
+          "size": 149098225,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/FacebookWolf-472.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "470.1.0",
+          "date": "2024-07-01",
+          "size": 156927533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/FacebookWolf-470.1.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "470.0.0",
+          "date": "2024-06-28",
+          "size": 149947616,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2024/FacebookWolf-470.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "466.0.0",
+          "date": "2024-06-02",
+          "size": 148714995,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/FacebookWolf-466.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "464.0.0",
+          "date": "2024-05-20",
+          "size": 147131532,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/FacebookWolf-464.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "463.0.4",
+          "date": "2024-05-10",
+          "size": 153007992,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/FacebookWolf-463.0.4.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "462.0.0",
+          "date": "2024-05-08",
+          "size": 151299641,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/FacebookWolf-462.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "461.0.3",
+          "date": "2024-04-25",
+          "size": 144123361,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/FacebookWolf-461.0.3.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "460.0.0",
+          "date": "2024-04-18",
+          "size": 147521387,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FacebookWolf-460.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "459.0.5",
+          "date": "2024-04-11",
+          "size": 147002863,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "458.0.2",
+          "date": "2024-04-04",
+          "size": 146363775,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "457.0.2",
+          "date": "2024-03-31",
+          "size": 148361340,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "456.0",
+          "date": "2024-03-26",
+          "size": 147184062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "454.0",
+          "date": "2024-03-08",
+          "size": 150641731,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "453.0",
+          "date": "2024-02-29",
+          "size": 149793387,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/FacebookWolf-453.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "452.0",
+          "date": "2024-02-24",
+          "size": 150243112,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/FacebookWolf-452.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "451.0.4",
+          "date": "2024-02-15",
+          "size": 150007390,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/FacebookWolf-451.0.4.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "450.0",
+          "date": "2024-02-11",
+          "size": 149409221,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/FacebookWolf-450.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "449.0.2",
+          "date": "2024-02-07",
+          "size": 148743798,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "448.0",
+          "date": "2024-01-24",
+          "size": 148908203,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "447.1.2",
+          "date": "2024-01-20",
+          "size": 148992621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "447.0.2",
+          "date": "2024-01-19",
+          "size": 148992369,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "446.0",
+          "date": "2024-01-13",
+          "size": 149190964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "445.0",
+          "date": "2023-12-21",
+          "size": 150201298,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "444.0",
+          "date": "2023-12-14",
+          "size": 148019677,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "443.0.2",
+          "date": "2023-12-06",
+          "size": 148641638,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "442.0",
+          "date": "2023-11-29",
+          "size": 148751080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "441.1",
+          "date": "2023-11-22",
+          "size": 151559278,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "441.0",
+          "date": "2023-11-16",
+          "size": 151548308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "440.0",
+          "date": "2023-11-10",
+          "size": 145279761,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "439.1",
+          "date": "2023-11-02",
+          "size": 144715433,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "438.2",
+          "date": "2023-10-26",
+          "size": 143948666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "437.2",
+          "date": "2023-10-20",
+          "size": 149712884,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-10-09",
+          "size": 148727038,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-09-28",
+          "size": 147521226,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "432.1",
+          "date": "2023-09-19",
+          "size": 137319129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "430.0",
+          "date": "2023-08-31",
+          "size": 130980374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "429.2",
+          "date": "2023-08-25",
+          "size": 147437505,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "427.1",
+          "date": "2023-08-10",
+          "size": 131560635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "426.0",
+          "date": "2023-08-05",
+          "size": 140546097,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "422.0",
+          "date": "2023-07-09",
+          "size": 148850803,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "419.0",
+          "date": "2023-06-25",
+          "size": 147584969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "418.0",
+          "date": "2023-06-25",
+          "size": 150521266,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "415.1",
+          "date": "2023-05-24",
+          "size": 128531017,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "413.0",
+          "date": "2023-04-30",
+          "size": 143985533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "411.0",
+          "date": "2023-04-23",
+          "size": 126730195,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "410.0",
+          "date": "2023-04-09",
+          "size": 146204031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "407.1",
+          "date": "2023-04-06",
+          "size": 126317673,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "407.0",
+          "date": "2023-03-23",
+          "size": 139434374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "406.0",
+          "date": "2023-03-16",
+          "size": 140122979,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "405.0",
+          "date": "2023-03-09",
+          "size": 142562954,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "404.0",
+          "date": "2023-02-26",
+          "size": 149662233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "403.0",
+          "date": "2023-02-22",
+          "size": 133721522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "401.1",
+          "date": "2023-02-12",
+          "size": 123861738,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "401.0",
+          "date": "2023-02-11",
+          "size": 126709146,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "400.0",
+          "date": "2023-02-06",
+          "size": 135002490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "399.0",
+          "date": "2023-01-22",
+          "size": 149355244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "398.0",
+          "date": "2023-01-18",
+          "size": 135094448,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "397.0",
+          "date": "2023-01-13",
+          "size": 143152840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "396.0",
+          "date": "2022-12-10",
+          "size": 137241305,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "395.0",
+          "date": "2022-12-08",
+          "size": 138856989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "394.0",
+          "date": "2022-11-27",
+          "size": 136327857,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "393.0",
+          "date": "2022-11-17",
+          "size": 135626187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "392.0",
+          "date": "2022-11-11",
+          "size": 136100527,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 143311099,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-31-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "khcrysalis",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/kh.crysalis.feather.png",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2024-08-31",
+          "size": 12480714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2024/Feather-1.0.1.ipa",
+          "localizedDescription": "On-device iOS app manager/installer, a possible and really promising alternative to Esign! A user requested it so here it is.\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2024-08-27",
+          "size": 12375230,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2024/Feather-1.0.ipa",
+          "localizedDescription": "On-device iOS app manager/installer, a possible and really promising alternative to Esign! A user requested it so here it is.\nLast updated: 08-31-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TikTokDark",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "36.2.0",
+          "date": "2024-08-31",
+          "size": 287497572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2024/TikTokDark-36.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "35.6.0",
+          "date": "2024-08-08",
+          "size": 277298859,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/TikTokDark-35.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "35.1.0",
+          "date": "2024-07-07",
+          "size": 243676028,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-07-2024/TikTokDark-35.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "34.7.1",
+          "date": "2024-05-30",
+          "size": 211291121,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TikTokDark-34.7.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "34.1.0",
+          "date": "2024-04-04",
+          "size": 247020127,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/TikTokDark-34.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "33.9.1",
+          "date": "2024-03-28",
+          "size": 245866237,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TikTokDark-33.9.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "33.8.0",
+          "date": "2024-03-14",
+          "size": 247341888,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokDark-33.8.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "33.7.0",
+          "date": "2024-03-08",
+          "size": 240534450,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokDark-33.7.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "33.4.0",
+          "date": "2024-02-23",
+          "size": 238175295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokDark-33.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "33.2.0",
+          "date": "2024-02-01",
+          "size": 235614754,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokDark-33.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.9.1",
+          "date": "2024-01-14",
+          "size": 243748720,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/TikTokDark-32.9.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.6.0",
+          "date": "2023-12-25",
+          "size": 235723768,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.5.0",
+          "date": "2023-12-13",
+          "size": 242130045,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.4.0",
+          "date": "2023-12-06",
+          "size": 231669842,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.1.0",
+          "date": "2023-11-18",
+          "size": 268539701,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.8.0",
+          "date": "2023-08-19",
+          "size": 238419076,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.7.0",
+          "date": "2023-08-08",
+          "size": 235047661,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.6.0",
+          "date": "2023-08-02",
+          "size": 169756636,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.5.0",
+          "date": "2023-07-26",
+          "size": 228728729,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.4.0",
+          "date": "2023-07-25",
+          "size": 169760516,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.3.0",
+          "date": "2023-07-11",
+          "size": 226136340,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.2.0",
+          "date": "2023-07-05",
+          "size": 167450012,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.1.0",
+          "date": "2023-06-29",
+          "size": 226257129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2023-06-25",
+          "size": 222929008,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.7.0",
+          "date": "2023-06-04",
+          "size": 165357200,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.6.0",
+          "date": "2023-05-29",
+          "size": 164606635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.5.0",
+          "date": "2023-05-17",
+          "size": 163813779,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.3.0",
+          "date": "2023-05-10",
+          "size": 162910551,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.2.0",
+          "date": "2023-04-25",
+          "size": 163039384,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.1.1",
+          "date": "2023-04-20",
+          "size": 164591911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.1.0",
+          "date": "2023-04-20",
+          "size": 164592918,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.0.0",
+          "date": "2023-04-13",
+          "size": 164038801,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.9.0",
+          "date": "2023-04-05",
+          "size": 224953059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.4.1",
+          "date": "2023-03-18",
+          "size": 214129262,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.4.0",
+          "date": "2023-02-28",
+          "size": 147797612,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.2.0",
+          "date": "2023-02-14",
+          "size": 161357074,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.1.0",
+          "date": "2023-02-09",
+          "size": 227925817,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.9.0",
+          "date": "2023-01-28",
+          "size": 157852923,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.7.1",
+          "date": "2023-01-12",
+          "size": 155574707,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.7.0",
+          "date": "2023-01-10",
+          "size": 213567946,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.6.0",
+          "date": "2023-01-07",
+          "size": 219113676,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.6.0",
+          "date": "2023-01-05",
+          "size": 155698837,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.4.0",
+          "date": "2022-12-23",
+          "size": 155462907,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TikTokDark-27.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.3.0",
+          "date": "2022-12-15",
+          "size": 150709121,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.2.0",
+          "date": "2022-12-09",
+          "size": 150004915,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.1.0",
+          "date": "2022-12-01",
+          "size": 139443165,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.0.0",
+          "date": "2022-11-27",
+          "size": 140006974,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 166294832,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollApps",
+      "bundleIdentifier": "org.resonance.store",
+      "developerName": "TrollApps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.resonance.store.png",
+      "versions": [
+        {
+          "version": "2.3",
+          "date": "2024-08-31",
+          "size": 5549018,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2024/TrollApps-2.3.ipa",
+          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 08-31-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3b-Hotfix3",
+          "date": "2023-12-29",
+          "size": 5533915,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/TrollApps-2.3b-Hotfix3.ipa",
+          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 08-31-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3b-Hotfix2",
+          "date": "2023-12-26",
+          "size": 5205646,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/TrollApps-2.3b-Hotfix2.ipa",
+          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 08-31-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.1",
+          "date": "2023-12-10",
+          "size": 2127280,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/TrollApps-2.1.ipa",
+          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 08-31-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
       "name": "InstagramRegramCracked",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "CyPwn IPA Library / FouadRaheb",
@@ -2748,21 +3648,6 @@
       ]
     },
     {
-      "name": "Feather",
-      "bundleIdentifier": "kh.crysalis.feather",
-      "developerName": "khcrysalis",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/kh.crysalis.feather.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2024-08-27",
-          "size": 12375230,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2024/Feather-1.0.ipa",
-          "localizedDescription": "On-device iOS app manager/installer, a possible and really promising alternative to Esign! A user requested it so here it is.\nLast updated: 08-27-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "InstagramNyx",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1 / Sultan Mods",
@@ -4351,497 +5236,6 @@
           "size": 60634846,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
           "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 08-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "FacebookWolf",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00 / binnichtaktiv's iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
-      "versions": [
-        {
-          "version": "478.0.0",
-          "date": "2024-08-24",
-          "size": 155980308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2024/FacebookWolf-478.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "477.0.0",
-          "date": "2024-08-20",
-          "size": 155279295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/FacebookWolf-477.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "476.0.0",
-          "date": "2024-08-10",
-          "size": 157459786,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/FacebookWolf-476.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "473.0.0",
-          "date": "2024-07-23",
-          "size": 156246009,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/FacebookWolf-473.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "472.0.0",
-          "date": "2024-07-13",
-          "size": 149098225,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/FacebookWolf-472.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "470.1.0",
-          "date": "2024-07-01",
-          "size": 156927533,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/FacebookWolf-470.1.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "470.0.0",
-          "date": "2024-06-28",
-          "size": 149947616,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2024/FacebookWolf-470.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "466.0.0",
-          "date": "2024-06-02",
-          "size": 148714995,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/FacebookWolf-466.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "464.0.0",
-          "date": "2024-05-20",
-          "size": 147131532,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/FacebookWolf-464.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "463.0.4",
-          "date": "2024-05-10",
-          "size": 153007992,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/FacebookWolf-463.0.4.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "462.0.0",
-          "date": "2024-05-08",
-          "size": 151299641,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/FacebookWolf-462.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "461.0.3",
-          "date": "2024-04-25",
-          "size": 144123361,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/FacebookWolf-461.0.3.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "460.0.0",
-          "date": "2024-04-18",
-          "size": 147521387,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FacebookWolf-460.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "459.0.5",
-          "date": "2024-04-11",
-          "size": 147002863,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "458.0.2",
-          "date": "2024-04-04",
-          "size": 146363775,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "457.0.2",
-          "date": "2024-03-31",
-          "size": 148361340,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "456.0",
-          "date": "2024-03-26",
-          "size": 147184062,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "454.0",
-          "date": "2024-03-08",
-          "size": 150641731,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "453.0",
-          "date": "2024-02-29",
-          "size": 149793387,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/FacebookWolf-453.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "452.0",
-          "date": "2024-02-24",
-          "size": 150243112,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/FacebookWolf-452.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "451.0.4",
-          "date": "2024-02-15",
-          "size": 150007390,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/FacebookWolf-451.0.4.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "450.0",
-          "date": "2024-02-11",
-          "size": 149409221,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/FacebookWolf-450.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "449.0.2",
-          "date": "2024-02-07",
-          "size": 148743798,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "448.0",
-          "date": "2024-01-24",
-          "size": 148908203,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "447.1.2",
-          "date": "2024-01-20",
-          "size": 148992621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "447.0.2",
-          "date": "2024-01-19",
-          "size": 148992369,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "446.0",
-          "date": "2024-01-13",
-          "size": 149190964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "445.0",
-          "date": "2023-12-21",
-          "size": 150201298,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "444.0",
-          "date": "2023-12-14",
-          "size": 148019677,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "443.0.2",
-          "date": "2023-12-06",
-          "size": 148641638,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "442.0",
-          "date": "2023-11-29",
-          "size": 148751080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "441.1",
-          "date": "2023-11-22",
-          "size": 151559278,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "441.0",
-          "date": "2023-11-16",
-          "size": 151548308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "440.0",
-          "date": "2023-11-10",
-          "size": 145279761,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "439.1",
-          "date": "2023-11-02",
-          "size": 144715433,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "438.2",
-          "date": "2023-10-26",
-          "size": 143948666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "437.2",
-          "date": "2023-10-20",
-          "size": 149712884,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-10-09",
-          "size": 148727038,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-09-28",
-          "size": 147521226,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "432.1",
-          "date": "2023-09-19",
-          "size": 137319129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "430.0",
-          "date": "2023-08-31",
-          "size": 130980374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "429.2",
-          "date": "2023-08-25",
-          "size": 147437505,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "427.1",
-          "date": "2023-08-10",
-          "size": 131560635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "426.0",
-          "date": "2023-08-05",
-          "size": 140546097,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "422.0",
-          "date": "2023-07-09",
-          "size": 148850803,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "419.0",
-          "date": "2023-06-25",
-          "size": 147584969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "418.0",
-          "date": "2023-06-25",
-          "size": 150521266,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "415.1",
-          "date": "2023-05-24",
-          "size": 128531017,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "413.0",
-          "date": "2023-04-30",
-          "size": 143985533,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "411.0",
-          "date": "2023-04-23",
-          "size": 126730195,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "410.0",
-          "date": "2023-04-09",
-          "size": 146204031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "407.1",
-          "date": "2023-04-06",
-          "size": 126317673,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "407.0",
-          "date": "2023-03-23",
-          "size": 139434374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "406.0",
-          "date": "2023-03-16",
-          "size": 140122979,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "405.0",
-          "date": "2023-03-09",
-          "size": 142562954,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "404.0",
-          "date": "2023-02-26",
-          "size": 149662233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "403.0",
-          "date": "2023-02-22",
-          "size": 133721522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "401.1",
-          "date": "2023-02-12",
-          "size": 123861738,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "401.0",
-          "date": "2023-02-11",
-          "size": 126709146,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "400.0",
-          "date": "2023-02-06",
-          "size": 135002490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "399.0",
-          "date": "2023-01-22",
-          "size": 149355244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "398.0",
-          "date": "2023-01-18",
-          "size": 135094448,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "397.0",
-          "date": "2023-01-13",
-          "size": 143152840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "396.0",
-          "date": "2022-12-10",
-          "size": 137241305,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "395.0",
-          "date": "2022-12-08",
-          "size": 138856989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "394.0",
-          "date": "2022-11-27",
-          "size": 136327857,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "393.0",
-          "date": "2022-11-17",
-          "size": 135626187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "392.0",
-          "date": "2022-11-11",
-          "size": 136100527,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 143311099,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-24-2024\nStatus: \u2705"
         }
       ]
     },
@@ -8980,343 +9374,6 @@
       ]
     },
     {
-      "name": "TikTokDark",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "35.6.0",
-          "date": "2024-08-08",
-          "size": 277298859,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/TikTokDark-35.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "35.1.0",
-          "date": "2024-07-07",
-          "size": 243676028,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-07-2024/TikTokDark-35.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "34.7.1",
-          "date": "2024-05-30",
-          "size": 211291121,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TikTokDark-34.7.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "34.1.0",
-          "date": "2024-04-04",
-          "size": 247020127,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/TikTokDark-34.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "33.9.1",
-          "date": "2024-03-28",
-          "size": 245866237,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TikTokDark-33.9.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "33.8.0",
-          "date": "2024-03-14",
-          "size": 247341888,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokDark-33.8.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "33.7.0",
-          "date": "2024-03-08",
-          "size": 240534450,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokDark-33.7.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "33.4.0",
-          "date": "2024-02-23",
-          "size": 238175295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokDark-33.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "33.2.0",
-          "date": "2024-02-01",
-          "size": 235614754,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokDark-33.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "32.9.1",
-          "date": "2024-01-14",
-          "size": 243748720,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/TikTokDark-32.9.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "32.6.0",
-          "date": "2023-12-25",
-          "size": 235723768,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "32.5.0",
-          "date": "2023-12-13",
-          "size": 242130045,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "32.4.0",
-          "date": "2023-12-06",
-          "size": 231669842,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "32.1.0",
-          "date": "2023-11-18",
-          "size": 268539701,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.8.0",
-          "date": "2023-08-19",
-          "size": 238419076,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.7.0",
-          "date": "2023-08-08",
-          "size": 235047661,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.6.0",
-          "date": "2023-08-02",
-          "size": 169756636,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.5.0",
-          "date": "2023-07-26",
-          "size": 228728729,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.4.0",
-          "date": "2023-07-25",
-          "size": 169760516,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.3.0",
-          "date": "2023-07-11",
-          "size": 226136340,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.2.0",
-          "date": "2023-07-05",
-          "size": 167450012,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.1.0",
-          "date": "2023-06-29",
-          "size": 226257129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.0.0",
-          "date": "2023-06-25",
-          "size": 222929008,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.7.0",
-          "date": "2023-06-04",
-          "size": 165357200,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.6.0",
-          "date": "2023-05-29",
-          "size": 164606635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.5.0",
-          "date": "2023-05-17",
-          "size": 163813779,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.3.0",
-          "date": "2023-05-10",
-          "size": 162910551,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.2.0",
-          "date": "2023-04-25",
-          "size": 163039384,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.1.1",
-          "date": "2023-04-20",
-          "size": 164591911,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.1.0",
-          "date": "2023-04-20",
-          "size": 164592918,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.0.0",
-          "date": "2023-04-13",
-          "size": 164038801,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "28.9.0",
-          "date": "2023-04-05",
-          "size": 224953059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "28.4.1",
-          "date": "2023-03-18",
-          "size": 214129262,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "28.4.0",
-          "date": "2023-02-28",
-          "size": 147797612,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "28.2.0",
-          "date": "2023-02-14",
-          "size": 161357074,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "28.1.0",
-          "date": "2023-02-09",
-          "size": 227925817,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.9.0",
-          "date": "2023-01-28",
-          "size": 157852923,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.7.1",
-          "date": "2023-01-12",
-          "size": 155574707,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.7.0",
-          "date": "2023-01-10",
-          "size": 213567946,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.6.0",
-          "date": "2023-01-07",
-          "size": 219113676,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.6.0",
-          "date": "2023-01-05",
-          "size": 155698837,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.4.0",
-          "date": "2022-12-23",
-          "size": 155462907,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TikTokDark-27.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.3.0",
-          "date": "2022-12-15",
-          "size": 150709121,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.2.0",
-          "date": "2022-12-09",
-          "size": 150004915,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.1.0",
-          "date": "2022-12-01",
-          "size": 139443165,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "27.0.0",
-          "date": "2022-11-27",
-          "size": 140006974,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 166294832,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "AnkiProPremium",
       "bundleIdentifier": "com.vedasapps.flashcards",
       "developerName": "IAppsBestLibrary",
@@ -11441,14 +11498,14 @@
           "date": "2024-07-17",
           "size": 191535686,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/ReminiPro-2.10.47.ipa",
-          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u26a0\ufe0f \u2b50"
         },
         {
           "version": "2.10.41",
           "date": "2024-06-22",
           "size": 188654192,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/ReminiPro-2.10.41.ipa",
-          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u26a0\ufe0f \u2b50"
         }
       ]
     },
@@ -13919,7 +13976,7 @@
     {
       "name": "Snapchatiota",
       "bundleIdentifier": "com.toyopagroup.picaboo",
-      "developerName": "Kanji's discord / nowesr1 / cotegod",
+      "developerName": "Kanji's discord",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
       "versions": [
         {
@@ -13927,196 +13984,196 @@
           "date": "2024-06-02",
           "size": 112831266,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Snapchatiota-12.87.1-5.3.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.76.1-5.3.1",
           "date": "2024-03-11",
           "size": 105310793,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2024/Snapchatiota-12.76.1-5.3.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.76.1-5.2.2",
           "date": "2024-03-09",
           "size": 118944752,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Snapchatiota-12.76.1-5.2.2.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.75.1-5.2.2",
           "date": "2024-03-02",
           "size": 105248634,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/Snapchatiota-12.75.1-5.2.2.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.75.0.37-5.2.1",
           "date": "2024-02-27",
           "size": 105279226,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Snapchatiota-12.75.0.37-5.2.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.73.0.40-5.1.1",
           "date": "2024-02-16",
           "size": 107685780,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2024/Snapchatiota-12.73.0.40-5.1.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.73.0.40-5.1",
           "date": "2024-02-13",
           "size": 117280794,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/Snapchatiota-12.73.0.40-5.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.72.0.39-5.1",
           "date": "2024-02-09",
           "size": 108866573,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/Snapchatiota-12.72.0.39-5.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.71.0.36-5.0.1",
           "date": "2024-02-05",
           "size": 108051099,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2024/Snapchatiota-12.71.0.36-5.0.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.71.0.36-4.6",
           "date": "2024-02-01",
           "size": 108979063,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/Snapchatiota-12.71.0.36-4.6.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.70.0.32-4.6",
           "date": "2024-01-26",
           "size": 118716008,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/Snapchatiota-12.70.0.32-4.6.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.69.0.28-4.6",
           "date": "2024-01-21",
           "size": 112675626,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/Snapchatiota-12.69.0.28-4.6.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.68.0.22-4.6",
           "date": "2024-01-08",
           "size": 109705663,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2024/Snapchatiota-12.68.0.22-4.6.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.67.1-4.6",
           "date": "2024-01-03",
           "size": 109362024,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Snapchatiota-12.67.1-4.6.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.65.1-4.6",
           "date": "2023-12-25",
           "size": 106933854,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/Snapchatiota-12.65.1-4.6.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.65.1-4.5",
           "date": "2023-12-25",
           "size": 111680000,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/Snapchatiota-12.65.1-4.5.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.64-4.5",
           "date": "2023-12-12",
           "size": 117359311,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Snapchatiota-12.64-4.5.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.63-4.5",
           "date": "2023-12-05",
           "size": 116973904,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Snapchatiota-12.63-4.5.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.62-4.4.1",
           "date": "2023-12-02",
           "size": 117345838,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Snapchatiota-12.62-4.4.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.60-4.4.1",
           "date": "2023-11-26",
           "size": 105706025,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2023/Snapchatiota-12.60-4.4.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.60-4.3.1",
           "date": "2023-11-15",
           "size": 116242121,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/Snapchatiota-12.60-4.3.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.59-4.3.1",
           "date": "2023-11-12",
           "size": 105002426,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/Snapchatiota-12.59-4.3.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.59-4.2",
           "date": "2023-11-09",
           "size": 115532892,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/Snapchatiota-12.59-4.2.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.58-4.2",
           "date": "2023-11-01",
           "size": 104554508,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/Snapchatiota-12.58-4.2.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.56-4.1",
           "date": "2023-10-20",
           "size": 105231130,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Snapchatiota-12.56-4.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.55-4.0.1",
           "date": "2023-10-18",
           "size": 104344891,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-18-2023/Snapchatiota-12.55-4.0.1.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.49-3.0.4",
           "date": "2023-10-03",
           "size": 100404025,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/Snapchatiota-12.49-3.0.4.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "12.49.0",
           "date": "2023-09-28",
           "size": 100454729,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Snapchatiota-12.49.0.ipa",
-          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c"
+          "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -17360,35 +17417,6 @@
           "size": 37818688,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2022/Sposilife-8.5.60.ipa",
           "localizedDescription": "Spotilife 1.8 + Sposify 8.5.52 (Customize Spotify experience according to your preferences), SpotifyEqualizerEnhancer 1.2 (configure the equalizer) and OpenSpotifySafariExtension (Open Spotify links in the app for cert users and sideloadly).\nLast updated: 01-02-2024\nStatus: \u274c"
-        }
-      ]
-    },
-    {
-      "name": "TrollApps",
-      "bundleIdentifier": "org.resonance.store",
-      "developerName": "TrollApps",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.resonance.store.png",
-      "versions": [
-        {
-          "version": "2.3b-Hotfix3",
-          "date": "2023-12-29",
-          "size": 5533915,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/TrollApps-2.3b-Hotfix3.ipa",
-          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.3b-Hotfix2",
-          "date": "2023-12-26",
-          "size": 5205646,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/TrollApps-2.3b-Hotfix2.ipa",
-          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.1",
-          "date": "2023-12-10",
-          "size": 2127280,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/TrollApps-2.1.ipa",
-          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
