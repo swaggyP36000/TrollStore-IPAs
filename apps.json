@@ -4,6 +4,87 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BlitzerdePRO",
+      "bundleIdentifier": "com.eifrig.blitzerdepro",
+      "developerName": "ArianaMinajj / Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.eifrig.blitzerdepro.png",
+      "versions": [
+        {
+          "version": "400.1.1",
+          "date": "2024-09-02",
+          "size": 41450543,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2024/BlitzerdePRO-400.1.1.ipa",
+          "localizedDescription": "App that provides LIVE alerts about fixed and mobile hazards! A user requested it so here it is.\nLast updated: 09-02-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "OsmAndMapsPlus",
+      "bundleIdentifier": "net.osmand.maps",
+      "developerName": "Qamislo - Apps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.osmand.maps.png",
+      "versions": [
+        {
+          "version": "4.8.2",
+          "date": "2024-09-02",
+          "size": 102836079,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2024/OsmAndMapsPlus-4.8.2.ipa",
+          "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is. Note: Refer to this to download an unlimited amount of maps.\nLast updated: 09-02-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.7.6",
+          "date": "2024-07-18",
+          "size": 101594696,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-18-2024/OsmAndMapsPlus-4.7.6.ipa",
+          "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is. Note: Refer to this to download an unlimited amount of maps.\nLast updated: 09-02-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PDFitAllPlus",
+      "bundleIdentifier": "com.digiset.pdfit",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.digiset.pdfit.png",
+      "versions": [
+        {
+          "version": "5.2.2",
+          "date": "2024-09-02",
+          "size": 15226786,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2024/PDFitAllPlus-5.2.2.ipa",
+          "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 09-02-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.1.1",
+          "date": "2024-06-19",
+          "size": 12116619,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/PDFitAllPlus-5.1.1.ipa",
+          "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 09-02-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PhotoGridPro",
+      "bundleIdentifier": "com.YunFang.PhotoGrid",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png",
+      "versions": [
+        {
+          "version": "8.8.80",
+          "date": "2024-09-02",
+          "size": 180880817,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2024/PhotoGridPro-8.8.80.ipa",
+          "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 09-02-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.8.43",
+          "date": "2024-07-14",
+          "size": 174422692,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/PhotoGridPro-8.8.43.ipa",
+          "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 09-02-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "BenkyoPro",
       "bundleIdentifier": "app.benkyo.Benkyo",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -1357,112 +1438,112 @@
           "date": "2024-08-30",
           "size": 169441875,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-30-2024/InstagramRegramCracked-346.0.7-1.0b10.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "346.0.7-1.0b9",
           "date": "2024-08-30",
           "size": 170350799,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-30-2024/InstagramRegramCracked-346.0.7-1.0b9.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "346.0.7-1.0b8",
           "date": "2024-08-27",
           "size": 169207323,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2024/InstagramRegramCracked-346.0.7-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "345.3.3-1.0b8",
           "date": "2024-08-24",
           "size": 168828840,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2024/InstagramRegramCracked-345.3.3-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "344.0.9-1.0b8",
           "date": "2024-08-19",
           "size": 172642123,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2024/InstagramRegramCracked-344.0.9-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "343.0.0-1.0b8",
           "date": "2024-08-06",
           "size": 171722286,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/InstagramRegramCracked-343.0.0-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "342.0.3-1.0b8",
           "date": "2024-07-31",
           "size": 170745414,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2024/InstagramRegramCracked-342.0.3-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "341.0.1-1.0b8",
           "date": "2024-07-23",
           "size": 169827398,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/InstagramRegramCracked-341.0.1-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "340.0.10-1.0b8",
           "date": "2024-07-17",
           "size": 162609645,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/InstagramRegramCracked-340.0.10-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "339.0.3-1.0b8",
           "date": "2024-07-09",
           "size": 164327532,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/InstagramRegramCracked-339.0.3-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "338.1.0-1.0b8",
           "date": "2024-07-06",
           "size": 165267786,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/InstagramRegramCracked-338.1.0-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "338.0.0-1.0b8",
           "date": "2024-07-01",
           "size": 159146711,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/InstagramRegramCracked-338.0.0-1.0b8.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "337.0.2-1.0b7",
           "date": "2024-06-25",
           "size": 164862485,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/InstagramRegramCracked-337.0.2-1.0b7.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "336.1.8-1.0b7",
           "date": "2024-06-21",
           "size": 158272939,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-21-2024/InstagramRegramCracked-336.1.8-1.0b7.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "336.0.8-1.0b7",
           "date": "2024-06-17",
           "size": 164378792,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/InstagramRegramCracked-336.0.8-1.0b7.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "335.0.8-1.0b7",
           "date": "2024-06-11",
           "size": 163977633,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/InstagramRegramCracked-335.0.8-1.0b7.ipa",
-          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "Regram is a powerful tweak that appears to be even more promising than Rocket. This cracked version is brought to you by CyPwn and CBZ. A user requested it so here it is. For Regram b10: Go to Regram settings, select \"Account & License\" and click on \"Login to your Account\". Note: Profile Analyzer will not work.\nLast updated: 08-30-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         }
       ]
     },
@@ -3551,91 +3632,91 @@
           "date": "2024-08-28",
           "size": 115088844,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2024/Pyoncord-244.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "241.0",
           "date": "2024-08-11",
           "size": 106140259,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/Pyoncord-241.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "237.0",
           "date": "2024-07-17",
           "size": 114323285,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/Pyoncord-237.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "236.1",
           "date": "2024-07-10",
           "size": 111183290,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/Pyoncord-236.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "236.0",
           "date": "2024-07-06",
           "size": 111183311,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/Pyoncord-236.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "235.0",
           "date": "2024-06-27",
           "size": 112173273,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/Pyoncord-235.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "231.1",
           "date": "2024-06-02",
           "size": 100870252,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Pyoncord-231.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "231.0",
           "date": "2024-05-29",
           "size": 100860996,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2024/Pyoncord-231.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "230.0",
           "date": "2024-05-21",
           "size": 99218413,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/Pyoncord-230.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "229.0",
           "date": "2024-05-16",
           "size": 99348048,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-16-2024/Pyoncord-229.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "228.1",
           "date": "2024-05-08",
           "size": 99427351,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/Pyoncord-228.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "224.0",
           "date": "2024-04-15",
           "size": 96853734,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/Pyoncord-224.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "223.0",
           "date": "2024-04-12",
           "size": 106082919,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-28-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         }
       ]
     },
@@ -3953,140 +4034,140 @@
           "date": "2024-08-27",
           "size": 78479774,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2024/EeveeSpotify-8.9.68-4.9.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.66-4.8",
           "date": "2024-08-20",
           "size": 77933103,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/EeveeSpotify-8.9.66-4.8.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.64-4.7",
           "date": "2024-08-11",
           "size": 77441278,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/EeveeSpotify-8.9.64-4.7.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.64-4.6",
           "date": "2024-08-09",
           "size": 85407516,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/EeveeSpotify-8.9.64-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.62-4.6",
           "date": "2024-08-06",
           "size": 77373895,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/EeveeSpotify-8.9.62-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.60-4.6",
           "date": "2024-07-30",
           "size": 76880363,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/EeveeSpotify-8.9.60-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.60-4.5",
           "date": "2024-07-29",
           "size": 84877074,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-29-2024/EeveeSpotify-8.9.60-4.5.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.58-4.5",
           "date": "2024-07-21",
           "size": 76177478,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/EeveeSpotify-8.9.58-4.5.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.54-4.4",
           "date": "2024-07-11",
           "size": 75064559,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/EeveeSpotify-8.9.54-4.4.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.50-4.3",
           "date": "2024-06-25",
           "size": 75026367,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/EeveeSpotify-8.9.50-4.3.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.48-4.2",
           "date": "2024-06-17",
           "size": 75337996,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/EeveeSpotify-8.9.48-4.2.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.44-4.1",
           "date": "2024-06-08",
           "size": 75650658,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/EeveeSpotify-8.9.44-4.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.42-4.0",
           "date": "2024-05-28",
           "size": 75072303,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/EeveeSpotify-8.9.42-4.0.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.40-3.1",
           "date": "2024-05-21",
           "size": 74984525,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/EeveeSpotify-8.9.40-3.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.38-3.0",
           "date": "2024-05-10",
           "size": 72660511,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.36-2.1",
           "date": "2024-05-06",
           "size": 72906034,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/EeveeSpotify-8.9.36-2.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.34-1.4.1",
           "date": "2024-04-30",
           "size": 69845551,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.32-1.3",
           "date": "2024-04-27",
           "size": 68598253,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.32-1.1",
           "date": "2024-04-22",
           "size": 67901441,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         },
         {
           "version": "8.9.32",
           "date": "2024-04-21",
           "size": 68154131,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-27-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d"
         }
       ]
     },
@@ -9033,224 +9114,224 @@
           "date": "2024-08-09",
           "size": 42456684,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/InfusePro-7.8.1-1.2.0.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.8-1.2.0",
           "date": "2024-06-19",
           "size": 39678930,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/InfusePro-7.8-1.2.0.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.7-1.2.0",
           "date": "2024-06-02",
           "size": 42462346,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/InfusePro-7.7.7-1.2.0.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.7-1.1.6",
           "date": "2024-05-29",
           "size": 39043823,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2024/InfusePro-7.7.7-1.1.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.6-1.1.6",
           "date": "2024-05-28",
           "size": 39675623,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/InfusePro-7.7.6-1.1.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.5-1.1.6",
           "date": "2024-05-17",
           "size": 43610271,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2024/InfusePro-7.7.5-1.1.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.5-1.1.5",
           "date": "2024-05-08",
           "size": 39026309,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/InfusePro-7.7.5-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.4-1.1.5",
           "date": "2024-04-24",
           "size": 40850984,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2024/InfusePro-7.7.4-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.3-1.1.5",
           "date": "2024-04-09",
           "size": 38941997,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/InfusePro-7.7.3-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.2-1.1.5",
           "date": "2024-03-20",
           "size": 38929838,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/InfusePro-7.7.2-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.1-1.1.5",
           "date": "2024-03-13",
           "size": 40181478,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InfusePro-7.7.1-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7.1-1.1.4",
           "date": "2024-02-28",
           "size": 40129004,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/InfusePro-7.7.1-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.7-1.1.4",
           "date": "2024-02-14",
           "size": 40306052,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/InfusePro-7.7-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.7-1.1.4",
           "date": "2024-02-11",
           "size": 42854299,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/InfusePro-7.6.7-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.7",
           "date": "2024-01-30",
           "size": 40197875,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/InfusePro-7.6.7.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.6",
           "date": "2024-01-15",
           "size": 78682777,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.5",
           "date": "2023-12-22",
           "size": 38834254,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.4",
           "date": "2023-11-29",
           "size": 36936550,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.3",
           "date": "2023-11-19",
           "size": 45198980,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.2",
           "date": "2023-11-06",
           "size": 45192576,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6.1",
           "date": "2023-09-27",
           "size": 43213714,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.6",
           "date": "2023-09-06",
           "size": 36357059,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.9",
           "date": "2023-08-24",
           "size": 36292217,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.8",
           "date": "2023-07-11",
           "size": 41628224,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.7",
           "date": "2023-06-29",
           "size": 44492277,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.6",
           "date": "2023-06-25",
           "size": 42285212,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.5",
           "date": "2023-06-04",
           "size": 40271379,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.4",
           "date": "2023-05-15",
           "size": 40331154,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.2",
           "date": "2023-04-30",
           "size": 40517963,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5.1",
           "date": "2023-04-10",
           "size": 40177347,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.5",
           "date": "2023-03-17",
           "size": 39321077,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "7.4.10",
           "date": "2023-03-11",
           "size": 44545614,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
         }
       ]
     },
@@ -11705,21 +11786,6 @@
       ]
     },
     {
-      "name": "OsmAndMapsPlus",
-      "bundleIdentifier": "net.osmand.maps",
-      "developerName": "Qamislo - Apps",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.osmand.maps.png",
-      "versions": [
-        {
-          "version": "4.7.6",
-          "date": "2024-07-18",
-          "size": 101594696,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-18-2024/OsmAndMapsPlus-4.7.6.ipa",
-          "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is. Note: Refer to this to download an unlimited amount of maps.\nLast updated: 07-18-2024\nStatus: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
       "name": "OutsidePro",
       "bundleIdentifier": "so.outside.app",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -12310,21 +12376,6 @@
           "size": 17470144,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/InkhunterPremium-3.0.4.ipa",
           "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "PhotoGridPro",
-      "bundleIdentifier": "com.YunFang.PhotoGrid",
-      "developerName": "iApps",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png",
-      "versions": [
-        {
-          "version": "8.8.43",
-          "date": "2024-07-14",
-          "size": 174422692,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/PhotoGridPro-8.8.43.ipa",
-          "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
         }
       ]
     },
@@ -13960,7 +14011,7 @@
           "date": "2024-06-21",
           "size": 48034315,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-21-2024/Panels3-3.4.4.ipa",
-          "localizedDescription": "Enhance your comic reading with Panels: a clean, customizable, and feature-rich interface for your favorite titles. A user requested it so here it is.\nLast updated: 06-21-2024\nStatus: \u2705 \u2b50"
+          "localizedDescription": "Enhance your comic reading with Panels: a clean, customizable, and feature-rich interface for your favorite titles. A user requested it so here it is.\nLast updated: 06-21-2024\nStatus: \u26a0\ufe0f \u2b50"
         }
       ]
     },
@@ -14096,21 +14147,6 @@
           "size": 19553102,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/IPTVPro-2.7.ipa",
           "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "PDFitAllPlus",
-      "bundleIdentifier": "com.digiset.pdfit",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.digiset.pdfit.png",
-      "versions": [
-        {
-          "version": "5.1.1",
-          "date": "2024-06-19",
-          "size": 12116619,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/PDFitAllPlus-5.1.1.ipa",
-          "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705"
         }
       ]
     },
@@ -18496,7 +18532,7 @@
           "date": "2023-07-14",
           "size": 239475937,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/BHTikTokLRD-30.3.0.ipa",
-          "localizedDescription": "This is arguably the most complete mod for TikTok, bundling both BHTikTok and TikTokLRD v3.0 in the same app. See the descriptions of these separate apps for more info\nLast updated: 07-14-2023\nStatus: \u274c \u26a0\ufe0f"
+          "localizedDescription": "This is arguably the most complete mod for TikTok, bundling both BHTikTok and TikTokLRD v3.0 in the same app. See the descriptions of these separate apps for more info\nLast updated: 07-14-2023\nStatus: \u274c"
         }
       ]
     },
