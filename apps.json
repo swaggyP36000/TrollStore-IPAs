@@ -4,6 +4,803 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "DocumentsPlus",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
+      "versions": [
+        {
+          "version": "8.13",
+          "date": "2024-09-05",
+          "size": 167834566,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/DocumentsPlus-8.13.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.12.5",
+          "date": "2024-08-11",
+          "size": 161297484,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/DocumentsPlus-8.12.5.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.12",
+          "date": "2024-06-29",
+          "size": 158832943,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-29-2024/DocumentsPlus-8.12.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.11.4",
+          "date": "2024-06-02",
+          "size": 161186252,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/DocumentsPlus-8.11.4.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.11",
+          "date": "2024-04-23",
+          "size": 156715888,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/DocumentsPlus-8.11.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.10.9",
+          "date": "2024-04-16",
+          "size": 150245964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/DocumentsPlus-8.10.9.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.10.7",
+          "date": "2024-03-25",
+          "size": 150166682,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/DocumentsPlus-8.10.7.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.10.5",
+          "date": "2024-03-16",
+          "size": 149574425,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/DocumentsPlus-8.10.5.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "InShotPro",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+      "versions": [
+        {
+          "version": "1.80.1",
+          "date": "2024-09-05",
+          "size": 163696342,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/InShotPro-1.80.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.79.1",
+          "date": "2024-08-06",
+          "size": 164993226,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/InShotPro-1.79.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.79.0",
+          "date": "2024-07-12",
+          "size": 161103425,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/InShotPro-1.79.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.78.3",
+          "date": "2024-07-01",
+          "size": 153669630,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/InShotPro-1.78.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.78.1",
+          "date": "2024-06-12",
+          "size": 153174268,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/InShotPro-1.78.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.77.1",
+          "date": "2024-04-23",
+          "size": 149778320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/InShotPro-1.77.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.76.3",
+          "date": "2024-03-26",
+          "size": 142988975,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InShotPro-1.76.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.76.1",
+          "date": "2024-03-03",
+          "size": 148817538,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/InShotPro-1.76.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.74.0",
+          "date": "2023-12-11",
+          "size": 142979578,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InShotPro-1.74.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.73.1",
+          "date": "2023-11-02",
+          "size": 105286019,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/InShotPro-1.73.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.73.0",
+          "date": "2023-10-31",
+          "size": 119766666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/InShotPro-1.73.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.72.1",
+          "date": "2023-10-20",
+          "size": 120994285,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/InShotPro-1.72.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.72.0",
+          "date": "2023-09-19",
+          "size": 128843318,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InShotPro-1.72.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.71.0",
+          "date": "2023-08-16",
+          "size": 109555080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/InShotPro-1.71.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.70.3",
+          "date": "2023-08-14",
+          "size": 94184469,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/InShotPro-1.70.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.70.0",
+          "date": "2023-07-09",
+          "size": 104584718,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.69.1",
+          "date": "2023-06-25",
+          "size": 85111276,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InShotPro-1.69.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.68.1",
+          "date": "2023-06-04",
+          "size": 101692931,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InShotPro-1.68.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.68.0",
+          "date": "2023-05-19",
+          "size": 86555365,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/InShotPro-1.68.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.67.1",
+          "date": "2023-04-08",
+          "size": 104275639,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/InShotPro-1.67.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.67.0",
+          "date": "2023-04-01",
+          "size": 101978286,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/InShotPro-1.67.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.2",
+          "date": "2023-03-17",
+          "size": 99954251,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InShotPro-1.66.2.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.1",
+          "date": "2023-03-04",
+          "size": 87709132,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/InShotPro-1.66.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.0",
+          "date": "2023-02-28",
+          "size": 89073088,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/InShotPro-1.66.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.65.0",
+          "date": "2023-01-14",
+          "size": 83148773,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/InShotPro-1.65.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.64.1",
+          "date": "2022-12-22",
+          "size": 85376796,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/InShotPro-1.64.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.64.0",
+          "date": "2022-12-21",
+          "size": 97808807,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/InShotPro-1.64.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.63.3",
+          "date": "2022-11-16",
+          "size": 77797740,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InShotPro-1.63.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 77681163,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "MeituPlusPlus",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "developerName": "iApps / iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
+      "versions": [
+        {
+          "version": "10.18.1",
+          "date": "2024-09-05",
+          "size": 270650066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/MeituPlusPlus-10.18.1.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.17.0",
+          "date": "2024-08-22",
+          "size": 269737557,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2024/MeituPlusPlus-10.17.0.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.15.1",
+          "date": "2024-07-16",
+          "size": 286569156,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2024/MeituPlusPlus-10.15.1.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.13.0",
+          "date": "2024-06-22",
+          "size": 268596736,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/MeituPlusPlus-10.13.0.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.10.1",
+          "date": "2024-05-13",
+          "size": 251488874,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/MeituPlusPlus-10.10.1.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.9.5",
+          "date": "2024-04-29",
+          "size": 244410747,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/MeituPlusPlus-10.9.5.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.8.0",
+          "date": "2024-04-12",
+          "size": 243032743,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/MeituPlusPlus-10.8.0.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.7.0",
+          "date": "2024-04-03",
+          "size": 242468272,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MeituPlusPlus-10.7.0.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.5.0",
+          "date": "2024-03-01",
+          "size": 240064021,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/MeituPlusPlus-10.5.0.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.3.1",
+          "date": "2024-02-23",
+          "size": 233944065,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/MeituPlusPlus-10.3.1.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "10.1.0",
+          "date": "2024-01-09",
+          "size": 234111510,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MeituPlusPlus-10.1.0.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.10.52",
+          "date": "2023-12-29",
+          "size": 254032068,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/MeituPlusPlus-9.10.52.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.10.51",
+          "date": "2023-12-23",
+          "size": 231528042,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/MeituPlusPlus-9.10.51.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.10.50",
+          "date": "2023-12-21",
+          "size": 247140619,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/MeituPlusPlus-9.10.50.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.10.35",
+          "date": "2023-12-16",
+          "size": 230671187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.10.30",
+          "date": "2023-12-08",
+          "size": 230163162,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.10.21",
+          "date": "2023-12-01",
+          "size": 231652715,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.9.81",
+          "date": "2023-10-03",
+          "size": 227689265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.7.30",
+          "date": "2023-01-02",
+          "size": 221377534,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa",
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Nicegram",
+      "bundleIdentifier": "app.nicegram",
+      "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png",
+      "versions": [
+        {
+          "version": "1.7.8",
+          "date": "2024-09-05",
+          "size": 107926053,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/Nicegram-1.7.8.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.9",
+          "date": "2024-08-05",
+          "size": 103531729,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2024/Nicegram-1.6.9.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.7",
+          "date": "2024-07-30",
+          "size": 105131503,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/Nicegram-1.6.7.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.5",
+          "date": "2024-07-13",
+          "size": 104911945,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/Nicegram-1.6.5.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.2",
+          "date": "2024-05-06",
+          "size": 109610074,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/Nicegram-1.6.2.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.0",
+          "date": "2024-04-23",
+          "size": 109346907,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/Nicegram-1.6.0.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.8",
+          "date": "2024-04-18",
+          "size": 110261594,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/Nicegram-1.5.8.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.6",
+          "date": "2024-02-25",
+          "size": 124895521,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/Nicegram-1.5.6.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.8",
+          "date": "2023-12-10",
+          "size": 108750042,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Nicegram-1.4.8.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.7",
+          "date": "2023-12-02",
+          "size": 79913529,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Nicegram-1.4.7.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.6",
+          "date": "2023-11-09",
+          "size": 102277928,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/Nicegram-1.4.6.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.5",
+          "date": "2023-11-07",
+          "size": 102030679,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Nicegram-1.4.5.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.4",
+          "date": "2023-10-22",
+          "size": 107693107,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/Nicegram-1.4.4.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.1",
+          "date": "2023-10-09",
+          "size": 103452375,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/Nicegram-1.4.1.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.0",
+          "date": "2023-09-14",
+          "size": 92868382,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Nicegram-1.4.0.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.9",
+          "date": "2023-08-22",
+          "size": 63355877,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/Nicegram-1.3.9.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.8",
+          "date": "2023-08-10",
+          "size": 62962134,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/Nicegram-1.3.8.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.7",
+          "date": "2023-07-28",
+          "size": 68959238,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/Nicegram-1.3.7.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.6",
+          "date": "2023-07-25",
+          "size": 72903492,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Nicegram-1.3.6.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.5",
+          "date": "2023-06-27",
+          "size": 88621142,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/Nicegram-1.3.5.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.2",
+          "date": "2023-06-25",
+          "size": 70531970,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/Nicegram-1.3.2.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.1",
+          "date": "2023-06-04",
+          "size": 64512781,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Nicegram-1.3.1.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.9",
+          "date": "2023-05-24",
+          "size": 64992543,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/Nicegram-1.2.9.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.6",
+          "date": "2023-04-22",
+          "size": 65266874,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2023/Nicegram-1.2.6.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.4",
+          "date": "2023-03-22",
+          "size": 205245660,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2023/Nicegram-1.2.4.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.3",
+          "date": "2023-03-08",
+          "size": 203001269,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/Nicegram-1.2.3.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.0",
+          "date": "2023-02-28",
+          "size": 99473831,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/Nicegram-1.2.0.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.8",
+          "date": "2023-01-06",
+          "size": 203814208,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/Nicegram-1.1.8.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.5",
+          "date": "2022-12-08",
+          "size": 195552923,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/Nicegram-1.1.5.ipa",
+          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PhotoroomPro",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dr1ven.eraser.png",
+      "versions": [
+        {
+          "version": "6.1.3",
+          "date": "2024-09-05",
+          "size": 100788924,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/PhotoroomPro-6.1.3.ipa",
+          "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.1.1",
+          "date": "2024-08-21",
+          "size": 75581897,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-21-2024/PhotoroomPro-6.1.1.ipa",
+          "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.0.9",
+          "date": "2024-08-07",
+          "size": 91761621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/PhotoroomPro-6.0.9.ipa",
+          "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "VSCOPremium",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
+      "versions": [
+        {
+          "version": "389.0.0",
+          "date": "2024-09-05",
+          "size": 139133578,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/VSCOPremium-389.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "387.0.0",
+          "date": "2024-08-17",
+          "size": 140038504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2024/VSCOPremium-387.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "384.0.0",
+          "date": "2024-07-30",
+          "size": 136556136,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/VSCOPremium-384.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "381.0.0",
+          "date": "2024-07-09",
+          "size": 120854501,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/VSCOPremium-381.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "379.0.0",
+          "date": "2024-06-27",
+          "size": 121070246,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/VSCOPremium-379.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "377.0.0",
+          "date": "2024-06-07",
+          "size": 121917984,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-07-2024/VSCOPremium-377.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "376.0.1",
+          "date": "2024-06-02",
+          "size": 121742313,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/VSCOPremium-376.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "375.0",
+          "date": "2024-05-24",
+          "size": 121725355,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2024/VSCOPremium-375.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "373.0",
+          "date": "2024-05-15",
+          "size": 121616504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VSCOPremium-373.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "372.0",
+          "date": "2024-05-04",
+          "size": 120648502,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "371.0",
+          "date": "2024-04-29",
+          "size": 120599686,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VSCOPremium-371.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "370.0",
+          "date": "2024-04-21",
+          "size": 119912875,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/VSCOPremium-370.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "368.0",
+          "date": "2024-04-13",
+          "size": 119024411,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/VSCOPremium-368.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "366.0",
+          "date": "2024-03-31",
+          "size": 119535206,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "362.0",
+          "date": "2024-03-01",
+          "size": 119138442,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/VSCOPremium-362.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "361.0",
+          "date": "2024-02-21",
+          "size": 118977867,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VSCOPremium-361.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "359.0.1",
+          "date": "2024-02-09",
+          "size": 119124395,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/VSCOPremium-359.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "355.0.1",
+          "date": "2024-01-13",
+          "size": 117025196,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/VSCOPremium-355.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        },
+        {
+          "version": "306.0.0",
+          "date": "2023-02-08",
+          "size": 110193844,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "InstagramNyx",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1 / Sultan Mods",
@@ -6945,140 +7742,6 @@
       ]
     },
     {
-      "name": "MeituPlusPlus",
-      "bundleIdentifier": "com.meitu.mtxx",
-      "developerName": "iApps / iOS Tutorials + App Cracks",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
-      "versions": [
-        {
-          "version": "10.17.0",
-          "date": "2024-08-22",
-          "size": 269737557,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2024/MeituPlusPlus-10.17.0.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.15.1",
-          "date": "2024-07-16",
-          "size": 286569156,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2024/MeituPlusPlus-10.15.1.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.13.0",
-          "date": "2024-06-22",
-          "size": 268596736,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/MeituPlusPlus-10.13.0.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.10.1",
-          "date": "2024-05-13",
-          "size": 251488874,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/MeituPlusPlus-10.10.1.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.9.5",
-          "date": "2024-04-29",
-          "size": 244410747,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/MeituPlusPlus-10.9.5.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.8.0",
-          "date": "2024-04-12",
-          "size": 243032743,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/MeituPlusPlus-10.8.0.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.7.0",
-          "date": "2024-04-03",
-          "size": 242468272,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MeituPlusPlus-10.7.0.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.5.0",
-          "date": "2024-03-01",
-          "size": 240064021,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/MeituPlusPlus-10.5.0.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.3.1",
-          "date": "2024-02-23",
-          "size": 233944065,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/MeituPlusPlus-10.3.1.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "10.1.0",
-          "date": "2024-01-09",
-          "size": 234111510,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MeituPlusPlus-10.1.0.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.10.52",
-          "date": "2023-12-29",
-          "size": 254032068,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/MeituPlusPlus-9.10.52.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.10.51",
-          "date": "2023-12-23",
-          "size": 231528042,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/MeituPlusPlus-9.10.51.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.10.50",
-          "date": "2023-12-21",
-          "size": 247140619,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/MeituPlusPlus-9.10.50.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.10.35",
-          "date": "2023-12-16",
-          "size": 230671187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.10.30",
-          "date": "2023-12-08",
-          "size": 230163162,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.10.21",
-          "date": "2023-12-01",
-          "size": 231652715,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.9.81",
-          "date": "2023-10-03",
-          "size": 227689265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.7.30",
-          "date": "2023-01-02",
-          "size": 221377534,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 08-22-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "MoovitPlus",
       "bundleIdentifier": "com.tranzmate.tranzmate1",
       "developerName": "IAppsBestLibrary",
@@ -7295,28 +7958,6 @@
           "size": 12615196,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa",
           "localizedDescription": "Photomath, with pro features unlocked.\nLast updated: 08-21-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "PhotoroomPro",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "developerName": "binnichtaktiv's iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dr1ven.eraser.png",
-      "versions": [
-        {
-          "version": "6.1.1",
-          "date": "2024-08-21",
-          "size": 75581897,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-21-2024/PhotoroomPro-6.1.1.ipa",
-          "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-21-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "6.0.9",
-          "date": "2024-08-07",
-          "size": 91761621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/PhotoroomPro-6.0.9.ipa",
-          "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-21-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
@@ -7695,140 +8336,6 @@
           "size": 41848347,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2024/OVFEditorPremium-5.0.1.ipa",
           "localizedDescription": "Detected by snapchat and flagged as a \"Media Upload\" text on the top left corner of snaps.\nLast updated: 08-17-2024\nStatus: \u274c"
-        }
-      ]
-    },
-    {
-      "name": "VSCOPremium",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
-      "versions": [
-        {
-          "version": "387.0.0",
-          "date": "2024-08-17",
-          "size": 140038504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2024/VSCOPremium-387.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "384.0.0",
-          "date": "2024-07-30",
-          "size": 136556136,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/VSCOPremium-384.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "381.0.0",
-          "date": "2024-07-09",
-          "size": 120854501,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/VSCOPremium-381.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "379.0.0",
-          "date": "2024-06-27",
-          "size": 121070246,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/VSCOPremium-379.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "377.0.0",
-          "date": "2024-06-07",
-          "size": 121917984,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-07-2024/VSCOPremium-377.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "376.0.1",
-          "date": "2024-06-02",
-          "size": 121742313,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/VSCOPremium-376.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "375.0",
-          "date": "2024-05-24",
-          "size": 121725355,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2024/VSCOPremium-375.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "373.0",
-          "date": "2024-05-15",
-          "size": 121616504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VSCOPremium-373.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "372.0",
-          "date": "2024-05-04",
-          "size": 120648502,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "371.0",
-          "date": "2024-04-29",
-          "size": 120599686,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VSCOPremium-371.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "370.0",
-          "date": "2024-04-21",
-          "size": 119912875,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/VSCOPremium-370.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "368.0",
-          "date": "2024-04-13",
-          "size": 119024411,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/VSCOPremium-368.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "366.0",
-          "date": "2024-03-31",
-          "size": 119535206,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "362.0",
-          "date": "2024-03-01",
-          "size": 119138442,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/VSCOPremium-362.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "361.0",
-          "date": "2024-02-21",
-          "size": 118977867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VSCOPremium-361.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "359.0.1",
-          "date": "2024-02-09",
-          "size": 119124395,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/VSCOPremium-359.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "355.0.1",
-          "date": "2024-01-13",
-          "size": 117025196,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/VSCOPremium-355.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "306.0.0",
-          "date": "2023-02-08",
-          "size": 110193844,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 08-17-2024\nStatus: \u2705"
         }
       ]
     },
@@ -8958,63 +9465,6 @@
       ]
     },
     {
-      "name": "DocumentsPlus",
-      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-      "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
-      "versions": [
-        {
-          "version": "8.12.5",
-          "date": "2024-08-11",
-          "size": 161297484,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/DocumentsPlus-8.12.5.ipa",
-          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "8.12",
-          "date": "2024-06-29",
-          "size": 158832943,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-29-2024/DocumentsPlus-8.12.ipa",
-          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "8.11.4",
-          "date": "2024-06-02",
-          "size": 161186252,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/DocumentsPlus-8.11.4.ipa",
-          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "8.11",
-          "date": "2024-04-23",
-          "size": 156715888,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/DocumentsPlus-8.11.ipa",
-          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "8.10.9",
-          "date": "2024-04-16",
-          "size": 150245964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/DocumentsPlus-8.10.9.ipa",
-          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "8.10.7",
-          "date": "2024-03-25",
-          "size": 150166682,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/DocumentsPlus-8.10.7.ipa",
-          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "8.10.5",
-          "date": "2024-03-16",
-          "size": 149574425,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/DocumentsPlus-8.10.5.ipa",
-          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "ElectricalCalculationsPro",
       "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -10055,414 +10505,6 @@
           "size": 42115601,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/WebVideoCasterPremium-2.31.ipa",
           "localizedDescription": "App that lets you cast pretty much anything from your phone to your TV. A user requested it so here it is. Note: Install the v1.40, click \"buy\" then install v2.31 over it. Originally found by binnichtaktiv\nLast updated: 08-07-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InShotPro",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
-      "versions": [
-        {
-          "version": "1.79.1",
-          "date": "2024-08-06",
-          "size": 164993226,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/InShotPro-1.79.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.79.0",
-          "date": "2024-07-12",
-          "size": 161103425,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/InShotPro-1.79.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.78.3",
-          "date": "2024-07-01",
-          "size": 153669630,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/InShotPro-1.78.3.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.78.1",
-          "date": "2024-06-12",
-          "size": 153174268,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/InShotPro-1.78.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.77.1",
-          "date": "2024-04-23",
-          "size": 149778320,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/InShotPro-1.77.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.76.3",
-          "date": "2024-03-26",
-          "size": 142988975,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InShotPro-1.76.3.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.76.1",
-          "date": "2024-03-03",
-          "size": 148817538,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/InShotPro-1.76.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.74.0",
-          "date": "2023-12-11",
-          "size": 142979578,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InShotPro-1.74.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.73.1",
-          "date": "2023-11-02",
-          "size": 105286019,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/InShotPro-1.73.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.73.0",
-          "date": "2023-10-31",
-          "size": 119766666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/InShotPro-1.73.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.72.1",
-          "date": "2023-10-20",
-          "size": 120994285,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/InShotPro-1.72.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.72.0",
-          "date": "2023-09-19",
-          "size": 128843318,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InShotPro-1.72.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.71.0",
-          "date": "2023-08-16",
-          "size": 109555080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/InShotPro-1.71.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.70.3",
-          "date": "2023-08-14",
-          "size": 94184469,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/InShotPro-1.70.3.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.70.0",
-          "date": "2023-07-09",
-          "size": 104584718,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.69.1",
-          "date": "2023-06-25",
-          "size": 85111276,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InShotPro-1.69.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.68.1",
-          "date": "2023-06-04",
-          "size": 101692931,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InShotPro-1.68.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.68.0",
-          "date": "2023-05-19",
-          "size": 86555365,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/InShotPro-1.68.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.67.1",
-          "date": "2023-04-08",
-          "size": 104275639,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/InShotPro-1.67.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.67.0",
-          "date": "2023-04-01",
-          "size": 101978286,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/InShotPro-1.67.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.2",
-          "date": "2023-03-17",
-          "size": 99954251,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InShotPro-1.66.2.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.1",
-          "date": "2023-03-04",
-          "size": 87709132,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/InShotPro-1.66.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.0",
-          "date": "2023-02-28",
-          "size": 89073088,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/InShotPro-1.66.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.65.0",
-          "date": "2023-01-14",
-          "size": 83148773,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/InShotPro-1.65.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.64.1",
-          "date": "2022-12-22",
-          "size": 85376796,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/InShotPro-1.64.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.64.0",
-          "date": "2022-12-21",
-          "size": 97808807,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/InShotPro-1.64.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.63.3",
-          "date": "2022-11-16",
-          "size": 77797740,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InShotPro-1.63.3.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 77681163,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 08-06-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Nicegram",
-      "bundleIdentifier": "app.nicegram",
-      "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png",
-      "versions": [
-        {
-          "version": "1.6.9",
-          "date": "2024-08-05",
-          "size": 103531729,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2024/Nicegram-1.6.9.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.7",
-          "date": "2024-07-30",
-          "size": 105131503,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/Nicegram-1.6.7.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.5",
-          "date": "2024-07-13",
-          "size": 104911945,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/Nicegram-1.6.5.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.2",
-          "date": "2024-05-06",
-          "size": 109610074,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/Nicegram-1.6.2.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.0",
-          "date": "2024-04-23",
-          "size": 109346907,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/Nicegram-1.6.0.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.8",
-          "date": "2024-04-18",
-          "size": 110261594,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/Nicegram-1.5.8.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.6",
-          "date": "2024-02-25",
-          "size": 124895521,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/Nicegram-1.5.6.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.8",
-          "date": "2023-12-10",
-          "size": 108750042,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Nicegram-1.4.8.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.7",
-          "date": "2023-12-02",
-          "size": 79913529,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Nicegram-1.4.7.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.6",
-          "date": "2023-11-09",
-          "size": 102277928,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/Nicegram-1.4.6.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.5",
-          "date": "2023-11-07",
-          "size": 102030679,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Nicegram-1.4.5.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.4",
-          "date": "2023-10-22",
-          "size": 107693107,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/Nicegram-1.4.4.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.1",
-          "date": "2023-10-09",
-          "size": 103452375,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/Nicegram-1.4.1.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.0",
-          "date": "2023-09-14",
-          "size": 92868382,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Nicegram-1.4.0.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.9",
-          "date": "2023-08-22",
-          "size": 63355877,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/Nicegram-1.3.9.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.8",
-          "date": "2023-08-10",
-          "size": 62962134,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/Nicegram-1.3.8.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.7",
-          "date": "2023-07-28",
-          "size": 68959238,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/Nicegram-1.3.7.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.6",
-          "date": "2023-07-25",
-          "size": 72903492,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Nicegram-1.3.6.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.5",
-          "date": "2023-06-27",
-          "size": 88621142,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/Nicegram-1.3.5.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.2",
-          "date": "2023-06-25",
-          "size": 70531970,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/Nicegram-1.3.2.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.1",
-          "date": "2023-06-04",
-          "size": 64512781,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Nicegram-1.3.1.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.9",
-          "date": "2023-05-24",
-          "size": 64992543,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/Nicegram-1.2.9.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.6",
-          "date": "2023-04-22",
-          "size": 65266874,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2023/Nicegram-1.2.6.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.4",
-          "date": "2023-03-22",
-          "size": 205245660,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2023/Nicegram-1.2.4.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.3",
-          "date": "2023-03-08",
-          "size": 203001269,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/Nicegram-1.2.3.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.0",
-          "date": "2023-02-28",
-          "size": 99473831,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/Nicegram-1.2.0.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.8",
-          "date": "2023-01-06",
-          "size": 203814208,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/Nicegram-1.1.8.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.5",
-          "date": "2022-12-08",
-          "size": 195552923,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/Nicegram-1.1.5.ipa",
-          "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705"
         }
       ]
     },
