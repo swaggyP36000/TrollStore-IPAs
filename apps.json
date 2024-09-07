@@ -4,17 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
-      "name": "Baterried",
+      "name": "Batteried",
       "bundleIdentifier": "com.34306.waifuts",
-      "developerName": "",
+      "developerName": "34306",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.34306.waifuts.png",
       "versions": [
         {
           "version": "1.0",
           "date": "2024-09-07",
           "size": 1811902,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/Baterried-1.0.ipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/Batteried-1.0.ipa",
+          "localizedDescription": "Place an icon above the battery.\nLast updated: 09-07-2024\nStatus: \u2705"
         }
       ]
     },
