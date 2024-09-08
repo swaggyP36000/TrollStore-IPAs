@@ -4,6 +4,105 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "DuolingoMax",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "version": "7.37.1",
+      "versionDate": "2024-09-08",
+      "size": 135865053,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/DuolingoMax-7.37.1.ipa",
+      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf / iOSGods",
+      "localizedDescription": "Note: I recompiled the IPA on my own due to concerns about the original source. Widgets are not working for some reason and the video call feature is restricted to new accounts. Important note: The \"Duolingo\" dynamic library from iOSGods does NOT unlock any features; instead, it is used to inject intrusive ads. Removing it will cause the app to crash as iOSGods has made it a dependency, which is quite questionable.. So in order to bypass these ads, click \"Thank you!\" then quickly press the dark bird icon at the top right corner and press \"Cancel\". (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-09-08",
+      "size": 29281,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/MuffinStore-1.1.ipa",
+      "developerName": "mineek",
+      "localizedDescription": "Experimental App Store app downgrader and installer with TS.\nLast updated: 09-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
+      "name": "SmuleVIP",
+      "bundleIdentifier": "com.smule.sing",
+      "version": "12.7.5",
+      "versionDate": "2024-09-08",
+      "size": 89529530,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/SmuleVIP-12.7.5.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 09-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.smule.sing.png"
+    },
+    {
+      "name": "SparkPremium",
+      "bundleIdentifier": "com.readdle.smartemail",
+      "version": "3.9.13",
+      "versionDate": "2024-09-08",
+      "size": 199502342,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/SparkPremium-3.9.13.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications.\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
+    },
+    {
+      "name": "StepsAppPro",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
+      "version": "7.0.20",
+      "versionDate": "2024-09-08",
+      "size": 170044242,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/StepsAppPro-7.0.20.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
+    },
+    {
+      "name": "StitchPicsPro",
+      "bundleIdentifier": "com.xcvzaq.imagejoin",
+      "version": "2.1.112",
+      "versionDate": "2024-09-08",
+      "size": 12878161,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/StitchPicsPro-2.1.112.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to \"stitch screenshots\" into a single seamless image, preserving original clarity, with support for automatic/manual and vertical/horizontal stitching, plus Web Snapshot and Photo Action Extensions and an image edge torn effect.\nLast updated: 09-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xcvzaq.imagejoin.png"
+    },
+    {
+      "name": "StoicPremium",
+      "bundleIdentifier": "com.mlobodzinski.Stoic",
+      "version": "2024.29",
+      "versionDate": "2024-09-08",
+      "size": 94656705,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/StoicPremium-2024.29.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png"
+    },
+    {
+      "name": "StravaPremium",
+      "bundleIdentifier": "com.strava.stravaride",
+      "version": "375.0.0",
+      "versionDate": "2024-09-08",
+      "size": 139887266,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/StravaPremium-375.0.0.ipa",
+      "developerName": "Dell",
+      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png"
+    },
+    {
+      "name": "SwipewipePremium",
+      "bundleIdentifier": "com.aoklab.fewerphotos",
+      "version": "2.08.02",
+      "versionDate": "2024-09-08",
+      "size": 67489176,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/SwipewipePremium-2.08.02.ipa",
+      "developerName": "iOS Tutorials + App Cracks / Blatant",
+      "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.aoklab.fewerphotos.png"
+    },
+    {
       "name": "Batteried",
       "bundleIdentifier": "com.34306.waifuts",
       "version": "1.0",
@@ -30,7 +129,7 @@
       "bundleIdentifier": "com.goodnotesapp.x",
       "version": "6.3.61",
       "versionDate": "2024-09-07",
-      "size": 350898433,
+      "size": 361517135,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/Goodnotes6-6.3.61.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
       "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 09-07-2024\nStatus: \u2705",
@@ -41,7 +140,7 @@
       "bundleIdentifier": "com.firecore.infuse",
       "version": "7.8.2-1.2.0",
       "versionDate": "2024-09-07",
-      "size": 39899148,
+      "size": 42791647,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/InfusePro-7.8.2-1.2.0.ipa",
       "developerName": "Suffuse-Team / InfusePlus",
       "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d",
@@ -151,7 +250,7 @@
       "bundleIdentifier": "com.neocortext.doublicatapp",
       "version": "4.18.0",
       "versionDate": "2024-09-07",
-      "size": 85545514,
+      "size": 89282854,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/ReFacePro-4.18.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "App to swap faces in videos and GIFs with just one selfie, animate photos and turn photos into cartoons.\nLast updated: 09-07-2024\nStatus: \u2705",
@@ -231,7 +330,7 @@
       "size": 78904895,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2024/EeveeSpotify-8.9.70-5.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -271,8 +370,8 @@
       "name": "TorBrowserPlusPlus",
       "bundleIdentifier": "ch.b-eng.tor",
       "version": "3.5.5",
-      "versionDate": "2024-09-06",
-      "size": 126143782,
+      "versionDate": "2024-09-08",
+      "size": 130264176,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2024/TorBrowserPlusPlus-3.5.5.ipa",
       "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
       "localizedDescription": "Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 09-06-2024\nStatus: \u2705",
@@ -282,8 +381,8 @@
       "name": "DocumentsPlus",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "version": "8.13",
-      "versionDate": "2024-09-05",
-      "size": 167834566,
+      "versionDate": "2024-09-08",
+      "size": 173447970,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/DocumentsPlus-8.13.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
       "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50",
@@ -293,8 +392,8 @@
       "name": "InShotPro",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "version": "1.80.1",
-      "versionDate": "2024-09-05",
-      "size": 163696342,
+      "versionDate": "2024-09-08",
+      "size": 167160486,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/InShotPro-1.80.1.ipa",
       "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
       "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: \u2705",
@@ -304,8 +403,8 @@
       "name": "MeituPlusPlus",
       "bundleIdentifier": "com.meitu.mtxx",
       "version": "10.18.1",
-      "versionDate": "2024-09-05",
-      "size": 270650066,
+      "versionDate": "2024-09-08",
+      "size": 285417615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/MeituPlusPlus-10.18.1.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
       "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50",
@@ -315,8 +414,8 @@
       "name": "Nicegram",
       "bundleIdentifier": "app.nicegram",
       "version": "1.7.8",
-      "versionDate": "2024-09-05",
-      "size": 107926053,
+      "versionDate": "2024-09-08",
+      "size": 115748277,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/Nicegram-1.7.8.ipa",
       "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
       "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 09-05-2024\nStatus: \u2705",
@@ -326,8 +425,8 @@
       "name": "PhotoroomPro",
       "bundleIdentifier": "com.dr1ven.eraser",
       "version": "6.1.3",
-      "versionDate": "2024-09-05",
-      "size": 100788924,
+      "versionDate": "2024-09-08",
+      "size": 105062902,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/PhotoroomPro-6.1.3.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 09-05-2024\nStatus: \u2705 \u2b50",
@@ -337,8 +436,8 @@
       "name": "VSCOPremium",
       "bundleIdentifier": "co.visualsupply.cam",
       "version": "389.0.0",
-      "versionDate": "2024-09-05",
-      "size": 139133578,
+      "versionDate": "2024-09-08",
+      "size": 142898295,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2024/VSCOPremium-389.0.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
       "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705",
@@ -755,8 +854,8 @@
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.56-4.3",
-      "versionDate": "2024-09-06",
-      "size": 142586675,
+      "versionDate": "2024-09-08",
+      "size": 151462779,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2024/BHX-10.56-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1 / Sultan Mods / binnichtaktiv's iPA Library / nowesr1",
       "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udc4d",
@@ -814,7 +913,7 @@
       "size": 78479774,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2024/EeveeSpotify-8.9.68-4.9.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1166,7 +1265,7 @@
       "size": 77933103,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2024/EeveeSpotify-8.9.66-4.8.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1672,7 +1771,7 @@
       "size": 77441278,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/EeveeSpotify-8.9.64-4.7.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1727,7 +1826,7 @@
       "size": 85407516,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/EeveeSpotify-8.9.64-4.6.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1936,7 +2035,7 @@
       "size": 77373895,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/EeveeSpotify-8.9.62-4.6.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2321,7 +2420,7 @@
       "size": 76880363,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2024/EeveeSpotify-8.9.60-4.6.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2409,7 +2508,7 @@
       "size": 84877074,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-29-2024/EeveeSpotify-8.9.60-4.5.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2420,7 +2519,7 @@
       "size": 129927811,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-29-2024/StravaPremium-369.0.1.ipa",
       "developerName": "Dell",
-      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 07-29-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png"
     },
     {
@@ -2794,7 +2893,7 @@
       "size": 76177478,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/EeveeSpotify-8.9.58-4.5.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3245,7 +3344,7 @@
       "size": 133083567,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2024/StravaPremium-367.0.0.ipa",
       "developerName": "Dell",
-      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 07-29-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png"
     },
     {
@@ -3729,7 +3828,7 @@
       "size": 75064559,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/EeveeSpotify-8.9.54-4.4.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3817,7 +3916,7 @@
       "size": 167961413,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/StepsAppPro-7.0.17.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
-      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
     },
     {
@@ -3927,7 +4026,7 @@
       "size": 189078673,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-07-2024/SparkPremium-3.9.12.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications.\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -4081,7 +4180,7 @@
       "size": 189060767,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/SparkPremium-3.9.11.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications.\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -4378,7 +4477,7 @@
       "size": 88759859,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/StoicPremium-2024.22.ipa",
       "developerName": "zxcvbn's tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png"
     },
     {
@@ -4389,7 +4488,7 @@
       "size": 134058088,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/StravaPremium-365.0.0.ipa",
       "developerName": "Dell",
-      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 07-29-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png"
     },
     {
@@ -4565,7 +4664,7 @@
       "size": 189076792,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-26-2024/SparkPremium-3.9.10.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications.\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -4609,7 +4708,7 @@
       "size": 75026367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/EeveeSpotify-8.9.50-4.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5280,7 +5379,7 @@
       "size": 75337996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/EeveeSpotify-8.9.48-4.2.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5378,8 +5477,8 @@
       "versionDate": "2024-06-16",
       "size": 111328210,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/DuolingoMax-7.26.1.ipa",
-      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
-      "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: \u26a0\ufe0f \ud83d\udc4d \u2b50",
+      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf / iOSGods",
+      "localizedDescription": "Note: I recompiled the IPA on my own due to concerns about the original source. Widgets are not working for some reason and the video call feature is restricted to new accounts. Important note: The \"Duolingo\" dynamic library from iOSGods does NOT unlock any features; instead, it is used to inject intrusive ads. Removing it will cause the app to crash as iOSGods has made it a dependency, which is quite questionable.. So in order to bypass these ads, click \"Thank you!\" then quickly press the dark bird icon at the top right corner and press \"Cancel\". (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
     },
     {
@@ -5588,7 +5687,7 @@
       "size": 163609221,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/StepsAppPro-7.0.14.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
-      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
     },
     {
@@ -5786,7 +5885,7 @@
       "size": 75650658,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/EeveeSpotify-8.9.44-4.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6270,7 +6369,7 @@
       "size": 75072303,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/EeveeSpotify-8.9.42-4.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6324,8 +6423,8 @@
       "versionDate": "2024-05-27",
       "size": 113443307,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-27-2024/DuolingoMax-7.23.0.ipa",
-      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
-      "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: \u26a0\ufe0f \ud83d\udc4d \u2b50",
+      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf / iOSGods",
+      "localizedDescription": "Note: I recompiled the IPA on my own due to concerns about the original source. Widgets are not working for some reason and the video call feature is restricted to new accounts. Important note: The \"Duolingo\" dynamic library from iOSGods does NOT unlock any features; instead, it is used to inject intrusive ads. Removing it will cause the app to crash as iOSGods has made it a dependency, which is quite questionable.. So in order to bypass these ads, click \"Thank you!\" then quickly press the dark bird icon at the top right corner and press \"Cancel\". (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
     },
     {
@@ -6490,7 +6589,7 @@
       "size": 74984525,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/EeveeSpotify-8.9.40-3.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6952,7 +7051,7 @@
       "size": 121485106,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-11-2024/SparkPremium-3.9.6.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications.\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -6974,7 +7073,7 @@
       "size": 72660511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7150,7 +7249,7 @@
       "size": 72906034,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/EeveeSpotify-8.9.36-2.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7260,7 +7359,7 @@
       "size": 139654227,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/StravaPremium-357.0.1.ipa",
       "developerName": "Dell",
-      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 07-29-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png"
     },
     {
@@ -7469,7 +7568,7 @@
       "size": 69845551,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7634,7 +7733,7 @@
       "size": 68598253,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7887,7 +7986,7 @@
       "size": 67901441,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7920,7 +8019,7 @@
       "size": 13954471,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/StitchPicsPro-2.1.108.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to \"stitch screenshots\" into a single seamless image, preserving original clarity, with support for automatic/manual and vertical/horizontal stitching, plus Web Snapshot and Photo Action Extensions and an image edge torn effect.\nLast updated: 04-22-2024\nStatus: \u2705",
+      "localizedDescription": "App to \"stitch screenshots\" into a single seamless image, preserving original clarity, with support for automatic/manual and vertical/horizontal stitching, plus Web Snapshot and Photo Action Extensions and an image edge torn effect.\nLast updated: 09-08-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xcvzaq.imagejoin.png"
     },
     {
@@ -7942,7 +8041,7 @@
       "size": 68154131,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets. Please refrain from opening issues here.\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udd35 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8723,7 +8822,7 @@
       "size": 82428079,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/StoicPremium-2024.14.ipa",
       "developerName": "zxcvbn's tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png"
     },
     {
@@ -9592,7 +9691,7 @@
       "size": 97707884,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/SparkPremium-3.9.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications.\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -9965,8 +10064,8 @@
       "versionDate": "2024-03-21",
       "size": 22648829,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2024/SwipewipePremium-2.03.00.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 03-21-2024\nStatus: \u2705 \u2b50",
+      "developerName": "iOS Tutorials + App Cracks / Blatant",
+      "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.aoklab.fewerphotos.png"
     },
     {
@@ -10043,7 +10142,7 @@
       "size": 160638930,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/StepsAppPro-7.0.8.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
-      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
     },
     {
@@ -11110,7 +11209,7 @@
       "size": 68188034,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2024/StoicPremium-2024.4.ipa",
       "developerName": "zxcvbn's tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png"
     },
     {
@@ -11208,8 +11307,8 @@
       "versionDate": "2024-03-02",
       "size": 112731883,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/DuolingoMax-7.9.0.ipa",
-      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
-      "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: \u26a0\ufe0f \ud83d\udc4d \u2b50",
+      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf / iOSGods",
+      "localizedDescription": "Note: I recompiled the IPA on my own due to concerns about the original source. Widgets are not working for some reason and the video call feature is restricted to new accounts. Important note: The \"Duolingo\" dynamic library from iOSGods does NOT unlock any features; instead, it is used to inject intrusive ads. Removing it will cause the app to crash as iOSGods has made it a dependency, which is quite questionable.. So in order to bypass these ads, click \"Thank you!\" then quickly press the dark bird icon at the top right corner and press \"Cancel\". (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
     },
     {
@@ -11241,8 +11340,8 @@
       "versionDate": "2024-03-02",
       "size": 24208267,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/SwipewipePremium-2.01.00.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 03-21-2024\nStatus: \u2705 \u2b50",
+      "developerName": "iOS Tutorials + App Cracks / Blatant",
+      "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.aoklab.fewerphotos.png"
     },
     {
@@ -12760,7 +12859,7 @@
       "size": 160327151,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/StepsAppPro-7.0.4.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
-      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 09-08-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
     },
     {
@@ -13464,7 +13563,7 @@
       "size": 63283283,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/SmuleVIP-12.2.3.ipa",
       "developerName": "iApps",
-      "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 09-08-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.smule.sing.png"
     },
     {
@@ -16445,7 +16544,7 @@
       "size": 184885684,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications.\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
