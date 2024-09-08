@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "WhatsappWatusi",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "version": "24.17.78-1.2.40",
+      "versionDate": "2024-09-08",
+      "size": 112071495,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/WhatsappWatusi-24.17.78-1.2.40.ipa",
+      "developerName": "FouadRaheb",
+      "localizedDescription": "Not Cracked. The only all-in-one tweak for WhatsApp on iOS devices. Injected with the following tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+    },
+    {
+      "name": "WhatsappWatusiCracked",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "version": "24.17.78-1.2.40",
+      "versionDate": "2024-09-08",
+      "size": 121138591,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/WhatsappWatusiCracked-24.17.78-1.2.40.ipa",
+      "developerName": "FouadRaheb / CyPwn IPA Library",
+      "localizedDescription": "This cracked version is brought to you by CyPwn and CBZ. Injected with the following cracked tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+    },
+    {
       "name": "DuolingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "version": "7.37.1",
@@ -783,17 +805,6 @@
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
       "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.17.78-1.2.36-3.4.4",
-      "versionDate": "2024-08-30",
-      "size": 118029186,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-30-2024/Watusi3-24.17.78-1.2.36-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "AIChatbotGeniePro",
@@ -4250,17 +4261,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.13.79-1.2.36-3.4.4",
-      "versionDate": "2024-07-03",
-      "size": 104147447,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-03-2024/Watusi3-24.13.79-1.2.36-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "TrollRecorder",
       "bundleIdentifier": "wiki.qaq.trapp",
       "version": "1.16.0-338",
@@ -5823,17 +5823,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.11.85-1.2.33-3.4.4",
-      "versionDate": "2024-06-11",
-      "size": 104454935,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/Watusi3-24.11.85-1.2.33-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.45-4.3",
@@ -6767,17 +6756,6 @@
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
       "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 08-30-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.10.4-1.2.32-3.4.4",
-      "versionDate": "2024-05-17",
-      "size": 99586735,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2024/Watusi3-24.10.4-1.2.32-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "AlightMotionPremium",
@@ -8342,17 +8320,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.8.80-1.2.30-3.4.4",
-      "versionDate": "2024-04-18",
-      "size": 101663808,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/Watusi3-24.8.80-1.2.30-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "MusicAIVIP",
       "bundleIdentifier": "com.feraset.tune",
       "version": "4.1.5",
@@ -8463,17 +8430,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.8.77-1.2.30-3.4.4",
-      "versionDate": "2024-04-16",
-      "size": 103040494,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/Watusi3-24.8.77-1.2.30-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "WeatherRadarPro",
       "bundleIdentifier": "de.wetteronline.WetterApppro",
       "version": "2024.7.1",
@@ -8538,17 +8494,6 @@
       "developerName": "Paisseon / ArianaMinajj",
       "localizedDescription": "App for both beginners and advanced users, offers a user-friendly interface for simple one-click workout starts and customizable options for tailored fitness routines. A user requested it so here it is.\nLast updated: 04-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alexandersergienko.TabataTimer.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.7.79-1.2.30-3.4.4",
-      "versionDate": "2024-04-14",
-      "size": 104801350,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2024/Watusi3-24.7.79-1.2.30-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "AdGuardPro",
@@ -9233,17 +9178,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.6.78-1.2.29-3.4.4",
-      "versionDate": "2024-04-02",
-      "size": 103814317,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/Watusi3-24.6.78-1.2.29-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "ChargeLimiter",
       "bundleIdentifier": "chaoge.ChargeLimiter",
       "version": "1.5",
@@ -9781,17 +9715,6 @@
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1 / Sultan Mods",
       "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 09-06-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.6.77-1.2.27-3.4.4",
-      "versionDate": "2024-03-26",
-      "size": 105418918,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/Watusi3-24.6.77-1.2.27-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BHX",
@@ -10707,17 +10630,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.5.75-1.2.25-3.4.4",
-      "versionDate": "2024-03-12",
-      "size": 100709750,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/Watusi3-24.5.75-1.2.25-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "CarrotWeatherUltra",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "version": "5.12.12",
@@ -10936,17 +10848,6 @@
       "developerName": "zxcvbn\u2019s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
       "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.5).\nLast updated: 09-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.5.4-1.2.25-3.4.4",
-      "versionDate": "2024-03-08",
-      "size": 102348759,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/Watusi3-24.5.4-1.2.25-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "AlarmyPremium",
@@ -11431,17 +11332,6 @@
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 09-07-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.4.78-1.2.25-3.4.4",
-      "versionDate": "2024-03-01",
-      "size": 101991866,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/Watusi3-24.4.78-1.2.25-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BeRealBea",
@@ -11950,17 +11840,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.4.3-1.2.21-3.4.4",
-      "versionDate": "2024-02-23",
-      "size": 102073924,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/Watusi3-24.4.3-1.2.21-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.29-4.3",
@@ -12379,17 +12258,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.3.70-1.2.20-3.4.4",
-      "versionDate": "2024-02-12",
-      "size": 108152204,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/Watusi3-24.3.70-1.2.20-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "version": "1.3.6-2.2.0",
@@ -12575,17 +12443,6 @@
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
       "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 09-05-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.3.70-1.2.19-3.4.4",
-      "versionDate": "2024-02-09",
-      "size": 108132168,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/Watusi3-24.3.70-1.2.19-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "iPoGo",
@@ -12973,17 +12830,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.2.75-1.2.19-3.4.4",
-      "versionDate": "2024-02-01",
-      "size": 107601737,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/Watusi3-24.2.75-1.2.19-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "iTorrent",
       "bundleIdentifier": "ru.nonamedude.iTorrent",
       "version": "1.9-25",
@@ -13081,17 +12927,6 @@
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me / Sultan Mods",
       "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 08-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.2.75-1.2.18-3.4.4",
-      "versionDate": "2024-01-30",
-      "size": 107603482,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/Watusi3-24.2.75-1.2.18-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "EnhanceFoxPro",
@@ -13754,17 +13589,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.1.80-1.2.14-3.4.4",
-      "versionDate": "2024-01-21",
-      "size": 107646622,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/Watusi3-24.1.80-1.2.14-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "CarPlex",
       "bundleIdentifier": "com.osk3apps.CarPlex",
       "version": "1.0",
@@ -14282,17 +14106,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "24.1.4-1.2.14-3.4.4",
-      "versionDate": "2024-01-13",
-      "size": 107627343,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/Watusi3-24.1.4-1.2.14-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "AppDump2",
       "bundleIdentifier": "cn.bswbw.AppsDump",
       "version": "2.0.6",
@@ -14401,17 +14214,6 @@
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1 / Sultan Mods / binnichtaktiv's iPA Library / nowesr1",
       "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.25.85-1.2.14-3.4.4",
-      "versionDate": "2024-01-10",
-      "size": 107373149,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2024/Watusi3-23.25.85-1.2.14-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "AIChatSmithPremium",
@@ -15580,17 +15382,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.25.84-1.2.14-3.4.4",
-      "versionDate": "2023-12-20",
-      "size": 107374288,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/Watusi3-23.25.84-1.2.14-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "version": "1.3.3-1.20.0",
@@ -15765,17 +15556,6 @@
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB / RobsMods",
       "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 03-19-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.25.81-1.2.14-3.4.4",
-      "versionDate": "2023-12-16",
-      "size": 107370188,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/Watusi3-23.25.81-1.2.14-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "CallAssist",
@@ -16130,17 +15910,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.25.80-1.2.11-3.4.4",
-      "versionDate": "2023-12-12",
-      "size": 97588153,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Watusi3-23.25.80-1.2.11-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "WiFiList",
       "bundleIdentifier": "com.itaysoft.wifilist",
       "version": "1.0",
@@ -16172,17 +15941,6 @@
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1 / Sultan Mods",
       "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 09-06-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.25.79-1.2.11-3.4.4",
-      "versionDate": "2023-12-11",
-      "size": 97172602,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/Watusi3-23.25.79-1.2.11-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BeRealBea",
@@ -16282,17 +16040,6 @@
       "developerName": "project-violet",
       "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.25.6-1.2.11-3.4.4",
-      "versionDate": "2023-12-10",
-      "size": 97168799,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Watusi3-23.25.6-1.2.11-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BHX",
@@ -16790,17 +16537,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.24.73-1.2.10-3.4.4",
-      "versionDate": "2023-12-02",
-      "size": 96266745,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Watusi3-23.24.73-1.2.10-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "AppsManager",
       "bundleIdentifier": "com.tigisoftware.ADManager",
       "version": "1.8.4",
@@ -17241,17 +16977,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.24.0-1.2.10-3.4.4",
-      "versionDate": "2023-11-21",
-      "size": 96258781,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/Watusi3-23.24.0-1.2.10-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "InstaRocketBH",
       "bundleIdentifier": "com.burbn.instagram",
       "version": "309.1.1-3.8.17",
@@ -17406,17 +17131,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.23.82-1.2.10-3.4.4",
-      "versionDate": "2023-11-18",
-      "size": 107894613,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/Watusi3-23.23.82-1.2.10-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "FacebookWolf",
       "bundleIdentifier": "com.facebook.Facebook",
       "version": "441.0",
@@ -17492,17 +17206,6 @@
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev / CyPwn IPA Library",
       "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-22-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.23.79-1.2.10-3.4.4",
-      "versionDate": "2023-11-15",
-      "size": 95463735,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/Watusi3-23.23.79-1.2.10-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "InstaRocketCracked",
@@ -17692,17 +17395,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.23.78-1.2.10-3.4.4",
-      "versionDate": "2023-11-08",
-      "size": 102742011,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/Watusi3-23.23.78-1.2.10-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.15-4.0",
@@ -17756,17 +17448,6 @@
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev / CyPwn IPA Library",
       "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-22-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.23.77-1.2.10-3.4.4",
-      "versionDate": "2023-11-07",
-      "size": 102740303,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Watusi3-23.23.77-1.2.10-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "InfusePro",
@@ -17956,17 +17637,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.23.0-1.2.8-3.4.4",
-      "versionDate": "2023-11-01",
-      "size": 102717889,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/Watusi3-23.23.0-1.2.8-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "InShotPro",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "version": "1.73.0",
@@ -18088,17 +17758,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.21.79-1.2.8-3.4.4",
-      "versionDate": "2023-10-26",
-      "size": 102488172,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/Watusi3-23.21.79-1.2.8-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "31.8.0-2.3",
@@ -18130,17 +17789,6 @@
       "developerName": "zxcvbn's tweaked IPAs / BandarHL / SoCuul",
       "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-25-2024\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.21.77-1.2.8-3.4.4",
-      "versionDate": "2023-10-25",
-      "size": 102481247,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/Watusi3-23.21.77-1.2.8-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "SpotifyDeluxe",
@@ -18218,17 +17866,6 @@
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev / CyPwn IPA Library",
       "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-22-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.21.0-1.2.8-3.4.4",
-      "versionDate": "2023-10-23",
-      "size": 102438028,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/Watusi3-23.21.0-1.2.8-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BHX",
@@ -18594,17 +18231,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.20.79-1.2.8-3.4.4",
-      "versionDate": "2023-10-11",
-      "size": 111456573,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/Watusi3-23.20.79-1.2.8-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "31.5.0-2.2.1",
@@ -18946,17 +18572,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.19.86-1.2.8-3.4.4",
-      "versionDate": "2023-09-30",
-      "size": 99212272,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/Watusi3-23.19.86-1.2.8-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "AIChatSmithPremium",
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "version": "6.2.2",
@@ -19199,17 +18814,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.19.76-1.2.4-3.4.4",
-      "versionDate": "2023-09-23",
-      "size": 98950997,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Watusi3-23.19.76-1.2.4-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "31.3.0-2.2.1",
@@ -19285,17 +18889,6 @@
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
       "localizedDescription": "This version has support for CarPlay when installed via TrollStore.\nLast updated: 04-20-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.19.0-1.2.4-3.4.4",
-      "versionDate": "2023-09-21",
-      "size": 99395812,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/Watusi3-23.19.0-1.2.4-3.4.4.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "AIChatSmithPremium",
@@ -19485,17 +19078,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.18.78-1.2.1",
-      "versionDate": "2023-09-16",
-      "size": 98513913,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-16-2023/Watusi3-23.18.78-1.2.1.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "version": "1.3.1-1.11.0",
@@ -19648,28 +19230,6 @@
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB / RobsMods",
       "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 03-19-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.18.75-1.2.1",
-      "versionDate": "2023-09-12",
-      "size": 103310768,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/Watusi3-23.18.75-1.2.1.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.17.81-1.2.1",
-      "versionDate": "2023-09-10",
-      "size": 93508949,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-10-2023/Watusi3-23.17.81-1.2.1.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BHTikTokPlus",
@@ -19903,17 +19463,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.17.78-1.2.1",
-      "versionDate": "2023-09-05",
-      "size": 102599442,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/Watusi3-23.17.78-1.2.1.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "LingoDeer",
       "bundleIdentifier": "com.lingodeer",
       "version": "2.9.3",
@@ -19956,17 +19505,6 @@
       "developerName": "zxcvbn\u2019s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
       "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.5).\nLast updated: 09-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.17.78-1.2",
-      "versionDate": "2023-09-02",
-      "size": 75874909,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/Watusi3-23.17.78-1.2.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BHTikTokPlus",
@@ -20189,17 +19727,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.17.0-1.2",
-      "versionDate": "2023-08-24",
-      "size": 74349431,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/Watusi3-23.17.0-1.2.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "SpotifyDeluxe",
       "bundleIdentifier": "com.spotify.client",
       "version": "8.8.64",
@@ -20286,17 +19813,6 @@
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa / ArianaMinajj",
       "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 09-04-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.16.78-1.2",
-      "versionDate": "2023-08-22",
-      "size": 97147281,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/Watusi3-23.16.78-1.2.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BeRealBea",
@@ -20706,17 +20222,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.16.0-1.2",
-      "versionDate": "2023-08-08",
-      "size": 83554261,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/Watusi3-23.16.0-1.2.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "30.6.0-1.2",
@@ -20726,17 +20231,6 @@
       "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft / riadipa / ArianaMinajj",
       "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 09-07-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.15.78-1.2",
-      "versionDate": "2023-08-07",
-      "size": 73235853,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2023/Watusi3-23.15.78-1.2.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "FacebookWolf",
@@ -20770,17 +20264,6 @@
       "developerName": "N/A",
       "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.15.78",
-      "versionDate": "2023-08-05",
-      "size": 76031723,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/Watusi3-23.15.78.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "MovieBoxPro",
@@ -20970,17 +20453,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.15.0",
-      "versionDate": "2023-07-28",
-      "size": 82209996,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/Watusi3-23.15.0.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "30.5.0-0.0.1",
@@ -21034,17 +20506,6 @@
       "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
       "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.14.82",
-      "versionDate": "2023-07-26",
-      "size": 100871259,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/Watusi3-23.14.82.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BHTikTokPlus",
@@ -21256,17 +20717,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.14.79",
-      "versionDate": "2023-07-25",
-      "size": 81350176,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Watusi3-23.14.79.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "InstaRocketCracked",
       "bundleIdentifier": "com.burbn.instagram",
       "version": "293.0",
@@ -21364,17 +20814,6 @@
       "developerName": "N/A",
       "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.14.0",
-      "versionDate": "2023-07-14",
-      "size": 102817118,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/Watusi3-23.14.0.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "Aidoku",
@@ -21650,17 +21089,6 @@
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa / ArianaMinajj",
       "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 09-04-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.12.76",
-      "versionDate": "2023-06-29",
-      "size": 105959446,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/Watusi3-23.12.76.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "InstaRocketCracked",
@@ -21982,17 +21410,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.12.71",
-      "versionDate": "2023-06-25",
-      "size": 101962327,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/Watusi3-23.12.71.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "Aidoku",
       "bundleIdentifier": "xyz.skitty.Aidoku",
       "version": "0.6.3",
@@ -22156,17 +21573,6 @@
       "developerName": "zxcvbn\u2019s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
       "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.5).\nLast updated: 09-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.10.76",
-      "versionDate": "2023-06-04",
-      "size": 100563527,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Watusi3-23.10.76.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "Cowabunga",
@@ -22618,17 +22024,6 @@
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1 / Sultan Mods / binnichtaktiv's iPA Library / nowesr1",
       "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 09-06-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.8.78",
-      "versionDate": "2023-05-02",
-      "size": 97703442,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2023/Watusi3-23.8.78.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "PicsArtPlusPlus",
@@ -23104,17 +22499,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.6.74",
-      "versionDate": "2023-04-16",
-      "size": 95654802,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/Watusi3-23.6.74.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "version": "1.0-0.36.2",
@@ -23432,17 +22816,6 @@
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
       "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 08-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.5.79",
-      "versionDate": "2023-03-31",
-      "size": 92866223,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/Watusi3-23.5.79.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BeRealUnblur",
@@ -23808,17 +23181,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.5.75",
-      "versionDate": "2023-03-15",
-      "size": 94801790,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/Watusi3-23.5.75.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "Aidoku",
       "bundleIdentifier": "xyz.skitty.Aidoku",
       "version": "0.6.1-6",
@@ -23993,17 +23355,6 @@
       "developerName": "leminlimez",
       "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1\nLast updated: 11-28-2023\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.SecondHand.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.3.77",
-      "versionDate": "2023-03-09",
-      "size": 78920293,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/Watusi3-23.3.77.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BlackHole",
@@ -25128,17 +24479,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.2.75",
-      "versionDate": "2023-02-06",
-      "size": 90626818,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/Watusi3-23.2.75.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "Cowabunga",
       "bundleIdentifier": "com.leemin.Cowabunga",
       "version": "7.0.4",
@@ -25324,17 +24664,6 @@
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
       "localizedDescription": "This version has support for CarPlay when installed via TrollStore.\nLast updated: 04-20-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "23.1.75",
-      "versionDate": "2023-01-28",
-      "size": 91998110,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/Watusi3-23.1.75.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "Cowabunga",
@@ -26998,17 +26327,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "22.23.77",
-      "versionDate": "2022-12-02",
-      "size": 75899421,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/Watusi3-22.23.77.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
       "name": "AppCake",
       "bundleIdentifier": "appcake2.iphonecake.com",
       "version": "6.1.3",
@@ -27810,17 +27128,6 @@
       "developerName": "AppDB / CyPwn IPA Library",
       "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "22.21.27",
-      "versionDate": "2022-11-12",
-      "size": 82165456,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/Watusi3-22.21.27.ipa",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb / Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 08-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "AppStorePlusPlus",
