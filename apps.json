@@ -4,6 +4,193 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ApolloICA",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
+      "versions": [
+        {
+          "version": "1.15.11-1.1.4",
+          "date": "2024-09-09",
+          "size": 108282533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/ApolloICA-1.15.11-1.1.4.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 09-09-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.1.2",
+          "date": "2024-08-02",
+          "size": 108281915,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/ApolloICA-1.15.11-1.1.2.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 09-09-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.11",
+          "date": "2024-03-07",
+          "size": 108157689,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ApolloICA-1.15.11-1.0.11.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 09-09-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.10",
+          "date": "2024-01-23",
+          "size": 108157865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/ApolloICA-1.15.11-1.0.10.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 09-09-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.9",
+          "date": "2024-01-07",
+          "size": 87166749,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/ApolloICA-1.15.11-1.0.9.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 09-09-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.8",
+          "date": "2023-12-18",
+          "size": 87096056,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.15.11-1.0.8.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 09-09-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.5",
+          "date": "2023-12-03",
+          "size": 87165733,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 09-09-2024\nStatus: \u2705 \u2754"
+        }
+      ]
+    },
+    {
+      "name": "TarteelPremium",
+      "bundleIdentifier": "com.iqraapp.Iqra",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iqraapp.Iqra.png",
+      "versions": [
+        {
+          "version": "5.46.2",
+          "date": "2024-09-09",
+          "size": 118748718,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/TarteelPremium-5.46.2.ipa",
+          "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.39.7",
+          "date": "2024-04-06",
+          "size": 110919920,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/TarteelPremium-5.39.7.ipa",
+          "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.39.5",
+          "date": "2024-03-24",
+          "size": 104422933,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2024/TarteelPremium-5.39.5.ipa",
+          "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 09-09-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Things3",
+      "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png",
+      "versions": [
+        {
+          "version": "3.20.12",
+          "date": "2024-09-09",
+          "size": 61370599,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/Things3-3.20.12.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.9",
+          "date": "2024-06-13",
+          "size": 20007358,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-13-2024/Things3-3.20.9.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.8",
+          "date": "2024-04-22",
+          "size": 55987113,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/Things3-3.20.8.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.7",
+          "date": "2024-04-06",
+          "size": 55985779,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/Things3-3.20.7.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.5",
+          "date": "2024-03-20",
+          "size": 56083182,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Things3-3.20.5.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.4",
+          "date": "2024-03-19",
+          "size": 56084600,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Things3-3.20.4.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.3",
+          "date": "2024-02-17",
+          "size": 54327102,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Things3-3.20.3.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.19.8",
+          "date": "2023-12-28",
+          "size": 52399122,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Things3-3.19.8.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.19.3",
+          "date": "2023-12-03",
+          "size": 51164188,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Things3-3.19.3.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "WABusinessWatusi",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "FouadRaheb",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsAppSMB.png",
+      "versions": [
+        {
+          "version": "24.17.78-1.2.40",
+          "date": "2024-09-09",
+          "size": 118499340,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/WABusinessWatusi-24.17.78-1.2.40.ipa",
+          "localizedDescription": "Not Cracked. The only all-in-one tweak for WhatsApp Business on iOS devices. Injected with the following tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-09-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "WABusinessWatusiCracked",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "FouadRaheb / CyPwn IPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsAppSMB.png",
+      "versions": [
+        {
+          "version": "24.17.78-1.2.40",
+          "date": "2024-09-09",
+          "size": 128182957,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/WABusinessWatusiCracked-24.17.78-1.2.40.ipa",
+          "localizedDescription": "This cracked version of WhatsApp Business is brought to you by CyPwn and CBZ. Injected with the following cracked tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-09-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "WhatsappWatusi",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "FouadRaheb",
@@ -14,7 +201,7 @@
           "date": "2024-09-08",
           "size": 112071495,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/WhatsappWatusi-24.17.78-1.2.40.ipa",
-          "localizedDescription": "Not Cracked. The only all-in-one tweak for WhatsApp on iOS devices. Injected with the following tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-08-2024\nStatus: \u2705"
+          "localizedDescription": "Not Cracked. The only all-in-one tweak for WhatsApp on iOS devices. Injected with the following tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-09-2024\nStatus: \u2705"
         }
       ]
     },
@@ -29,7 +216,7 @@
           "date": "2024-09-08",
           "size": 121138591,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/WhatsappWatusiCracked-24.17.78-1.2.40.ipa",
-          "localizedDescription": "This cracked version is brought to you by CyPwn and CBZ. Injected with the following cracked tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-08-2024\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "This cracked version of WhatsApp is brought to you by CyPwn and CBZ. Injected with the following cracked tweaks: Watusi 3 v1.2.40, Stalky v4.1.29, OnlineNotify v3.4.6 and ContactSync v1.1.9. Note: Begin by installing it from the App Store, activate it, then proceed to force install the TrollStore version. (Both notifications and iCloud backups work)\nLast updated: 09-09-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -11296,56 +11483,6 @@
       ]
     },
     {
-      "name": "ApolloICA",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
-      "versions": [
-        {
-          "version": "1.15.11-1.1.2",
-          "date": "2024-08-02",
-          "size": 108281915,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/ApolloICA-1.15.11-1.1.2.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754"
-        },
-        {
-          "version": "1.15.11-1.0.11",
-          "date": "2024-03-07",
-          "size": 108157689,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ApolloICA-1.15.11-1.0.11.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754"
-        },
-        {
-          "version": "1.15.11-1.0.10",
-          "date": "2024-01-23",
-          "size": 108157865,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/ApolloICA-1.15.11-1.0.10.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754"
-        },
-        {
-          "version": "1.15.11-1.0.9",
-          "date": "2024-01-07",
-          "size": 87166749,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/ApolloICA-1.15.11-1.0.9.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754"
-        },
-        {
-          "version": "1.15.11-1.0.8",
-          "date": "2023-12-18",
-          "size": 87096056,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.15.11-1.0.8.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754"
-        },
-        {
-          "version": "1.15.11-1.0.5",
-          "date": "2023-12-03",
-          "size": 87165733,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754"
-        }
-      ]
-    },
-    {
       "name": "ApolloPatcher",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "ichitaso",
@@ -14315,70 +14452,6 @@
       ]
     },
     {
-      "name": "Things3",
-      "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png",
-      "versions": [
-        {
-          "version": "3.20.9",
-          "date": "2024-06-13",
-          "size": 20007358,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-13-2024/Things3-3.20.9.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.20.8",
-          "date": "2024-04-22",
-          "size": 55987113,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/Things3-3.20.8.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.20.7",
-          "date": "2024-04-06",
-          "size": 55985779,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/Things3-3.20.7.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.20.5",
-          "date": "2024-03-20",
-          "size": 56083182,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Things3-3.20.5.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.20.4",
-          "date": "2024-03-19",
-          "size": 56084600,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Things3-3.20.4.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.20.3",
-          "date": "2024-02-17",
-          "size": 54327102,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Things3-3.20.3.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.19.8",
-          "date": "2023-12-28",
-          "size": 52399122,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Things3-3.19.8.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.19.3",
-          "date": "2023-12-03",
-          "size": 51164188,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Things3-3.19.3.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 06-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
       "name": "EarthquakePro",
       "bundleIdentifier": "org.tranquilli.Earthquake",
       "developerName": "DPixel / Paisseon",
@@ -15463,28 +15536,6 @@
           "size": 80391978,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Rosiecord-154.ipa",
           "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TarteelPremium",
-      "bundleIdentifier": "com.iqraapp.Iqra",
-      "developerName": "DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iqraapp.Iqra.png",
-      "versions": [
-        {
-          "version": "5.39.7",
-          "date": "2024-04-06",
-          "size": 110919920,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/TarteelPremium-5.39.7.ipa",
-          "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.39.5",
-          "date": "2024-03-24",
-          "size": 104422933,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2024/TarteelPremium-5.39.5.ipa",
-          "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: \u2705"
         }
       ]
     },
