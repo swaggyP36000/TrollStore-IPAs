@@ -1,0 +1,72 @@
+#version1
+
+name: "App Issue Report"
+description: "Report an issue with an app from the repository that isn't working properly."
+title: "[App Issue] "
+labels: ["bug"]
+assignees: ["ArianaMinajj"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to report an issue with an app from the repository. Please provide all necessary information to help us resolve the issue effectively.
+
+  - type: input
+    id: app_name
+    attributes:
+      label: "App Name"
+      description: "Specify the name of the app that is not working."
+      placeholder: "Example App"
+    validations:
+      required: true
+
+  - type: input
+    id: issue_description
+    attributes:
+      label: "Issue Description"
+      description: "Describe what is happening with the app (e.g., crash, features not unlocking)."
+      placeholder: "The app crashes on startup."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: "Steps to Reproduce"
+      description: "Provide detailed steps to reproduce the issue."
+      placeholder: "1. Open the app\n2. Navigate to...\n3. The app crashes"
+    validations:
+      required: true
+
+  - type: input
+    id: device_info
+    attributes:
+      label: "Device Information"
+      description: "Indicate your iPhone model and iOS version."
+      placeholder: "iPhone 12 Pro Max, iOS 17.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: optional_screenshot
+    attributes:
+      label: "App Installed Proof (Optional)"
+      description: "Provide a screenshot proving the app was installed with TrollStore."
+      placeholder: "Attach the screenshot here."
+  
+  - type: checkboxes
+    id: acknowledgment
+    attributes:
+      label: "Acknowledgment"
+      description: "By submitting this report, you agree to the following (all boxes MUST be checked):"
+      options:
+        - label: "I’ve checked if this issue is known but haven’t found anything mentioning it yet."
+          required: true
+        - label: "I am using the latest version of TrollStore and having an issue with an app I installed with it."
+          required: true
+        - label: "This is not a duplicate; this issue is unique or has arisen again."
+          required: true
+        - label: "I am aware and agree with my issue being closed for one or multiple reasons explained either by labels or a comment."
+          required: true
+        - label: "If the assignee cannot reproduce the issue, I am okay with it being closed and will have to figure out the issue on my end."
+          required: true
