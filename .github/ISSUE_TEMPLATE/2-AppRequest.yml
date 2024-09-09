@@ -1,6 +1,8 @@
+#version2
+
 name: "App Request"
-description: "Request an app with a public GitHub repository to be re-uploaded."
-title: "[GitHub Request]: "
+description: "Request an app with a public GitHub repository to be re-uploaded here."
+title: "[Request] "
 labels: ["App Request"]
 assignees: ["ArianaMinajj"]
 body:
@@ -23,7 +25,7 @@ body:
     attributes:
       label: "Reason for Request"
       description: "Explain why this app should be re-uploaded to this repository."
-      placeholder: "Provide a detailed reason for your request."
+      placeholder: "Provide a simple reason for your request."
     validations:
       required: true
 
