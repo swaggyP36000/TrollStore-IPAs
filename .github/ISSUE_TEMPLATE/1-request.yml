@@ -1,7 +1,7 @@
-#Version 1
+#version2
 
-name: App Request
-description: Submit a request for an app feature to be unlocked.
+name: "App Request"
+description: "Submit a request for an app feature to be unlocked."
 title: "[Request]: "
 labels: ["request", "app"]
 body:
@@ -13,37 +13,37 @@ body:
   - type: input
     id: app_store_link
     attributes:
-      label: App Store Link
-      description: Provide the direct link to the app on the App Store (preferably "US" region).
+      label: "App Store Link"
+      description: "Provide the direct link to the app on the App Store (preferably 'US' region)."
       placeholder: "https://apps.apple.com/us/app/example-app/id123456789"
 
   - type: textarea
     id: feature_to_unlock
     attributes:
-      label: Feature to Unlock
-      description: Describe the feature(s) you would like to have unlocked in the app.
+      label: "Feature to Unlock"
+      description: "Describe the feature(s) you would like to have unlocked in the app."
       placeholder: "- Feature 1: [Description]\n- Feature 2: [Description]"
 
   - type: textarea
     id: app_description
     attributes:
-      label: App Description (Optional)
-      description: Describe the purpose of the requested app in your own words. This is optional.
+      label: "App Description (Optional)"
+      description: "Describe the purpose of the requested app in your own words. This is optional."
       placeholder: "Brief description of the app's purpose."
 
   - type: checkboxes
     id: acknowledgment
     attributes:
-      label: Acknowledgment
-      description: By submitting this request, you agree to the following (all boxes MUST be checked):
+      label: "Acknowledgment"
+      description: "By submitting this request, you agree to the following (all boxes MUST be checked):"
       options:
-        - label: I am using TrollStore and requesting an app that I will install with TrollStore.
+        - label: "I am using TrollStore and requesting an app that I will install with TrollStore."
           required: true
-        - label: This request is not a duplicate and is unique.
+        - label: "This request is not a duplicate and is unique."
           required: true
-        - label: I am aware and agree with my request being closed for one or multiple reasons explained either by labels or a comment.
+        - label: "I am aware and agree with my request being closed for one or multiple reasons explained either by labels or a comment."
           required: true
-        - label: I have requested an app that hasn’t been taken down due to takedown removal or DMCA claims.
+        - label: "I have requested an app that hasn’t been taken down due to takedown removal or DMCA claims."
           required: true
-        - label: I understand that if any of the above conditions are not respected, and this occurs twice in the same month, I will be permanently banned from interacting with the repository.
+        - label: "I understand that if any of the above conditions are not respected, and this occurs twice in the same month, I will be permanently banned from interacting with the repository."
           required: true
