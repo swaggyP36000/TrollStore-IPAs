@@ -1,22 +1,22 @@
-#version2
+#version3
 
 name: "App Issue"
-description: "Report an issue with an app from the repository that isn't working properly."
+description: "Report an issue with an app from the repository, excluding ones with dedicated repositories."
 title: "[App Issue] "
-labels: ["bug", "app-issue"]
+labels: ["bug"]
 assignees: ["ArianaMinajj"]
 body:
   - type: markdown
     attributes:
       value: |
-        Use this template to report an issue with an app from the repository. Please provide all necessary information to help us resolve the issue effectively.
+        Use this template to report an issue with an app from the repository, except for those that have a dedicated/original repository (e.g., eeveespotify). If you are experiencing an issue with such an app, please open the issue in its respective repository instead of here.
 
   - type: input
     id: app_name
     attributes:
       label: "App Name"
       description: "Specify the name of the app that is not working."
-      placeholder: "Example App"
+      placeholder: "Duolingo Max"
     validations:
       required: true
 
@@ -33,7 +33,7 @@ body:
     id: steps_to_reproduce
     attributes:
       label: "Steps to Reproduce"
-      description: "Provide detailed steps to reproduce the issue."
+      description: "Provide simple or detailed steps to reproduce the issue."
       placeholder: "1. Open the app\n2. Navigate to...\n3. The app crashes"
     validations:
       required: true
@@ -50,7 +50,7 @@ body:
     attributes:
       label: "Device Information"
       description: "Indicate your iPhone model and iOS version."
-      placeholder: "iPhone 12 Pro Max, iOS 17.0"
+      placeholder: "iPhone 13 Pro Max, iOS 17.0"
     validations:
       required: true
 
@@ -72,6 +72,8 @@ body:
         - label: "I am using the latest version of TrollStore and having an issue with an app I installed with it."
           required: true
         - label: "This is not a duplicate; this issue is unique or has arisen again."
+          required: true
+        - label: "I understand that if I have an issue with an app that has its own dedicated/original repository, I should open the issue there instead of here."
           required: true
         - label: "I am aware and agree with my issue being closed for one or multiple reasons explained either by labels or a comment."
           required: true
