@@ -1,7 +1,7 @@
-#version9
+#version10
 
 name: "App Tweak Request"
-description: "Submit a request for an app feature to be unlocked."
+description: "Request an app and its in-app purchases to be unlocked."
 title: "[App Tweak Request] "
 labels: ["App Tweak Request"]
 assignees: ["ArianaMinajj"]
