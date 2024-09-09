@@ -1,4 +1,4 @@
-#version 1
+#version 2
 
 name: "Paid App Request"
 description: "Request an app that is paid on the App Store to be uploaded into the repository."
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This template is only for requesting an app that is paid on the App Store to be uploaded into the repository. Please fill out the following details for your app request to be considered. Ensure all checkboxes are marked to avoid being ignored or labeled invalid.
+        Please fill out the following details for your app request to be considered. Ensure all checkboxes are marked to avoid being ignored or labeled invalid.
 
   - type: input
     id: app_store_link
