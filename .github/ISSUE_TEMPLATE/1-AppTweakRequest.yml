@@ -1,8 +1,8 @@
-#version8
+#version9
 
 name: "App Tweak Request"
 description: "Submit a request for an app feature to be unlocked."
-title: "[Request] "
+title: "[App Tweak Request] "
 labels: ["App Tweak Request"]
 assignees: ["ArianaMinajj"]
 body:
@@ -32,7 +32,7 @@ body:
   - type: textarea
     id: app_description
     attributes:
-      label: "App Description (Optional)"
+      label: "App Description (Optional but recommended)"
       description: "In your own words, describe the purpose of the requested app. Do not paste the App Store description."
       placeholder: "Brief description of the app's purpose."
 
