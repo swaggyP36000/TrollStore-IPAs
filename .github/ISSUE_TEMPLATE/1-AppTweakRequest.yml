@@ -1,8 +1,8 @@
-#version7
+#version8
 
 name: "App Tweak Request"
 description: "Submit a request for an app feature to be unlocked."
-title: "[Request]: "
+title: "[Request] "
 labels: ["App Tweak Request"]
 assignees: ["ArianaMinajj"]
 body:
