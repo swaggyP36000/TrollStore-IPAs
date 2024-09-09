@@ -1,0 +1,50 @@
+#version1
+
+name: "Takedown Removal Request"
+description: "Request the removal of an app or tweak from the repository."
+title: "[Takedown Removal Request] "
+labels: ["Takedown Removal"]
+assignees: ["swaggyP36000"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to request the removal of an app or tweak from the repository. Please provide a valid reason for the removal request.
+
+  - type: input
+    id: item_name
+    attributes:
+      label: "App/Tweak Name"
+      description: "Specify the name of the app or tweak you want removed."
+      placeholder: "Example App/Tweak"
+    validations:
+      required: true
+
+  - type: textarea
+    id: removal_reason
+    attributes:
+      label: "Reason for Removal"
+      description: "Explain why you want this app or tweak removed (e.g., originally a paid product, not intended for public release)."
+      placeholder: "The item was originally a paid product and should not be shared publicly."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: future_preference
+    attributes:
+      label: "Future Sharing Preferences"
+      description: "Indicate if you want all your future apps or tweaks excluded from this repository or just this specific item."
+      options:
+        - label: "Remove only this specific app or tweak."
+          required: true
+        - label: "Remove this app or tweak and do not share any of my future items here."
+          required: false
+
+  - type: checkboxes
+    id: acknowledgment
+    attributes:
+      label: "Acknowledgment"
+      description: "By submitting this request, you confirm the following:"
+      options:
+        - label: "I am in full right to ask for the removal of this app or tweak."
+          required: true
