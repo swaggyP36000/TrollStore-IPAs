@@ -1,8 +1,8 @@
-#version2
+#version3
 
 name: "App Request"
 description: "Request an app with a public GitHub repository to be re-uploaded here."
-title: "[Request] "
+title: "[App Request] "
 labels: ["App Request"]
 assignees: ["ArianaMinajj"]
 body:
