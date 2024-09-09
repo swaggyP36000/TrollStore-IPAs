@@ -1,9 +1,9 @@
-#version1
+#version2
 
-name: "App Issue Report"
+name: "App Issue"
 description: "Report an issue with an app from the repository that isn't working properly."
 title: "[App Issue] "
-labels: ["bug"]
+labels: ["bug", "app-issue"]
 assignees: ["ArianaMinajj"]
 body:
   - type: markdown
@@ -37,6 +37,13 @@ body:
       placeholder: "1. Open the app\n2. Navigate to...\n3. The app crashes"
     validations:
       required: true
+
+  - type: textarea
+    id: video_steps
+    attributes:
+      label: "Video Steps to Reproduce (Optional)"
+      description: "Provide a link to a video demonstrating the steps to reproduce the issue."
+      placeholder: "Attach video link here."
 
   - type: input
     id: device_info
