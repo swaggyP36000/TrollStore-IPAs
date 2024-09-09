@@ -1,0 +1,41 @@
+name: "App Request"
+description: "Request an app with a public GitHub repository to be re-uploaded."
+title: "[GitHub Request]: "
+labels: ["App Request"]
+assignees: ["ArianaMinajj"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This template is for requesting an app that has a public GitHub repository to be re-uploaded into this repository. Do not use this template to request an app from the AppStore!
+
+  - type: input
+    id: github_repo_link
+    attributes:
+      label: "GitHub Repository Link"
+      description: "Provide the direct link to the public GitHub repository of the app."
+      placeholder: "https://github.com/username/repository"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason_for_request
+    attributes:
+      label: "Reason for Request"
+      description: "Explain why this app should be re-uploaded to this repository."
+      placeholder: "Provide a detailed reason for your request."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgment
+    attributes:
+      label: "Acknowledgment"
+      description: "By submitting this request, you agree to the following (all boxes MUST be checked):"
+      options:
+        - label: "I confirm that the repository is public and accessible."
+          required: true
+        - label: "This request is not a duplicate and is unique."
+          required: true
+        - label: "I understand that my request may be closed for reasons explained by labels or comments."
+          required: true
