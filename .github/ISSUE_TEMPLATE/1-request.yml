@@ -1,7 +1,7 @@
 #version3
 
 name: "App Request"
-about: "Submit a request for an app feature to be unlocked."
+description: "Submit a request for an app feature to be unlocked."
 title: "[Request]: "
 labels: ["request", "app"]
 body:
