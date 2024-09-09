@@ -3,7 +3,7 @@
 name: "App Request"
 description: "Submit a request for an app feature to be unlocked."
 title: "[Request]: "
-labels: ["request", "app"]
+labels: ["request"]
 body:
   - type: markdown
     attributes:
