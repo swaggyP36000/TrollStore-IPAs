@@ -1,9 +1,10 @@
-#version3
+#version4
 
 name: "App Request"
 description: "Submit a request for an app feature to be unlocked."
 title: "[Request]: "
-labels: ["request"]
+labels: ["Request"]
+assignees: ["ArianaMinajj"]
 body:
   - type: markdown
     attributes:
