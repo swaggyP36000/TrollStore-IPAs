@@ -1,9 +1,9 @@
-#version4
+#version5
 
 name: "App Request"
 description: "Submit a request for an app feature to be unlocked."
 title: "[Request]: "
-labels: ["Request"]
+labels: ["App Request"]
 assignees: ["ArianaMinajj"]
 body:
   - type: markdown
@@ -33,7 +33,7 @@ body:
     id: app_description
     attributes:
       label: "App Description (Optional)"
-      description: "Describe the purpose of the requested app in your own words. This is optional."
+      description: "In your own words, describe the purpose of the requested app. Do not paste the App Store description."
       placeholder: "Brief description of the app's purpose."
 
   - type: checkboxes
