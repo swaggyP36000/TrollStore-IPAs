@@ -3,7 +3,7 @@
 name: "App Request"
 description: "Submit a request for an app feature to be unlocked."
 title: "[Request]: "
-labels: ["request", "app"]
+labels: ["Request"]
 body:
   - type: markdown
     attributes:
@@ -37,13 +37,13 @@ body:
       label: "Acknowledgment"
       description: "By submitting this request, you agree to the following (all boxes MUST be checked):"
       options:
-        - label: "I am using TrollStore and requesting an app that I will install with TrollStore."
+        - validation: "I am using TrollStore and requesting an app that I will install with TrollStore."
           required: true
-        - label: "This request is not a duplicate and is unique."
+        - validation: "This request is not a duplicate and is unique."
           required: true
-        - label: "I am aware and agree with my request being closed for one or multiple reasons explained either by labels or a comment."
+        - validation: "I am aware and agree with my request being closed for one or multiple reasons explained either by labels or a comment."
           required: true
-        - label: "I have requested an app that hasn’t been taken down due to takedown removal or DMCA claims."
+        - validation: "I have requested an app that hasn’t been taken down due to takedown removal or DMCA claims."
           required: true
-        - label: "I understand that if any of the above conditions are not respected, and this occurs twice in the same month, I will be permanently banned from interacting with the repository."
+        - validation: "I understand that if any of the above conditions are not respected, and this occurs twice in the same month, I will be permanently banned from interacting with the repository."
           required: true
