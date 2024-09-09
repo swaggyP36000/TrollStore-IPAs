@@ -61,6 +61,70 @@
       ]
     },
     {
+      "name": "ipogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "ipogo",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+      "versions": [
+        {
+          "version": "3.5.2",
+          "date": "2024-09-09",
+          "size": 146720272,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-09-2024/ipogo-3.5.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.5.0",
+          "date": "2024-08-25",
+          "size": 145446856,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2024/ipogo-3.5.0.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.9",
+          "date": "2024-08-15",
+          "size": 144744856,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-15-2024/ipogo-3.4.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.8",
+          "date": "2024-08-10",
+          "size": 144871783,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/ipogo-3.4.8.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.6",
+          "date": "2024-08-01",
+          "size": 144729965,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2024/ipogo-3.4.6.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.3",
+          "date": "2024-07-22",
+          "size": 144706397,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/ipogo-3.4.3.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.2",
+          "date": "2024-06-26",
+          "size": 145479759,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-26-2024/ipogo-3.4.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.1",
+          "date": "2024-06-16",
+          "size": 143982408,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/ipogo-3.4.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "TarteelPremium",
       "bundleIdentifier": "com.iqraapp.Iqra",
       "developerName": "DPixel",
@@ -8409,63 +8473,6 @@
       ]
     },
     {
-      "name": "ipogo",
-      "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "developerName": "ipogo",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
-      "versions": [
-        {
-          "version": "3.5.0",
-          "date": "2024-08-25",
-          "size": 145446856,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2024/ipogo-3.5.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.4.9",
-          "date": "2024-08-15",
-          "size": 144744856,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-15-2024/ipogo-3.4.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.4.8",
-          "date": "2024-08-10",
-          "size": 144871783,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/ipogo-3.4.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.4.6",
-          "date": "2024-08-01",
-          "size": 144729965,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2024/ipogo-3.4.6.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.4.3",
-          "date": "2024-07-22",
-          "size": 144706397,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/ipogo-3.4.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.4.2",
-          "date": "2024-06-26",
-          "size": 145479759,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-26-2024/ipogo-3.4.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.4.1",
-          "date": "2024-06-16",
-          "size": 143982408,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/ipogo-3.4.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "MoneyManagerPremium",
       "bundleIdentifier": "com.realbyteapps.MoneyManager2",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -14484,287 +14491,287 @@
           "date": "2024-05-31",
           "size": 143359914,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-31-2024/iPoGo-3.3.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.3.8",
           "date": "2024-05-23",
           "size": 140126813,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-23-2024/iPoGo-3.3.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.3.7",
           "date": "2024-05-18",
           "size": 140002119,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-18-2024/iPoGo-3.3.7.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.3.5",
           "date": "2024-05-12",
           "size": 139705228,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/iPoGo-3.3.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.3.3",
           "date": "2024-05-05",
           "size": 139657228,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/iPoGo-3.3.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.3.2",
           "date": "2024-04-27",
           "size": 137280947,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/iPoGo-3.3.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.3.0",
           "date": "2024-04-08",
           "size": 135870239,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/iPoGo-3.3.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.9",
           "date": "2024-03-22",
           "size": 135869447,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/iPoGo-3.2.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.8",
           "date": "2024-03-18",
           "size": 130452296,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2024/iPoGo-3.2.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.6",
           "date": "2024-03-15",
           "size": 130471605,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/iPoGo-3.2.6.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.5",
           "date": "2024-03-03",
           "size": 130920116,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/iPoGo-3.2.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.4",
           "date": "2024-02-08",
           "size": 127670322,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/iPoGo-3.2.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.3",
           "date": "2024-01-23",
           "size": 127510651,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.2",
           "date": "2023-12-21",
           "size": 128549352,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.1",
           "date": "2023-12-15",
           "size": 128405035,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.2.0",
           "date": "2023-11-28",
           "size": 127955571,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.1.9",
           "date": "2023-11-24",
           "size": 127974496,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.1.8",
           "date": "2023-11-12",
           "size": 129188645,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.1.7",
           "date": "2023-10-29",
           "size": 129089719,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.1.5",
           "date": "2023-10-17",
           "size": 127860610,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.1.1",
           "date": "2023-09-23",
           "size": 127591654,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.0.9",
           "date": "2023-09-06",
           "size": 126239276,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "3.0.1",
           "date": "2023-07-25",
           "size": 126194522,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.9.3",
           "date": "2023-06-04",
           "size": 123882886,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.9.2",
           "date": "2023-05-24",
           "size": 123750627,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.9.0",
           "date": "2023-05-17",
           "size": 122938601,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.9",
           "date": "2023-05-06",
           "size": 122907896,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.8",
           "date": "2023-04-16",
           "size": 122882233,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.6",
           "date": "2023-03-21",
           "size": 121718227,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.5",
           "date": "2023-03-12",
           "size": 123182848,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.4",
           "date": "2023-03-03",
           "size": 123377179,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.4",
           "date": "2023-02-25",
           "size": 123377179,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.3",
           "date": "2023-02-18",
           "size": 118904543,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.2",
           "date": "2023-02-05",
           "size": 122913076,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.1",
           "date": "2023-01-29",
           "size": 123001961,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.8.0",
           "date": "2023-01-07",
           "size": 119064262,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.7.9",
           "date": "2022-12-15",
           "size": 119086766,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.7.8",
           "date": "2022-12-05",
           "size": 118512858,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.7.7",
           "date": "2022-11-29",
           "size": 118590622,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "2.7.5",
           "date": "2022-11-12",
           "size": 115862609,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         },
         {
           "version": "1.0",
           "date": "2022-11-10",
           "size": 114949354,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-25-2024\nStatus: \u2705"
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 09-09-2024\nStatus: \u2705"
         }
       ]
     },
