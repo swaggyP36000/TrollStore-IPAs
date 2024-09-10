@@ -1,4 +1,4 @@
-#version3
+#version4
 
 name: "App Issue"
 description: "Report an issue with an app from the repository, excluding ones with dedicated repositories."
@@ -57,8 +57,8 @@ body:
   - type: textarea
     id: optional_screenshot
     attributes:
-      label: "App Installed Proof (Optional)"
-      description: "Provide a screenshot proving the app was installed with TrollStore."
+      label: "App Installed Proof (Recommended)"
+      description: "Provide a screenshot proving the app was installed with TrollStore. This is HIGHLY RECOMMENDED TO FIGHT SPAM but optional."
       placeholder: "Attach the screenshot here."
   
   - type: checkboxes
@@ -78,4 +78,6 @@ body:
         - label: "I am aware and agree with my issue being closed for one or multiple reasons explained either by labels or a comment."
           required: true
         - label: "If the assignee cannot reproduce the issue, I am okay with it being closed and will have to figure out the issue on my end."
+          required: true
+        - label: "I acknowledge that if I fail to respect any of the acknowledgments, I will be permanently banned from the repository. Any future issues I open will be closed and marked as SPAM."
           required: true
