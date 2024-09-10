@@ -1,4 +1,4 @@
-#version10
+#version11
 
 name: "App Tweak Request"
 description: "Request an app and its in-app purchases to be unlocked."
@@ -50,5 +50,7 @@ body:
           required: true
         - label: "I have requested an app that hasn’t been taken down due to takedown removal or DMCA claims."
           required: true
-        - label: "I understand that if any of the above conditions are not respected, and this occurs twice in the same month, I will be permanently banned from interacting with the repository."
+        - label: "I am not requesting for an app update nor a game, as both are NOT ALLOWED in this repository."
+          required: true
+        - label: "I understand that if any of the above conditions are not respected, and this occurs twice, I will be permanently banned from interacting with the repository."
           required: true
