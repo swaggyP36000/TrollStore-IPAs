@@ -1,4 +1,4 @@
-#version5
+#version6
 
 name: "App Request"
 description: "Request an app with a public GitHub repository to be re-uploaded here."
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This template is only for requesting an app that has a public GitHub repository to be re-uploaded into this repository. Do not use this template to request an app from the AppStore!
+        This template is only for requesting an app that has a public GitHub repository to be re-uploaded into this repository. Do not use this template to request an app from the App Store!
 
   - type: input
     id: github_repo_link
