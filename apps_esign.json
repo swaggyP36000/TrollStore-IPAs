@@ -37,6 +37,17 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
+      "name": "ReederClassic",
+      "bundleIdentifier": "com.reederapp.5.iOS",
+      "version": "5.4.4",
+      "versionDate": "2024-09-10",
+      "size": 5668093,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-10-2024/ReederClassic-5.4.4.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "An all-in-one RSS reader app and read-later app featuring iCloud sync. A user requested it so here it is.\nLast updated: 09-10-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reederapp.5.iOS.png"
+    },
+    {
       "name": "ApolloICA",
       "bundleIdentifier": "com.christianselig.Apollo",
       "version": "1.15.11-1.1.4",
