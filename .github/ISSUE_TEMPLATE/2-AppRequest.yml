@@ -1,4 +1,4 @@
-#version3
+#version4
 
 name: "App Request"
 description: "Request an app with a public GitHub repository to be re-uploaded here."
@@ -40,4 +40,8 @@ body:
         - label: "This request is not a duplicate and is unique."
           required: true
         - label: "I understand that my request may be closed for reasons explained by labels or comments."
+          required: true
+        - label: "I am not requesting for an app update nor a game, as both are NOT ALLOWED in this repository."
+          required: true
+        - label: "I understand that if any of the above conditions are not respected, and this occurs twice, I will be permanently banned from interacting with the repository."
           required: true
