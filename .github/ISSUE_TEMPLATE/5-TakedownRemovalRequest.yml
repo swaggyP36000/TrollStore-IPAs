@@ -1,4 +1,4 @@
-#version2
+#version4
 
 name: "Takedown Removal Request"
 description: "Request the removal of an app or tweak from the repository."
@@ -37,7 +37,7 @@ body:
       options:
         - label: "Remove only this specific app or tweak."
           required: true
-        - label: "Remove this app or tweak and do not share any of my future work here."
+        - label: "Remove this app or tweak and do not share any of my/their future work here."
           required: false
 
   - type: checkboxes
