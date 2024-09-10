@@ -1,4 +1,4 @@
-#version 2
+#version3
 
 name: "Paid App Request"
 description: "Request an app that is paid on the App Store to be uploaded into the repository."
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please fill out the following details for your app request to be considered. Ensure all checkboxes are marked to avoid being ignored or labeled invalid.
+        This template is only for requesting a PAID app from the App Store, which might include in-app purchases if they exist.
 
   - type: input
     id: app_store_link
@@ -48,5 +48,7 @@ body:
           required: true
         - label: "I have requested an app that hasn’t been taken down due to takedown removal or DMCA claims."
           required: true
-        - label: "I understand that if any of the above conditions are not respected, and this occurs twice in the same month, I will be permanently banned from interacting with the repository."
+        - label: "I am not requesting for an app update nor a game, as both are NOT ALLOWED in this repository."
+          required: true
+        - label: "I understand that if any of the above conditions are not respected, and this occurs twice, I will be permanently banned from interacting with the repository."
           required: true
