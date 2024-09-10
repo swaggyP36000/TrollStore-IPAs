@@ -1,4 +1,4 @@
-#version11
+#version12
 
 name: "App Tweak Request"
 description: "Request an app and its in-app purchases to be unlocked."
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please fill out the following details for your app request to be considered. Ensure all checkboxes are marked to avoid being ignored or labeled invalid.
+        This template is only for requesting a FREE App Store app that includes at least one in-app purchase.
 
   - type: input
     id: app_store_link
