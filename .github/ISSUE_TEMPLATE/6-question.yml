@@ -1,4 +1,4 @@
-#version3
+#version4
 
 name: "Question"
 description: "Submit a question related to this repository."
@@ -16,7 +16,6 @@ body:
     attributes:
       label: "Description"
       description: "Provide a description of your question, including any relevant context or background information."
-      placeholder: "I'm trying to use X feature but I'm not sure how to activate it properly. How do I.."
 
   - type: checkboxes
     id: acknowledgment
