@@ -4,6 +4,454 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TransitRoyale",
+      "bundleIdentifier": "com.samvermette.Transit",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.samvermette.Transit.png",
+      "versions": [
+        {
+          "version": "5.17.0",
+          "date": "2024-09-11",
+          "size": 95381069,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-11-2024/TransitRoyale-5.17.0.ipa",
+          "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.15.16",
+          "date": "2024-04-20",
+          "size": 70962869,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TransitRoyale-5.15.16.ipa",
+          "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "developerName": "Lessica / TrollRecorder",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+      "versions": [
+        {
+          "version": "1.22",
+          "date": "2024-09-11",
+          "size": 4435874,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-11-2024/TrollRecorder-1.22.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.20-357",
+          "date": "2024-08-28",
+          "size": 6430475,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2024/TrollRecorder-1.20-357.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.18.1-354",
+          "date": "2024-07-25",
+          "size": 4161593,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2024/TrollRecorder-1.18.1-354.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.18.0-352",
+          "date": "2024-07-17",
+          "size": 4156529,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/TrollRecorder-1.18.0-352.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.16.2-344",
+          "date": "2024-07-11",
+          "size": 4015399,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/TrollRecorder-1.16.2-344.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.16.0-338",
+          "date": "2024-07-02",
+          "size": 3989334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2024/TrollRecorder-1.16.0-338.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.15.0-331",
+          "date": "2024-06-27",
+          "size": 3977201,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/TrollRecorder-1.15.0-331.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.3-295",
+          "date": "2024-06-25",
+          "size": 3969071,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/TrollRecorder-1.12.3-295.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.2-291",
+          "date": "2024-06-19",
+          "size": 3932532,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/TrollRecorder-1.12.2-291.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.3-283",
+          "date": "2024-06-14",
+          "size": 3923911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-14-2024/TrollRecorder-1.10.3-283.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.2-280",
+          "date": "2024-06-12",
+          "size": 3898404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/TrollRecorder-1.10.2-280.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.0-266",
+          "date": "2024-06-05",
+          "size": 3836678,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/TrollRecorder-1.10.0-266.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.8-236",
+          "date": "2024-06-03",
+          "size": 3356655,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/TrollRecorder-1.9.8-236.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.7-183",
+          "date": "2024-05-30",
+          "size": 3286009,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.6-175",
+          "date": "2024-05-26",
+          "size": 3282320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/TrollRecorder-1.9.6-175.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.3-166",
+          "date": "2024-05-21",
+          "size": 3237518,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.1-163",
+          "date": "2024-05-20",
+          "size": 2832511,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.0-161",
+          "date": "2024-05-19",
+          "size": 2831974,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.7-150",
+          "date": "2024-05-14",
+          "size": 2378032,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.6-145",
+          "date": "2024-05-12",
+          "size": 2339231,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.2-137",
+          "date": "2024-05-06",
+          "size": 2281296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.0-131",
+          "date": "2024-05-01",
+          "size": 2204095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.9-127",
+          "date": "2024-04-29",
+          "size": 2202695,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.6-117",
+          "date": "2024-04-23",
+          "size": 2137022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.4-113",
+          "date": "2024-04-20",
+          "size": 2070853,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.2-109",
+          "date": "2024-04-17",
+          "size": 2078685,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.0-101",
+          "date": "2024-04-13",
+          "size": 2066248,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.6-93",
+          "date": "2024-04-11",
+          "size": 1931520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.4-89",
+          "date": "2024-04-07",
+          "size": 1926520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.12-82",
+          "date": "2024-04-05",
+          "size": 1908353,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.9-79",
+          "date": "2024-04-02",
+          "size": 1886301,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.5-72",
+          "date": "2024-03-29",
+          "size": 2415865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.4-70",
+          "date": "2024-03-28",
+          "size": 2412683,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.7-46",
+          "date": "2024-03-17",
+          "size": 2079031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.5-36",
+          "date": "2024-03-15",
+          "size": 2067973,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.1-30",
+          "date": "2024-03-14",
+          "size": 2549610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.2-20",
+          "date": "2024-03-10",
+          "size": 2525367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 09-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TruckerPathDiamond",
+      "bundleIdentifier": "com.Trucker-Path-Pro",
+      "developerName": "Dell",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.Trucker-Path-Pro.png",
+      "versions": [
+        {
+          "version": "6.4.2",
+          "date": "2024-09-11",
+          "size": 367685736,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-11-2024/TruckerPathDiamond-6.4.2.ipa",
+          "localizedDescription": "Truck-safe navigation app, trip plan, and fuel saving tool for truckers. A user requested it so here it is.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.9",
+          "date": "2024-09-03",
+          "size": 362820172,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2024/TruckerPathDiamond-6.3.9.ipa",
+          "localizedDescription": "Truck-safe navigation app, trip plan, and fuel saving tool for truckers. A user requested it so here it is.\nLast updated: 09-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "WazePlus",
+      "bundleIdentifier": "com.waze.iphone",
+      "developerName": "CyPwn IPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waze.iphone.png",
+      "versions": [
+        {
+          "version": "4.108.0",
+          "date": "2024-09-11",
+          "size": 90782814,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-11-2024/WazePlus-4.108.0.ipa",
+          "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.\nLast updated: 09-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.100.0",
+          "date": "2023-12-23",
+          "size": 58293096,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/WazePlus-4.100.0.ipa",
+          "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.\nLast updated: 09-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "WindyappPro",
+      "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png",
+      "versions": [
+        {
+          "version": "13.7.2",
+          "date": "2024-09-11",
+          "size": 231431201,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-11-2024/WindyappPro-13.7.2.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "13.6.6",
+          "date": "2024-07-27",
+          "size": 211068559,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/WindyappPro-13.6.6.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "13.4.1",
+          "date": "2024-04-07",
+          "size": 121501690,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WindyappPro-13.4.1.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "13.3.0",
+          "date": "2024-03-30",
+          "size": 150309334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/WindyappPro-13.3.0.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "13.1.4",
+          "date": "2024-03-23",
+          "size": 148420878,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/WindyappPro-13.1.4.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "YomuPro",
+      "bundleIdentifier": "net.cecinestpasparis.yomu",
+      "developerName": "Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.cecinestpasparis.yomu.png",
+      "versions": [
+        {
+          "version": "3.8.2",
+          "date": "2024-09-11",
+          "size": 36597315,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-11-2024/YomuPro-3.8.2.ipa",
+          "localizedDescription": "Independent ebook reader app for book lovers, featuring custom styles and a distraction-free, carefully crafted design for optimal readability. A user requested it so here it is.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "3.6.2",
+          "date": "2024-07-17",
+          "size": 36276512,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/YomuPro-3.6.2.ipa",
+          "localizedDescription": "Independent ebook reader app for book lovers, featuring custom styles and a distraction-free, carefully crafted design for optimal readability. A user requested it so here it is.\nLast updated: 09-11-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "YukaPremium",
+      "bundleIdentifier": "yuca.scanner",
+      "developerName": "iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/yuca.scanner.png",
+      "versions": [
+        {
+          "version": "4.39",
+          "date": "2024-09-11",
+          "size": 137085186,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-11-2024/YukaPremium-4.39.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 09-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.38",
+          "date": "2024-07-23",
+          "size": 135776995,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/YukaPremium-4.38.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 09-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.37",
+          "date": "2024-06-12",
+          "size": 128090889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/YukaPremium-4.37.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 09-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.36",
+          "date": "2024-05-09",
+          "size": 128066428,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-09-2024/YukaPremium-4.36.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 09-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.35",
+          "date": "2024-03-27",
+          "size": 123092775,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/YukaPremium-4.35.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 09-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.34",
+          "date": "2024-03-19",
+          "size": 121466871,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/YukaPremium-4.34.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 09-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
       "name": "InstagramNyx",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1 / Sultan Mods",
@@ -6373,21 +6821,6 @@
       ]
     },
     {
-      "name": "TruckerPathDiamond",
-      "bundleIdentifier": "com.Trucker-Path-Pro",
-      "developerName": "Dell",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.Trucker-Path-Pro.png",
-      "versions": [
-        {
-          "version": "6.3.9",
-          "date": "2024-09-03",
-          "size": 362820172,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2024/TruckerPathDiamond-6.3.9.ipa",
-          "localizedDescription": "Truck-safe navigation app, trip plan, and fuel saving tool for truckers. A user requested it so here it is.\nLast updated: 09-03-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "BlitzerdePRO",
       "bundleIdentifier": "com.eifrig.blitzerdepro",
       "developerName": "ArianaMinajj / Paisseon",
@@ -8072,266 +8505,6 @@
           "size": 32763288,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2024/PairedPremium-1.852.0.ipa",
           "localizedDescription": "An app designed for couples with its premium features unlocked.\nLast updated: 08-28-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TrollRecorder",
-      "bundleIdentifier": "wiki.qaq.trapp",
-      "developerName": "Lessica / TrollRecorder",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
-      "versions": [
-        {
-          "version": "1.20-357",
-          "date": "2024-08-28",
-          "size": 6430475,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2024/TrollRecorder-1.20-357.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.18.1-354",
-          "date": "2024-07-25",
-          "size": 4161593,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2024/TrollRecorder-1.18.1-354.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.18.0-352",
-          "date": "2024-07-17",
-          "size": 4156529,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/TrollRecorder-1.18.0-352.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.16.2-344",
-          "date": "2024-07-11",
-          "size": 4015399,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/TrollRecorder-1.16.2-344.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.16.0-338",
-          "date": "2024-07-02",
-          "size": 3989334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2024/TrollRecorder-1.16.0-338.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.15.0-331",
-          "date": "2024-06-27",
-          "size": 3977201,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/TrollRecorder-1.15.0-331.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.12.3-295",
-          "date": "2024-06-25",
-          "size": 3969071,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/TrollRecorder-1.12.3-295.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.12.2-291",
-          "date": "2024-06-19",
-          "size": 3932532,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/TrollRecorder-1.12.2-291.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.10.3-283",
-          "date": "2024-06-14",
-          "size": 3923911,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-14-2024/TrollRecorder-1.10.3-283.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.10.2-280",
-          "date": "2024-06-12",
-          "size": 3898404,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/TrollRecorder-1.10.2-280.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.10.0-266",
-          "date": "2024-06-05",
-          "size": 3836678,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/TrollRecorder-1.10.0-266.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.8-236",
-          "date": "2024-06-03",
-          "size": 3356655,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/TrollRecorder-1.9.8-236.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.7-183",
-          "date": "2024-05-30",
-          "size": 3286009,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.6-175",
-          "date": "2024-05-26",
-          "size": 3282320,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/TrollRecorder-1.9.6-175.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.3-166",
-          "date": "2024-05-21",
-          "size": 3237518,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.1-163",
-          "date": "2024-05-20",
-          "size": 2832511,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.0-161",
-          "date": "2024-05-19",
-          "size": 2831974,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.7-150",
-          "date": "2024-05-14",
-          "size": 2378032,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.6-145",
-          "date": "2024-05-12",
-          "size": 2339231,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.2-137",
-          "date": "2024-05-06",
-          "size": 2281296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.0-131",
-          "date": "2024-05-01",
-          "size": 2204095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.9-127",
-          "date": "2024-04-29",
-          "size": 2202695,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.6-117",
-          "date": "2024-04-23",
-          "size": 2137022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.4-113",
-          "date": "2024-04-20",
-          "size": 2070853,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.2-109",
-          "date": "2024-04-17",
-          "size": 2078685,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.0-101",
-          "date": "2024-04-13",
-          "size": 2066248,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.6-93",
-          "date": "2024-04-11",
-          "size": 1931520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.4-89",
-          "date": "2024-04-07",
-          "size": 1926520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.12-82",
-          "date": "2024-04-05",
-          "size": 1908353,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.9-79",
-          "date": "2024-04-02",
-          "size": 1886301,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.5-72",
-          "date": "2024-03-29",
-          "size": 2415865,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.4-70",
-          "date": "2024-03-28",
-          "size": 2412683,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.7-46",
-          "date": "2024-03-17",
-          "size": 2079031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.5-36",
-          "date": "2024-03-15",
-          "size": 2067973,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.1-30",
-          "date": "2024-03-14",
-          "size": 2549610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.2-20",
-          "date": "2024-03-10",
-          "size": 2525367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 08-28-2024\nStatus: \u2705"
         }
       ]
     },
@@ -12150,42 +12323,6 @@
       ]
     },
     {
-      "name": "WindyappPro",
-      "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
-      "developerName": "iApps",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png",
-      "versions": [
-        {
-          "version": "13.6.6",
-          "date": "2024-07-27",
-          "size": 211068559,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/WindyappPro-13.6.6.ipa",
-          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "13.4.1",
-          "date": "2024-04-07",
-          "size": 121501690,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WindyappPro-13.4.1.ipa",
-          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "13.3.0",
-          "date": "2024-03-30",
-          "size": 150309334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/WindyappPro-13.3.0.ipa",
-          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "13.1.4",
-          "date": "2024-03-23",
-          "size": 148420878,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/WindyappPro-13.1.4.ipa",
-          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "CodeRunnerPro",
       "bundleIdentifier": "com.markodevcic.code-runner",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -12405,49 +12542,6 @@
           "size": 83550563,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/WhiteNoisePro-1.7.5.ipa",
           "localizedDescription": "Injected with VIP. White Noise Pro includes a variety of sounds in categories ranging from: sleep, meditation, ASMR, lullaby, classical and relaxing music.\nLast updated: 07-23-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "YukaPremium",
-      "bundleIdentifier": "yuca.scanner",
-      "developerName": "iOS Tutorials + App Cracks",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/yuca.scanner.png",
-      "versions": [
-        {
-          "version": "4.38",
-          "date": "2024-07-23",
-          "size": 135776995,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/YukaPremium-4.38.ipa",
-          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "4.37",
-          "date": "2024-06-12",
-          "size": 128090889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/YukaPremium-4.37.ipa",
-          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "4.36",
-          "date": "2024-05-09",
-          "size": 128066428,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-09-2024/YukaPremium-4.36.ipa",
-          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "4.35",
-          "date": "2024-03-27",
-          "size": 123092775,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/YukaPremium-4.35.ipa",
-          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "4.34",
-          "date": "2024-03-19",
-          "size": 121466871,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/YukaPremium-4.34.ipa",
-          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -12718,21 +12812,6 @@
           "size": 188654192,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/ReminiPro-2.10.41.ipa",
           "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u26a0\ufe0f \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "YomuPro",
-      "bundleIdentifier": "net.cecinestpasparis.yomu",
-      "developerName": "Paisseon",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.cecinestpasparis.yomu.png",
-      "versions": [
-        {
-          "version": "3.6.2",
-          "date": "2024-07-17",
-          "size": 36276512,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/YomuPro-3.6.2.ipa",
-          "localizedDescription": "Independent ebook reader app for book lovers, featuring custom styles and a distraction-free, carefully crafted design for optimal readability. A user requested it so here it is.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
@@ -15302,21 +15381,6 @@
       ]
     },
     {
-      "name": "TransitRoyale",
-      "bundleIdentifier": "com.samvermette.Transit",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.samvermette.Transit.png",
-      "versions": [
-        {
-          "version": "5.15.16",
-          "date": "2024-04-20",
-          "size": 70962869,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TransitRoyale-5.15.16.ipa",
-          "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 04-20-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "AlarmyPremium",
       "bundleIdentifier": "droom.sleepIfUCanFree",
       "developerName": "DPixel",
@@ -17723,21 +17787,6 @@
       ]
     },
     {
-      "name": "WazePlus",
-      "bundleIdentifier": "com.waze.iphone",
-      "developerName": "CyPwn IPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waze.iphone.png",
-      "versions": [
-        {
-          "version": "4.100.0",
-          "date": "2023-12-23",
-          "size": 58293096,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/WazePlus-4.100.0.ipa",
-          "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.\nLast updated: 12-23-2023\nStatus: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
       "name": "DynamicCowTS",
       "bundleIdentifier": "com.matteozappia.DynamicCowTS",
       "developerName": "matteozappia",
@@ -18138,7 +18187,7 @@
           "date": "2023-12-12",
           "size": 921268,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/WiFiList-1.0.ipa",
-          "localizedDescription": "Enables you to view the previously saved passwords of connected Wi-Fi networks.\nLast updated: 12-12-2023\nStatus: \u2705"
+          "localizedDescription": "View the previously saved passwords of connected Wi-Fi networks.\nLast updated: 12-12-2023\nStatus: \u2705"
         }
       ]
     },
