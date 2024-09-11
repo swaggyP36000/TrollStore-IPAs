@@ -1,0 +1,30 @@
+#version2
+
+name: "Question"
+description: "Submit a question related to this repository."
+title: "[Question] (Your Question Here) "
+labels: ["question"]
+assignees: ["ArianaMinajj"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to ask questions related to the repository.
+
+  - type: textarea
+    id: question_text
+    attributes:
+      label: "Ask"
+      description: "Provide a description of your question, including any relevant context or background information."
+      placeholder: "I'm trying to use X feature but I'm not sure how to activate it properly. How do I.."
+
+  - type: checkboxes
+    id: acknowledgment
+    attributes:
+      label: "Acknowledgment"
+      description: "Please confirm the following before submitting your question:"
+      options:
+        - label: "I have searched into the repository and previous issues for answers."
+          required: true
+        - label: "I understand that this template is for questions related to the repository only."
+          required: true
