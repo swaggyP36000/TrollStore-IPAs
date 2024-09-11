@@ -1,8 +1,8 @@
-#version2
+#version3
 
 name: "Question"
 description: "Submit a question related to this repository."
-title: "[Question] (Your Question Here) "
+title: "[Question] (Your Question Here)"
 labels: ["question"]
 assignees: ["ArianaMinajj"]
 body:
@@ -14,7 +14,7 @@ body:
   - type: textarea
     id: question_text
     attributes:
-      label: "Ask"
+      label: "Description"
       description: "Provide a description of your question, including any relevant context or background information."
       placeholder: "I'm trying to use X feature but I'm not sure how to activate it properly. How do I.."
 
