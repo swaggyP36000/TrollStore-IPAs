@@ -2504,17 +2504,17 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
       "versions": [
         {
+          "version": "6.3.58",
+          "date": "2024-09-11",
+          "size": 361975411,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2024/Goodnotes6-6.3.58.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 09-07-2024\nStatus: \u2705"
+        },
+        {
           "version": "6.3.61",
           "date": "2024-09-07",
           "size": 361517135,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/Goodnotes6-6.3.61.ipa",
-          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 09-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "6.3.58",
-          "date": "2024-09-03",
-          "size": 351331333,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2024/Goodnotes6-6.3.58.ipa",
           "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 09-07-2024\nStatus: \u2705"
         },
         {
@@ -6700,8 +6700,8 @@
       "versions": [
         {
           "version": "3.66",
-          "date": "2024-09-03",
-          "size": 316874522,
+          "date": "2024-09-11",
+          "size": 323712851,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2024/FacetunePro-3.66.ipa",
           "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 09-03-2024\nStatus: \u2705"
         },
