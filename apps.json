@@ -4,6 +4,268 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AdobeAcrobatReaderPremium",
+      "bundleIdentifier": "com.adobe.Adobe-Reader",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png",
+      "versions": [
+        {
+          "version": "24.09.00",
+          "date": "2024-09-13",
+          "size": 194349897,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-13-2024/AdobeAcrobatReaderPremium-24.09.00.ipa",
+          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 09-13-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "24.07.00",
+          "date": "2024-07-13",
+          "size": 166062873,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/AdobeAcrobatReaderPremium-24.07.00.ipa",
+          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 09-13-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "24.05.02",
+          "date": "2024-07-11",
+          "size": 169003289,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AdobeAcrobatReaderPremium-24.05.02.ipa",
+          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 09-13-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "24.04.61",
+          "date": "2024-06-05",
+          "size": 160111420,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/AdobeAcrobatReaderPremium-24.04.61.ipa",
+          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 09-13-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "24.04.51",
+          "date": "2024-05-13",
+          "size": 163110773,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/AdobeAcrobatReaderPremium-24.04.51.ipa",
+          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 09-13-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "24.04.00",
+          "date": "2024-04-18",
+          "size": 159172590,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/AdobeAcrobatReaderPremium-24.04.00.ipa",
+          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 09-13-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "24.02.02",
+          "date": "2024-03-28",
+          "size": 161126318,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/AdobeAcrobatReaderPremium-24.02.02.ipa",
+          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 09-13-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "2.2.6-245.0",
+          "date": "2024-09-13",
+          "size": 117068980,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-13-2024/Enmity-2.2.6-245.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-240.0",
+          "date": "2024-08-11",
+          "size": 117875524,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/Enmity-2.2.6-240.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-236.0",
+          "date": "2024-07-06",
+          "size": 114805387,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/Enmity-2.2.6-236.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-234.0",
+          "date": "2024-06-27",
+          "size": 110987837,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/Enmity-2.2.6-234.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-231.1",
+          "date": "2024-06-06",
+          "size": 104499137,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-06-2024/Enmity-2.2.6-231.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-218",
+          "date": "2024-03-07",
+          "size": 96424709,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Enmity-2.2.6-218.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-216",
+          "date": "2024-02-14",
+          "size": 94889337,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Enmity-2.2.6-216.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-213.1",
+          "date": "2024-01-27",
+          "size": 95239142,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Enmity-2.2.6-213.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-209.0",
+          "date": "2023-12-21",
+          "size": 94971519,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Enmity-2.2.6-209.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-207.0",
+          "date": "2023-12-10",
+          "size": 94194608,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-206.0",
+          "date": "2023-12-03",
+          "size": 97983202,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6",
+          "date": "2023-11-05",
+          "size": 100528562,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-195.0",
+          "date": "2023-09-14",
+          "size": 108435829,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-194.0",
+          "date": "2023-09-08",
+          "size": 103897880,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-190.0",
+          "date": "2023-08-17",
+          "size": 96341212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-184.0",
+          "date": "2023-07-04",
+          "size": 99992444,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-180.0",
+          "date": "2023-06-04",
+          "size": 98676455,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-177.1",
+          "date": "2023-05-15",
+          "size": 90036977,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "177.1",
+          "date": "2023-05-10",
+          "size": 95348126,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.5-176.0",
+          "date": "2023-05-06",
+          "size": 89066297,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.5-175.0",
+          "date": "2023-04-19",
+          "size": 87875691,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-158.0",
+          "date": "2022-12-22",
+          "size": 134818918,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-155.0",
+          "date": "2022-11-29",
+          "size": 79750354,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-153.0",
+          "date": "2022-11-10",
+          "size": 78691336,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 76682774,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "developerName": "alfiecg24",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.Alfie.TrollInstallerX.png",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2024-09-13",
+          "size": 6889214,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-13-2024/TrollInstallerX-1.0.3.ipa",
+          "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1\nLast updated: 09-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.2",
+          "date": "2024-04-09",
+          "size": 6888282,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/TrollInstallerX-1.0.2.ipa",
+          "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1\nLast updated: 09-13-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
@@ -3487,98 +3749,98 @@
           "date": "2024-09-07",
           "size": 115153396,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/Pyoncord-245.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "244.0",
           "date": "2024-08-28",
           "size": 115088844,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2024/Pyoncord-244.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "241.0",
           "date": "2024-08-11",
           "size": 106140259,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/Pyoncord-241.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "237.0",
           "date": "2024-07-17",
           "size": 114323285,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2024/Pyoncord-237.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "236.1",
           "date": "2024-07-10",
           "size": 111183290,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/Pyoncord-236.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "236.0",
           "date": "2024-07-06",
           "size": 111183311,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/Pyoncord-236.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "235.0",
           "date": "2024-06-27",
           "size": 112173273,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/Pyoncord-235.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "231.1",
           "date": "2024-06-02",
           "size": 100870252,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Pyoncord-231.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "231.0",
           "date": "2024-05-29",
           "size": 100860996,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2024/Pyoncord-231.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "230.0",
           "date": "2024-05-21",
           "size": 99218413,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/Pyoncord-230.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "229.0",
           "date": "2024-05-16",
           "size": 99348048,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-16-2024/Pyoncord-229.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "228.1",
           "date": "2024-05-08",
           "size": 99427351,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/Pyoncord-228.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "224.0",
           "date": "2024-04-15",
           "size": 96853734,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/Pyoncord-224.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         },
         {
           "version": "223.0",
           "date": "2024-04-12",
           "size": 106082919,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u2705 \ud83d\udd35 \ud83d\udc4d"
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is. Note: Expect occasional crashes since the tweak is becoming outdated and barely supports newer Discord updates.\nLast updated: 09-07-2024\nStatus: \u274c \ud83d\udd35 \ud83d\udc4d"
         }
       ]
     },
@@ -11162,182 +11424,6 @@
       ]
     },
     {
-      "name": "Enmity",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "2.2.6-240.0",
-          "date": "2024-08-11",
-          "size": 117875524,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/Enmity-2.2.6-240.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-236.0",
-          "date": "2024-07-06",
-          "size": 114805387,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/Enmity-2.2.6-236.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-234.0",
-          "date": "2024-06-27",
-          "size": 110987837,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/Enmity-2.2.6-234.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-231.1",
-          "date": "2024-06-06",
-          "size": 104499137,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-06-2024/Enmity-2.2.6-231.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-218",
-          "date": "2024-03-07",
-          "size": 96424709,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Enmity-2.2.6-218.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-216",
-          "date": "2024-02-14",
-          "size": 94889337,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Enmity-2.2.6-216.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-213.1",
-          "date": "2024-01-27",
-          "size": 95239142,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Enmity-2.2.6-213.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-209.0",
-          "date": "2023-12-21",
-          "size": 94971519,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Enmity-2.2.6-209.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-207.0",
-          "date": "2023-12-10",
-          "size": 94194608,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-206.0",
-          "date": "2023-12-03",
-          "size": 97983202,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6",
-          "date": "2023-11-05",
-          "size": 100528562,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-195.0",
-          "date": "2023-09-14",
-          "size": 108435829,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-194.0",
-          "date": "2023-09-08",
-          "size": 103897880,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-190.0",
-          "date": "2023-08-17",
-          "size": 96341212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-184.0",
-          "date": "2023-07-04",
-          "size": 99992444,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-180.0",
-          "date": "2023-06-04",
-          "size": 98676455,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-177.1",
-          "date": "2023-05-15",
-          "size": 90036977,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "177.1",
-          "date": "2023-05-10",
-          "size": 95348126,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.5-176.0",
-          "date": "2023-05-06",
-          "size": 89066297,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.5-175.0",
-          "date": "2023-04-19",
-          "size": 87875691,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1.4-158.0",
-          "date": "2022-12-22",
-          "size": 134818918,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1.4-155.0",
-          "date": "2022-11-29",
-          "size": 79750354,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1.4-153.0",
-          "date": "2022-11-10",
-          "size": 78691336,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 76682774,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "KleinanzeigenPlus",
       "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
       "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
@@ -13238,56 +13324,6 @@
           "size": 17470144,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/InkhunterPremium-3.0.4.ipa",
           "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "AdobeAcrobatReaderPremium",
-      "bundleIdentifier": "com.adobe.Adobe-Reader",
-      "developerName": "binnichtaktiv's iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png",
-      "versions": [
-        {
-          "version": "24.07.00",
-          "date": "2024-07-13",
-          "size": 166062873,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/AdobeAcrobatReaderPremium-24.07.00.ipa",
-          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "24.05.02",
-          "date": "2024-07-11",
-          "size": 169003289,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AdobeAcrobatReaderPremium-24.05.02.ipa",
-          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "24.04.61",
-          "date": "2024-06-05",
-          "size": 160111420,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/AdobeAcrobatReaderPremium-24.04.61.ipa",
-          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "24.04.51",
-          "date": "2024-05-13",
-          "size": 163110773,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/AdobeAcrobatReaderPremium-24.04.51.ipa",
-          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "24.04.00",
-          "date": "2024-04-18",
-          "size": 159172590,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/AdobeAcrobatReaderPremium-24.04.00.ipa",
-          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "24.02.02",
-          "date": "2024-03-28",
-          "size": 161126318,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/AdobeAcrobatReaderPremium-24.02.02.ipa",
-          "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -15530,21 +15566,6 @@
           "size": 17586984,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2024/TabataTimerPremium-5.1.14.ipa",
           "localizedDescription": "App for both beginners and advanced users, offers a user-friendly interface for simple one-click workout starts and customizable options for tailored fitness routines. A user requested it so here it is.\nLast updated: 04-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TrollInstallerX",
-      "bundleIdentifier": "com.Alfie.TrollInstallerX",
-      "developerName": "alfiecg24",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.Alfie.TrollInstallerX.png",
-      "versions": [
-        {
-          "version": "1.0.2",
-          "date": "2024-04-09",
-          "size": 6888282,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/TrollInstallerX-1.0.2.ipa",
-          "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1\nLast updated: 04-09-2024\nStatus: \u2705"
         }
       ]
     },
