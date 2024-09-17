@@ -48,6 +48,8 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 **(10-17-2024)** I have been informed that a collaborator's account has been nuked. All releases by that user have been deleted from the repo, which sets everything back to somewhere in 2023. *Expect everything to be broken for a while. I am working on it.* I am not sure what the state of backups are for the releases page, but there is a chance a lot of IPAs will no longer have a current release. If you still have yours downloaded, feel free to upload and link them so we can have more recent versions of all apps again. I appreciate you all saving the repo on the Wayback Machine, but unfortunately the download links were not saved along with the releases page. A valiant (but unfortunate) effort by everyone that tried. 
 
+---
+
 **(09-08-24) - Now** Certain sources, like **[binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas)**, have been found to inject **intrusive ads into some IPAs** uploaded to the repository. These IPAs will be removed and re-uploaded. I sincerely apologize for this issue. *(This announcement is temporary)*
 
 ---
