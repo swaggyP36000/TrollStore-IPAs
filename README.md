@@ -46,7 +46,11 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-**(10-17-2024)** I have been informed that a collaborator's account has been nuked. All releases by that user have been deleted from the repo, which sets everything back to somewhere in 2023. *Expect everything to be broken for a while. I am working on it.* I am not sure what the state of backups are for the releases page, but there is a chance a lot of IPAs will no longer have a current release. If you still have yours downloaded, feel free to upload and link them so we can have more recent versions of all apps again. I appreciate you all saving the repo on the Wayback Machine, but unfortunately the download links were not saved along with the releases page. A valiant (but unfortunate) effort by everyone that tried. 
+**(04-07-2025)** - As of [my post on r/sideloaded](https://www.reddit.com/r/sideloaded/comments/1fisjj3/announcement_the_eol_of_trollstoreipas/), and follow-up comment [here](https://www.reddit.com/r/sideloaded/comments/1hz5dig/comment/m6nho72/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), this library is EOL. I don't personally endorse any forks/duplicates of this repo on GitHub. If you want safe places to get apps that mostly work with TrollStore, plaese refer to the Original Tweak/Maintainer column in the chart below.
+
+---
+
+**(10-17-2024)** - I have been informed that a collaborator's account has been nuked. All releases by that user have been deleted from the repo, which sets everything back to somewhere in 2023. *Expect everything to be broken for a while. I am working on it.* I am not sure what the state of backups are for the releases page, but there is a chance a lot of IPAs will no longer have a current release. If you still have yours downloaded, feel free to upload and link them so we can have more recent versions of all apps again. I appreciate you all saving the repo on the Wayback Machine, but unfortunately the download links were not saved along with the releases page. A valiant (but unfortunate) effort by everyone that tried. 
 
 ---
 
